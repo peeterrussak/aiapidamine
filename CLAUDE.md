@@ -1,0 +1,105 @@
+# CLAUDE.md
+
+Juhised AI assistendile selle projekti kohta.
+
+## Projekti ülevaade
+
+See on eestikeelne aiapidamise teadmusbaas kaevamisvaba (no-dig) aia jaoks Eestis.
+
+## Struktuur
+
+```
+aiapidamine/
+├── köögiviljad/
+│   └── köögiviljade-plaan.md    # Peamine köögiviljade fail (~1500 rida)
+├── maasikad/
+│   └── maasikate-hooldus.md     # Maasikate hooldusplaan
+├── kasvuhoone/
+│   └── kasvuhoone-plaan.md      # Kasvuhoone kultuurid (kurk, tomat, arbuus)
+├── vaarikad/
+│   └── vaarikate-hooldus.md     # Vaarikate hooldus
+└── kuslapuud/
+    └── kuslapuude-hooldus.md    # Kuslapuude hooldus
+```
+
+## Aia parameetrid
+
+- **Tüüp:** Kaevamisvaba (no-dig)
+- **Peenrad:** 4 tk, igaüks 1 × 9 m
+- **Peenarde vahe:** 60 cm
+- **Asukoht:** Eesti
+
+## 2026 peenarde jaotus
+
+| Peenar | Kultuurid |
+|--------|-----------|
+| P1 | Maasikad + küüslauk + kurgiruhi |
+| P2 | Maavitsalised (tomat, tšilli, füüsalis) |
+| P3 | Liblikõielised + juurviljad (herned, oad, porgand, sibul, porru) |
+| P4 | Kõrvitsalised (kurk, suvikõrvits, patisson) |
+
+**Eraldi alad:**
+- Kasvuhoone (kurk 'Suyu Long', tomatid, arbuus)
+- Kartul 'Solist' (eraldi ala, jaanipäevaks)
+- Marjapõõsad (vaarikad, kuslapuud)
+
+## Keelelised konventsioonid
+
+Kasuta korrektseid eestikeelseid botaanilisi termineid:
+
+| Õige | Vale | Ladina |
+|------|------|--------|
+| Maavitsalised | ~~Ööviljalaadsed~~ | Solanaceae |
+| Laugud | ~~Sibulalised~~ | Allium |
+| Kõrvitsalised | – | Cucurbitaceae |
+| Liblikõielised | – | Fabaceae |
+
+### "Uba" käänamine
+
+| Kääne | Ainsus | Mitmus |
+|-------|--------|--------|
+| Nimetav | uba | oad |
+| Omastav | oa | **ubade** (mitte ~~oade~~) |
+| Osastav | uba | ube |
+
+## Testitud sordid 2025
+
+### Head sordid (jätkata)
+
+| Kultuur | Sordid |
+|---------|--------|
+| Tomat | 'Malle', 'Pille', 'Erk F1' |
+| Maasikas | 'Asia' |
+| Hernes | 'Looming', 'Aamisepp' |
+| Kurk (KH) | 'Suyu Long' |
+| Suvikõrvits | 'Black Beauty' |
+| Patisson | 'Disco' |
+| Küüslauk | Eesti sort |
+
+### Probleemid 2025
+
+- **Sibul:** 'Stuttgarter' segusort ei kasvanud → proovi 'Sturon' või 'Hercules'
+- **Tomat:** Viinamarjatüüpi sordid ei toiminud
+- **Arbuus:** Avamaal riskantne → kasvuhoonesse
+
+## Failide redigeerimine
+
+- Kõik failid on Markdown formaadis
+- Kasuta eesti keelt
+- Ära lisa emotikone, v.a ⭐ heade sortide märkimiseks ja ⚠️ hoiatuste jaoks
+- Tabelid on levinud – kasuta neid info struktureerimiseks
+- Kontrollnimekirjad kasutavad `- [ ]` formaati
+
+## Hooajaline kontekst
+
+- **Kevad:** märts–mai (ettekasvatamine, istutamine)
+- **Suvi:** juuni–august (hooldus, saak)
+- **Sügis:** september–november (koristamine, ettevalmistus talveks)
+- **Talv:** detsember–veebruar (puhkeaeg, planeerimine)
+
+## Viited failide vahel
+
+Kasuta suhtelisi linke:
+```markdown
+Vt [maasikate-hooldus.md](../maasikad/maasikate-hooldus.md)
+```
