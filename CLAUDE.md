@@ -10,6 +10,7 @@ See on eestikeelne aiapidamise teadmusbaas kaevamisvaba (no-dig) aia jaoks Eesti
 
 ```
 aiapidamine/
+├── hooajaline-kalender.md       # Aastaringne tööde kalender kuude kaupa
 ├── köögiviljad/
 │   └── köögiviljade-plaan.md    # Peamine köögiviljade fail (~1500 rida)
 ├── maasikad/
@@ -18,8 +19,12 @@ aiapidamine/
 │   └── kasvuhoone-plaan.md      # Kasvuhoone kultuurid (kurk, tomat, arbuus)
 ├── vaarikad/
 │   └── vaarikate-hooldus.md     # Vaarikate hooldus
-└── kuslapuud/
-    └── kuslapuude-hooldus.md    # Kuslapuude hooldus
+├── kuslapuud/
+│   └── kuslapuude-hooldus.md    # Kuslapuude hooldus
+├── sõstrad/
+│   └── sõstarde-hooldus.md      # Sõstarde hooldus (must, punane, valge)
+└── õunapuud/
+    └── õunapuude-hooldus.md     # Õunapuude hooldus ja lõikus
 ```
 
 ## Aia parameetrid
@@ -27,7 +32,7 @@ aiapidamine/
 - **Tüüp:** Kaevamisvaba (no-dig)
 - **Peenrad:** 4 tk, igaüks 1 × 9 m
 - **Peenarde vahe:** 60 cm
-- **Asukoht:** Eesti
+- **Asukoht:** Rõngu, Lõuna-Eesti (külmavöönd ~6a)
 
 ## 2026 peenarde jaotus
 

@@ -327,7 +327,7 @@ Kartul on klassikaline Eesti aiakultur, mis sobib hästi kaevamisvaba aia süste
 
 | Etapp | Aeg | Kestus |
 |-------|-----|--------|
-| Eeidandamine | Märtsi algus | 2–3 nädalat |
+| Eelidandamine | Märtsi algus | 2–3 nädalat |
 | Juurdumisaeg | Märtsi keskpaik | 3–4 nädalat |
 | Mahapanekuks valmis | Aprilli lõpp – mai algus | – |
 | Kasvuaeg mullas | 52–67 päeva | – |
@@ -335,7 +335,7 @@ Kartul on klassikaline Eesti aiakultur, mis sobib hästi kaevamisvaba aia süste
 
 **Samm-sammult juhend:**
 
-#### 1. Eeidandamine (märtsi algus)
+#### 1. Eelidandamine (märtsi algus)
 
 ```
 ┌─────────────────────────────────────────┐
@@ -990,7 +990,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 | Nädal | Kultuur | Tegevus |
 |-------|---------|---------|
-| 1. nädal | **Kartul 'Solist'** | **Eeidandamine** (turbamullas, valge, <20°C) |
+| 1. nädal | **Kartul 'Solist'** | **Eelidandamine** (turbamullas, valge, <20°C) |
 | 1.–2. nädal | **Porru** | Ettekasvatuse algus (külvikasti) |
 | 2.–3. nädal | Tomat | Külv, 20–22°C |
 | 2.–3. nädal | Füüsalis | Külv (nagu tomat) |
@@ -1177,7 +1177,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 ### Märts
 
-- [ ] **Kartuli 'Solist' eeidandamine** (1. nädal) – turbamullas, valge, <20°C
+- [ ] **Kartuli 'Solist' eelidandamine** (1. nädal) – turbamullas, valge, <20°C
 - [ ] **Porru ettekasvatuse algus** (1.–2. nädal)
 - [ ] Tomatite ja füüsalise külv (2.–3. nädal)
 - [ ] Kartul jahedamasse, lase juurduda (3. nädal)
