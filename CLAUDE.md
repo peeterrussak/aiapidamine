@@ -39,7 +39,7 @@ aiapidamine/
 | Peenar | Kultuurid |
 |--------|-----------|
 | P1 | Maasikad + küüslauk + kurgiruhi |
-| P2 | Maavitsalised (tomat, tšilli, füüsalis) |
+| P2 | Maavitsalised (tomat, tšilli, füüsal) |
 | P3 | Liblikõielised + juurviljad (herned, oad, porgand, sibul, porru) |
 | P4 | Kõrvitsalised (kurk, suvikõrvits, patisson) |
 

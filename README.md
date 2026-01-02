@@ -27,7 +27,7 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 
 ```
 P1: Maasikad + küüslauk
-P2: Maavitsalised (tomat, tšilli, füüsalis)
+P2: Maavitsalised (tomat, tšilli, füüsal)
 P3: Liblikõielised + juurviljad (herned, oad, porgand, sibul)
 P4: Kõrvitsalised (kurk, suvikõrvits, patisson)
 ```

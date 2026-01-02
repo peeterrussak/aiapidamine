@@ -23,7 +23,7 @@
                               60 cm vahe
 ┌─────────────────────────────────────────────────────────────────┐
 │                     PEENAR 2: MAAVITSALISED                     │
-│      Tomatid + tšilli + füüsalis + basiilikus + nõgeseleht      │
+│      Tomatid + tšilli + füüsal + basiilikus + nõgeseleht      │
 └─────────────────────────────────────────────────────────────────┘
                               60 cm vahe
 ┌─────────────────────────────────────────────────────────────────┐
@@ -55,7 +55,7 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiruh
 |---------|-------|-------------------|--------|------|
 | Tomat | 5–6 taime | 50–60 cm | 1–2 m | Vaiad/puurid |
 | Tšilli | 3–4 taime | 40–50 cm | 40–80 cm | Kerge tugi |
-| Füüsalis | 2–3 taime | 60–80 cm | 1–1,5 m | Vaiad |
+| Füüsal | 2–3 taime | 60–80 cm | 1–1,5 m | Vaiad |
 
 ### Tomatisordid
 
@@ -105,7 +105,7 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiruh
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│ Füüsalis │    T    │    T    │    T    │    T    │    T    │ Tšilli │
+│ Füüsal │    T    │    T    │    T    │    T    │    T    │ Tšilli │
 │  (2 tk)  │         │         │         │         │         │ (3-4tk)│
 │          │  Tomat  │  Tomat  │  Tomat  │  Tomat  │  Tomat  │        │
 │  80 cm   │◄──60cm──►◄──60cm──►◄──60cm──►◄──60cm──►◄──60cm──►│  50 cm │
@@ -138,7 +138,7 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiruh
 | Kuu | Tegevus |
 |-----|---------|
 | Veebruar lõpp | Tšilli ettekasvatuse algus |
-| Märts keskpaik | Tomati ja füüsalise ettekasvatuse algus |
+| Märts keskpaik | Tomati ja füüsale ettekasvatuse algus |
 | Aprill | Istikud suuremates pottides, karastamine |
 | Mai lõpp | Karastamine õues (päeval) |
 | Juuni algus | **Istutamine õue** (pärast öökülma ohtu) |
@@ -835,7 +835,7 @@ VARIANT B: Eraldi ala peenras 4
 ```
 PEENAR 2 (ööviljalaadsed):
 ┌─────────────────────────────────────────────────────────────────┐
-│ Füüsalis │ Tomat │ Tomat │ Tomat │ Tomat │ Tomat │ Tšilli │ Pune │
+│ Füüsal │ Tomat │ Tomat │ Tomat │ Tomat │ Tomat │ Tšilli │ Pune │
 │          │  🌿   │  🌿   │  🌿   │  🌿   │  🌿   │        │(serv)│
 │          │ basi- │ basi- │ basi- │ basi- │ basi- │        │      │
 │          │ likus │ likus │ likus │ likus │ likus │        │      │
@@ -993,7 +993,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | 1. nädal | **Kartul 'Solist'** | **Eelidandamine** (turbamullas, valge, <20°C) |
 | 1.–2. nädal | **Porru** | Ettekasvatuse algus (külvikasti) |
 | 2.–3. nädal | Tomat | Külv, 20–22°C |
-| 2.–3. nädal | Füüsalis | Külv (nagu tomat) |
+| 2.–3. nädal | Füüsal | Külv (nagu tomat) |
 | 3. nädal | Kartul | Tõsta jahedamasse, lase juurduda |
 | 4. nädal | Tšilli | Ümber potimine 9 cm pottidesse |
 
@@ -1010,7 +1010,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | 2.–3. nädal | **Porgand** | **Otse peenrasse** (muld min 7°C) |
 | 2.–3. nädal | **Basiilikus** | Ettekasvatamine (soe, 20–22°C) |
 | 2.–3. nädal | **Petersell** | Ettekasvatamine (või mai otse) |
-| 2.–3. nädal | Tomat, füüsalis | Ümber potimine suurematesse |
+| 2.–3. nädal | Tomat, füüsal | Ümber potimine suurematesse |
 | 2.–3. nädal | Salat | Esimene külv (otse või ettekasv.) |
 | 3. nädal | **Kartul** | Maa ettevalmistamine (must kile + katteloor) |
 | 3.–4. nädal | Päevalill | Ettekasvatamine (2–3 seemet potti) |
@@ -1033,7 +1033,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 | Nädal | Kultuur | Tegevus |
 |-------|---------|---------|
-| 1. nädal | Tomat, tšilli, füüsalis | **Istutamine õue** (pärast öökülmi) |
+| 1. nädal | Tomat, tšilli, füüsal | **Istutamine õue** (pärast öökülmi) |
 | 1. nädal | **Basiilikus** | **Istutamine õue** (tomatite vahele) |
 | 1.–2. nädal | Kurk | **Istutamine õue** (soe muld, min 15°C) |
 | 1. nädal | Aedoad | Toe paigaldamine ronivatele |
@@ -1049,7 +1049,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 |---------|---------------------|------------------|--------|-------------|
 | Tomat | 20–25°C | 18–22°C | Palju | 7–14 päeva |
 | Tšilli | 22–28°C | 20–25°C | Palju | 14–21 päeva |
-| Füüsalis | 20–25°C | 18–22°C | Palju | 10–14 päeva |
+| Füüsal | 20–25°C | 18–22°C | Palju | 10–14 päeva |
 | Kurk | 22–28°C | 20–25°C | Palju | 5–7 päeva |
 | Päevalill | 18–22°C | 15–20°C | Palju | 7–14 päeva |
 | Salat | 15–20°C | 15–18°C | Keskmine | 5–10 päeva |
@@ -1058,7 +1058,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 | Vahend | Milleks |
 |--------|---------|
-| Külvikastid / potid | Tomatid, tšilli, füüsalis |
+| Külvikastid / potid | Tomatid, tšilli, füüsal |
 | 9 cm potid | Ümber potimine |
 | Külvimurd / turvas | Kerge, toitainevaene segu |
 | Taimimuld | Suurematesse pottidesse |
@@ -1090,7 +1090,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | Kultuur | Vajadus | Väetamine |
 |---------|---------|-----------|
 | Tomatid, kurgid, tšilli | Kõrge | Nõgesevesi / sõnnikuvesi iga 2 nädala järel juulist |
-| Füüsalis | Keskmine | Harvem kui tomatid |
+| Füüsal | Keskmine | Harvem kui tomatid |
 | Herned | Madal | Ei vaja (seovad ise lämmastikku) |
 | Salatid | Madal–keskmine | Kompost piisab |
 
@@ -1134,7 +1134,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 | Grupp | Kultuurid | Järgneb hästi | 2026 peenar |
 |-------|-----------|---------------|-------------|
-| Maavitsalised | Tomat, tšilli, füüsalis | Pärast herneid/ube (lämmastik!) | Peenar 2 |
+| Maavitsalised | Tomat, tšilli, füüsal | Pärast herneid/ube (lämmastik!) | Peenar 2 |
 | Liblikõielised + juurviljad | Herned, oad, porgand, sibul | Pärast kõrvitsalisi | Peenar 3 |
 | Kõrvitsalised | Kurk, suvikõrvits, patisson | Pärast kartuleid | Peenar 4 |
 | Lehelised | Salatid, spinat | Järelkülv pärast herneid | Peenar 3 (juulist) |
@@ -1179,7 +1179,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 - [ ] **Kartuli 'Solist' eelidandamine** (1. nädal) – turbamullas, valge, <20°C
 - [ ] **Porru ettekasvatuse algus** (1.–2. nädal)
-- [ ] Tomatite ja füüsalise külv (2.–3. nädal)
+- [ ] Tomatite ja füüsale külv (2.–3. nädal)
 - [ ] Kartul jahedamasse, lase juurduda (3. nädal)
 - [ ] Tšilli ümberpotimine (4. nädal)
 - [ ] Seemnete hankimine (kui puudu)
@@ -1198,7 +1198,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 - [ ] **Basiiliku ettekasvatamine** (2.–3. nädal) → P2 jaoks
 - [ ] **Peterselli ettekasvatamine** (2.–3. nädal)
 - [ ] **Pune istutamine/jagamine** (1.–2. nädal) → serv
-- [ ] Tomatite ja füüsalise ümberpotimine → P2 jaoks
+- [ ] Tomatite ja füüsale ümberpotimine → P2 jaoks
 - [ ] Salatite esimene külv → P3
 - [ ] Päevalillede ettekasvatamine → P4 jaoks
 - [ ] Komposti lisamine peenardele (kui pole talvel lisatud)
@@ -1217,7 +1217,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 ### Juuni
 
-- [ ] Tomatite, tšilli, füüsalise istutamine (1. nädal, pärast öökülmi) → P2
+- [ ] Tomatite, tšilli, füüsale istutamine (1. nädal, pärast öökülmi) → P2
 - [ ] **Basiiliku istutamine** tomatite vahele (1. nädal) → P2
 - [ ] Kurgi ja **kõrvitsaliste istutamine** (1.–2. nädal) → P4
 - [ ] Tugede paigaldamine (tomatid, herned, ronivad oad) → P2, P3
@@ -1250,7 +1250,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 ### September
 
 - [ ] Tomatite lõplik koristamine (enne öökülmi) → P2
-- [ ] Tšilli ja füüsalise koristamine → P2
+- [ ] Tšilli ja füüsale koristamine → P2
 - [ ] Basiiliku koristamine enne külmi → P2
 - [ ] Porru koristamise algus → P3
 - [ ] Porgandite koristamine → P3
@@ -1289,7 +1289,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | Tomat (olemas) | 'Pokusa', 'Moneymaker', 'S. Pierre', 'Zuckertraube' | – | P2 |
 | Tomat (proovida) | 'San Marzano 2' (pastak), 'Ananass' (suur) | 1–2 pakki | P2 |
 | Tšilli | **'Jalapeño'** ⭐ | 1 pakk | P2 |
-| Füüsalis | Ananassfüüsalis / maafüüsalis | 1 pakk | P2 |
+| Füüsal | Ananassfüüsal / maafüüsal | 1 pakk | P2 |
 | Basiilikus | 'Genovese', 'Thai', 'Lemon' | 1–2 pakki | P2 |
 | **P3: Herned + juurviljad** ||||
 | Herned | **'Looming'** ⭐, **'Aamisepp'** | 50–100 g | P3 |
@@ -1449,7 +1449,7 @@ Meelita need aeda ja nad aitavad kahjureid kontrolli all hoida:
 **PORRU:**
 - Istutatud 25. mai
 
-**FÜÜSALIS:**
+**FÜÜSAL:**
 - Istutatud 29. mai
 
 **MUUD KULTUURID:**
@@ -1464,7 +1464,7 @@ Meelita need aeda ja nad aitavad kahjureid kontrolli all hoida:
 |---------|---------|
 | 18. mai | Varajane kartul maha (Solist, Annagrete) |
 | 25. mai | Kurgid kasvuhoonesse, porru peenrale |
-| 29. mai | Füüsalis välja, porgandi ja salati külv, arbuus, till |
+| 29. mai | Füüsal välja, porgandi ja salati külv, arbuus, till |
 | 13. juuni | Kõrvitsad, kurgid, viimased tomatid ja tšillid peenrale |
 | 13.–20. juuli | Maasikate tippaeg ⭐ |
 | 18. juuli | Maasikad VÄGA suured (Asia jt) |

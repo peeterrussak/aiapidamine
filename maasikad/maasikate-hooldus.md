@@ -91,11 +91,11 @@ Maasikate vahel kasvatatakse kasulikke kaaslaskultuure, mis peletavad kahjureid,
 ```
 ●───küüslauk───●───küüslauk───●───küüslauk───●
       ↓              ↓              ↓
-●─maasik─●─maasik─●─maasik─●─maasik─●─maasik─●
-      ↓              ↓              ↓
+●─maasikas─●─maasikas─●─maasikas─●─maasikas─●─maasikas─●
+      ↓                ↓                ↓
 ●───küüslauk───●───küüslauk───●───küüslauk───●
-      ↓              ↓              ↓
-●─maasik─●─maasik─●─maasik─●─maasik─●─maasik─●
+      ↓                ↓                ↓
+●─maasikas─●─maasikas─●─maasikas─●─maasikas─●─maasikas─●
 ```
 
 **NB:** Koristamisaeg langeb kokku hiliste maasikasortide (Faith) valmimisega – ole ettevaatlik, et marju maha ei tallaks!

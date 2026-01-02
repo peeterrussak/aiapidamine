@@ -51,7 +51,7 @@ Rõngu, Lõuna-Eesti (külmavöönd ~6a)
 | 1. nädal | **Kartul 'Solist'** | Eelidandamine (turbamullas, valge, <20°C) |
 | 1.–2. nädal | **Porru** | Ettekasvatuse algus (külvikasti) |
 | 2.–3. nädal | **Tomat** | Külv, 20–22°C |
-| 2.–3. nädal | **Füüsalis** | Külv (nagu tomat) |
+| 2.–3. nädal | **Füüsal** | Külv (nagu tomat) |
 | 3. nädal | Kartul | Tõsta jahedamasse, lase juurduda |
 | 4. nädal | Tšilli | Ümberpotimine 9 cm pottidesse |
 
@@ -118,7 +118,7 @@ Rõngu, Lõuna-Eesti (külmavöönd ~6a)
 |-------|---------|---------|
 | 2.–3. nädal | **Basiilikus** | Ettekasvatamine (soe, 20–22°C) |
 | 2.–3. nädal | **Petersell** | Ettekasvatamine (või mai otse) |
-| 2.–3. nädal | Tomat, füüsalis | Ümberpotimine suurematesse |
+| 2.–3. nädal | Tomat, füüsal | Ümberpotimine suurematesse |
 
 ### Kartul 'Solist' (jaanipäevaks!)
 - [ ] **3. nädal:** Maa ettevalmistamine (must kile + katteloor)
@@ -197,7 +197,7 @@ Rõngu, Lõuna-Eesti (külmavöönd ~6a)
 |---------|--------|----------|
 | **Tomat** | P2 | Vaiad paigaldada |
 | **Tšilli** | P2 | Kerge tugi |
-| **Füüsalis** | P2 | Vaiad |
+| **Füüsal** | P2 | Vaiad |
 | **Basiilikus** | P2 | Tomatite vahele |
 | **Kurk** | P4 | Soe muld min 15°C |
 | **Suvikõrvits** | P4 | 80–100 cm vahe |
@@ -348,7 +348,7 @@ Honeoye → Sonsation → Asia → Faith
 |---------|--------|----------|
 | **Tomatid** | P2 | Lõplik koristamine enne öökülmi |
 | **Tšilli** | P2 | Koristamine |
-| **Füüsalis** | P2 | Koristamine |
+| **Füüsal** | P2 | Koristamine |
 | **Basiilikus** | P2 | Kogu saak enne külmi |
 | **Porru** | P3 | Koristamise algus |
 | **Porgand** | P3 | Koristamine |
@@ -492,7 +492,7 @@ Kartul (Solist)                                         ██
 |---------|----------|---------------|-------------------|----------------|
 | Tšilli | Jaan lõpp – veebr | 22–28°C | 10–12 nädalat | Juuni algus |
 | Tomat | Märts keskpaik | 20–25°C | 6–8 nädalat | Juuni algus |
-| Füüsalis | Märts keskpaik | 20–25°C | 6–8 nädalat | Juuni algus |
+| Füüsal | Märts keskpaik | 20–25°C | 6–8 nädalat | Juuni algus |
 | Porru | Märts algus | 15–20°C | 10–12 nädalat | Mai keskpaik |
 | Basiilikus | Aprill | 20–22°C | 6–8 nädalat | Juuni algus |
 | Kurk | Mai algus | 22–28°C | 3–4 nädalat | Juuni algus |
