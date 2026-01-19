@@ -31,6 +31,8 @@ aiapidamine/
 │   └── küüslaugu-hooldus.md     # Küüslaugu sordid ja kasvatamine
 ├── maitsetaimed/
 │   └── maitsetaimede-hooldus.md # Maitsetaimed (basiilik, till, pune, salvei jt)
+├── rabarber/
+│   └── rabarberi-hooldus.md     # Rabarberi hooldus (sordid, korjamine, jagamine)
 ├── maasikad/
 │   └── maasikate-hooldus.md     # Maasikate hooldusplaan
 ├── kasvuhoone/

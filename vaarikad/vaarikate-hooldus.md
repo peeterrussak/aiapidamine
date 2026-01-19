@@ -1,14 +1,16 @@
-# Vaarikate hooldusplaan
+# Vaarikate ja pamplede hooldusplaan
+
+Selles failis: vaarikad (Rubus idaeus), must aedpampel (R. occidentalis) ja pampel/aedmurakas (R. fruticosus).
 
 ## Sordid
 
 ### Praegused sordid
 
-| Sort | Tüüp | Viljumine | Marja värv | Märkused |
-|------|------|-----------|------------|----------|
-| **Glen Ample** | Suvikandev | Juuli | Punane | Šoti sort, suur mari, ogadeta! |
-| **Glen Dee** | Suvikandev | Juuli–august | Punane | Šoti sort, hiline, magus |
-| **Aedpampel (must)** | Suvikandev | Juuli | Must | Intensiivne maitse, väiksem mari |
+| Sort | Liik | Tüüp | Viljumine | Marja värv | Märkused |
+|------|------|------|-----------|------------|----------|
+| **Glen Ample** | Vaarikas | Suvikandev | Juuli | Punane | Šoti sort, suur mari, ogadeta! |
+| **Glen Dee** | Vaarikas | Suvikandev | Juuli–august | Punane | Šoti sort, hiline, magus |
+| **Must aedpampel** | R. occidentalis | Suvikandev | Juuli | Must | Intensiivne maitse, väiksem mari |
 
 ### Soovitatud sügiskandvad sordid ⭐
 
@@ -111,6 +113,136 @@ Soovitatud: 'Polka', 'Poranna Rosa', 'Delniwa'
 **Eripärad:**
 - Võib olla invasiivne (juurduvad tipud)
 - Lõika maad puudutavad tipud ära, kui ei taha levikut
+
+---
+
+## Pampel / Aedmurakas (Rubus fruticosus)
+
+**NB:** Ära aja segamini musta aedpampliga (R. occidentalis)! Need on erinevad liigid:
+
+| Tunnus | Pampel / Aedmurakas | Must aedpampel |
+|--------|---------------------|----------------|
+| **Ladina nimi** | Rubus fruticosus | Rubus occidentalis |
+| **Inglise nimi** | Blackberry | Black raspberry |
+| **Päritolu** | Euroopa | Põhja-Ameerika |
+| **Marjad** | Suured, mustad, läikivad | Väiksemad, matid, tumesinised |
+| **Korjamisel** | Mari koos valge südamikuga | Mari ilma südamikuta (õõnes) |
+| **Paljundamine** | Tippude juurdumine | Tippude juurdumine |
+
+### Sordid ⭐
+
+**Ogadeta sordid (soovitatud):**
+
+| Sort | Marja suurus | Valmimisaeg | Külmakindlus | Märkused |
+|------|--------------|-------------|--------------|----------|
+| **'Thornfree'** ⭐ | Suur (5–7 g) | August–september | -25°C | Kõige levinum, tõestatud Eesti kliimas |
+| **'Polar Berry'** ⭐ | Suur | August | -30°C | Eriti külmakindel, Poola aretis |
+| **'Thornless Evergreen'** | Keskmine–suur | Hiline (sept) | -20°C | Pool-igihaljad lehed, vajab kaitset |
+| **'Black Satin'** | Väga suur | August | -22°C | Tugev kasv, vajab ruumi |
+| **'Tiny Black'** | Väike | August | -25°C | Kompaktne, sobib ka potti |
+
+**Ogadega sordid (suurem saak, aga ebamugavam korjata):**
+
+| Sort | Marja suurus | Märkused |
+|------|--------------|----------|
+| **'Agawam'** | Keskmine | Vana Ameerika sort, külmakindel |
+| **'Darrow'** | Suur | Magus, hea maitse |
+
+### Istutamine
+
+- **Aeg:** Kevad (aprill–mai) või sügis (september–oktoober)
+- **Koht:** Päikeseline kuni poolvarjuline
+- **Muld:** Kerge, hea drenaažiga, pH 5,7–6,5
+- **Istutuskaugus:** 1–1,5 m ridades, ridadevahe 2–2,5 m
+- **Istutussügavus:** Sama mis konteineris
+
+```
+Istutus:
+                1–1,5 m
+         ←───────────────→
+    ┌─────┐           ┌─────┐
+    │  P  │           │  P  │
+    └─────┘           └─────┘
+```
+
+### Tugikonstruktsioon
+
+Pampel vajab tugevamat tuge kui vaarikas – võrsed kasvavad 2–4 m pikaks!
+
+**T-tugi või traattara:**
+- Postid 2,5 m kõrgused
+- Traadid: 60 cm, 120 cm, 180 cm kõrgusel
+- Võrsed seotakse või põimitakse traatide vahele
+
+### Hooldus
+
+**Kastmine:**
+- Regulaarne, eriti marjade valmimise ajal
+- Tilkkastmine ideaalne
+- Ei talu liigniiskust (juuremädanik)
+
+**Väetamine:**
+- Kevadel: kompost (5–10 cm kiht)
+- Õitsemine: orgaaniline marjaväetis
+- Pärast saaki: puutuhk (kaalium)
+
+**Multšimine:**
+- Hoia 10–15 cm multš juurte ümber
+- Hoiab niiskust ja pärsib umbrohtu
+
+### Lõikus
+
+Pampel on sarnane suvikandvale vaarikale – viljub eelmise aasta võrsetel.
+
+**Pärast saaki (september):**
+1. Lõika viljunud võrsed maapinna tasemele
+2. Jäta 5–6 tugevamat uut võrset
+3. Seo uued võrsed toe külge
+
+**Varakevadel (aprill):**
+1. Eemalda külmakahjustatud oksad
+2. Lühenda võrsed soovitud kõrguseni
+3. Seo laiali toe külge
+
+### Talvitumine Eestis
+
+⚠️ **Oluline:** Enamik sorte vajab talvekaitset!
+
+- **-25°C ja külmakindlamad** ('Thornfree', 'Polar Berry'): Taluvad meie talvi multši kaitsega
+- **-20°C kuni -25°C:** Võrsed painuta maha ja kata multšiga/agrotoekstiilaga
+- **Soojem talvetus:** Istuta kasvuhoonesse või külma-kasvuhoonesse
+
+```
+Talvekaitse (karmim kliima):
+    ┌── agrotoekstiil
+    │
+~~~~│~~~~~~ multš
+────┴────── maapind
+    ↑
+  mahapaindunud võrsed
+```
+
+### Saak ja säilitamine
+
+- **Saagikus:** 4–8 kg põõsa kohta
+- **Korjamine:** 2–3 korda nädalas, kui kuiv
+- **Säilivus:** Värskelt 2–3 päeva (parem kui vaarikas)
+- **Külmutamine, moos, mahl:** Nagu vaarikad
+
+### Kahjurid ja haigused
+
+Enamasti samad mis vaarikatel:
+- Hallhallitus (Botrytis) – hea õhuring, ära kasta ülevalt
+- Võrsehaigus – eemalda haigeid oksi
+- Vaarikamardikas – raputamine, püüdepurgid
+
+### Kust osta Eestis?
+
+| Puukool | Sordid | Märkus |
+|---------|--------|--------|
+| Juhani Puukool | 'Thornfree', 'Black Satin' | Ogadeta |
+| Hansu Puukool | 'Polar Berry', 'Thornfree' | Ogadeta, külmakindlad |
+| E-taimla | Erinevad | Valik varieerub |
 
 ---
 

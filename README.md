@@ -31,13 +31,14 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [oad/ubade-hooldus.md](oad/ubade-hooldus.md) | Ubade kasvatamine (aedoad, põlduba, sordid, hooldus) |
 | [küüslauk/küüslaugu-hooldus.md](küüslauk/küüslaugu-hooldus.md) | Küüslaugu kasvatamine, sordid (Lyubasha, Komsomolets, Eesti kohalik) |
 | [maitsetaimed/maitsetaimede-hooldus.md](maitsetaimed/maitsetaimede-hooldus.md) | Maitsetaimed (basiilik, till, petersell, pune, tüümian, salvei) |
+| [rabarber/rabarberi-hooldus.md](rabarber/rabarberi-hooldus.md) | Rabarberi hooldus (sordid, korjamine, jagamine) |
 
 ### Marjad ja puuviljad
 
 | Fail | Kirjeldus |
 |------|-----------|
 | [maasikad/maasikate-hooldus.md](maasikad/maasikate-hooldus.md) | Maasikate hooldus, sordid, 20 parimat tarkust |
-| [vaarikad/vaarikate-hooldus.md](vaarikad/vaarikate-hooldus.md) | Vaarikate hooldus (Glen Ample, Glen Dee, must pampel) |
+| [vaarikad/vaarikate-hooldus.md](vaarikad/vaarikate-hooldus.md) | Vaarikate ja pamplede hooldus (Glen Ample, Glen Dee, must pampel, aedmurakas) |
 | [kuslapuud/kuslapuude-hooldus.md](kuslapuud/kuslapuude-hooldus.md) | Kuslapuude hooldus (6 sorti) |
 | [sõstrad/sõstarde-hooldus.md](sõstrad/sõstarde-hooldus.md) | Sõstarde hooldus (must, punane, valge) |
 | [õunapuud/õunapuude-hooldus.md](õunapuud/õunapuude-hooldus.md) | Õunapuude hooldus, lõikus, sordid |
