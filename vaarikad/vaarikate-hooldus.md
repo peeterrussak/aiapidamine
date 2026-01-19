@@ -2,11 +2,55 @@
 
 ## Sordid
 
+### Praegused sordid
+
 | Sort | Tüüp | Viljumine | Marja värv | Märkused |
 |------|------|-----------|------------|----------|
 | **Glen Ample** | Suvikandev | Juuli | Punane | Šoti sort, suur mari, ogadeta! |
 | **Glen Dee** | Suvikandev | Juuli–august | Punane | Šoti sort, hiline, magus |
 | **Aedpampel (must)** | Suvikandev | Juuli | Must | Intensiivne maitse, väiksem mari |
+
+### Soovitatud sügiskandvad sordid ⭐
+
+Sügiskandvad (primocane) viljuvad sama aasta võrsetel, saak august–oktoober. Lihtsam hooldus – kõik võrsed lõigatakse sügisel maha.
+
+| Sort | Marja värv | Marja suurus | Märkused |
+|------|------------|--------------|----------|
+| **Polka** ⭐ | Tumepunane | Suur | Poola sort, väga populaarne, suur saak, magus |
+| **Poranna Rosa** | Roosa/lõheroosa | Keskmine | Ebatavaline värv, magus, dekoratiivne |
+| **Delniwa** | Punane | Keskmine | Poola sort, kompaktne kasv (1,2 m) |
+
+### Eesti sordid (Pollis aretatud) ⭐
+
+Kohanenud meie kliimaga, hea talvekindlus.
+
+| Sort | Tüüp | Marja värv | Marja kaal | Märkused |
+|------|------|------------|------------|----------|
+| **Aita** ⭐ | Suvikandev | Helepunane | 3,1 g | Varajane, suur saak, hea talvekindlus |
+| **Helkal** | Suvikandev | Oranžikaskollane | 2,4–3,2 g | Väga hea maitse, mahlakas, keskhiline |
+| **Tomo** | Suvikandev | Tumepunane | Keskmine | Keskvalmiv, hea korjatavus |
+
+### Kollased ja erilised sordid
+
+| Sort | Tüüp | Marja värv | Märkused |
+|------|------|------------|----------|
+| **Golden Queen** | Suvikandev | Kollane | Klassikaline kollane vaarikas |
+| **Jantar** | Suvikandev | Merevaigukollane | Poola sort, hea maitse |
+| **Glen Coe** ⭐ | Suvikandev | Lilla/violetne | Ogadeta, unikaalne värv |
+
+### Sordid, mida vältida
+
+| Sort | Põhjus |
+|------|--------|
+| **Tulameen** | Talveõrn Eesti kliimas, külmakahjustused |
+
+### Kust osta?
+
+| Puukool | Sordid | Hind |
+|---------|--------|------|
+| Juhani Puukool | Polka, Glen Ample, Laszka, Glen Coe, Jantar jt | 4,90–7,90 € |
+| Rebase Talu | Tomo, Eesti sordid | – |
+| Vääna Puukool | Erinevad sordid | – |
 
 ---
 
@@ -19,10 +63,14 @@ Sinu sordid ('Glen Ample', 'Glen Dee', must pampel) on **suvikandvad**:
 - Lõikus pärast saaki – viljunud oksad maha
 - Uued võrsed jäetakse järgmiseks aastaks
 
-### Sügiskandvad (primocane) – sul ei ole
+### Sügiskandvad (primocane)
 
-- Viljuvad sama aasta okste peal
+Soovitatud: 'Polka', 'Poranna Rosa', 'Delniwa'
+
+- Viljuvad **sama aasta** okste peal
+- Saak: august–oktoober (pikendab hooaega!)
 - Lõikus: kõik oksad sügisel/kevadel maha
+- **Eelis:** Vähem haigusi, lihtsam hooldus
 
 ---
 

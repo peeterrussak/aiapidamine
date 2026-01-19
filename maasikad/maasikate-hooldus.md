@@ -198,6 +198,8 @@ Varakevad (märts–aprill), kui maa on sulanud ja taimed pole veel aktiivselt k
 
 ## Sordid ja istutusaasta
 
+### Praegused sordid
+
 **Istutatud:** 2024 (frigotaimed, paljasjuursed)
 
 | Sort | Valmimisaeg | Iseloomustus | Märkused |
@@ -208,6 +210,61 @@ Varakevad (märts–aprill), kui maa on sulanud ja taimed pole veel aktiivselt k
 | Faith | hiline (juuni lõpp–juuli) | Pikk saagihooaeg, vastupidav | Hollandi sort |
 
 **Saagihooaeg kokku:** ~4–5 nädalat järjestikku
+
+### Soovitatud lisasordid ⭐
+
+#### Väga magusad sordid
+
+| Sort | Valmimisaeg | Iseloomustus | Märkused |
+|------|-------------|--------------|----------|
+| **Polka** ⭐ | varajane-keskmine | Väga magus, tumepunane, tihke lihaga | Hea talvekindlus, sobib Eesti kliimasse ideaalselt |
+| **Malwina** ⭐ | väga hiline (juuli lõpp) | Kõige hilisem sort, sügavpunane, väga magus | Pikendab hooaega 1–2 nädalat pärast Faith'i |
+
+#### Varajased sordid
+
+| Sort | Valmimisaeg | Iseloomustus | Märkused |
+|------|-------------|--------------|----------|
+| **Flair** | väga varajane | Nädal varem kui Honeoye, magus, aromaatne | ⚠️ Vajab talvekatet, õrn kevadkülmale |
+| **Rumba** | varajane | Sarnane Honeoye'ga, aga pikem saagiperiood | Mahlane, hea maitse |
+
+#### Keskmised sordid
+
+| Sort | Valmimisaeg | Iseloomustus | Märkused |
+|------|-------------|--------------|----------|
+| **Sonata** | keskmine | Tasakaalustatud maitse, roosa tihke lihaga | Praegu enimkasvatatav sort Eestis |
+| **Verdi** | keskmine | Väga hea haiguskindlus, mahlane, kõrge suhkrusisaldus | Uuem sort |
+
+### Taasviljuvad sordid ⭐
+
+Annavad **kaks saaki** aastas: juunis + august–oktoober. Viljuvad sama aasta võrsetel.
+
+| Sort | Marja suurus | Iseloomustus | Märkused |
+|------|--------------|--------------|----------|
+| **Charlotte** ⭐ | keskmine | Metsmaasika maitse ja aroom, väga magus | Haiguskindel, hea talvekindlus |
+| **Albion** | suur (kuni 28 g) | Populaarseim Euroopas, tumepunane, tihke lihaga | Viljub juunist oktoobrini, sobib pottidesse |
+| **Ostara** | keskmine | Klassikaline taasviljuv, kindel valik | Hea saagikus |
+
+**Taasviljuvate hooldus erineb:**
+- Ei lõigata lehti pärast esimest saaki
+- Väetada ka suvel (teise saagi jaoks)
+- Võib kasvatada ka kasvuhoones/tunnelis hooaja pikendamiseks
+
+### Kuumaasikad (metsmaasikas)
+
+Väikesed aromaatsed marjad, viljuvad kogu suve.
+
+| Sort | Marja värv | Iseloomustus |
+|------|------------|--------------|
+| **Rügen** | punane | Klassikaline metsmaasikas, intensiivne aroom |
+| **Yellow Wonder** | kollane | Ebatavaline kollane, magus, linnud ei märka |
+
+### Kust osta?
+
+| Koht | Valik | Hind |
+|------|-------|------|
+| Juhani Puukool | Polka, Malwina, Sonata, Flair, Rumba jt | 7,90 € / 6 tk |
+| Kambek | Taasviljuvad sordid (Charlotte, Albion) | – |
+| Seemi AS | Erinevad sordid | – |
 
 ---
 
@@ -264,10 +321,12 @@ Varakevad (märts–aprill), kui maa on sulanud ja taimed pole veel aktiivselt k
 - Ära korja märgi marju (hallitavad kiiremini)
 - Jahuta kohe pärast korjamist
 
-**Valmimise järjekord sinu sordid:**
+**Valmimise järjekord (koos soovitatud sortidega):**
 ```
-Honeoye → Sonsation → Asia → Faith
-(juuni algus)  (keskpaik)  (keskpaik-lõpp)  (lõpp-juuli)
+Flair → Honeoye → Rumba → Polka → Sonsation → Sonata → Verdi → Asia → Faith → Malwina
+(v.varajane)  (varajane)              (keskmine)                    (hiline)  (v.hiline)
+
++ Taasviljuvad (Charlotte, Albion): juuni + august–oktoober
 ```
 
 ### Pärast saaki (juuli–august)
@@ -406,12 +465,24 @@ Honeoye → Sonsation → Asia → Faith
 
 ### Oodatav saak taime kohta
 
+**Praegused sordid:**
+
 | Sort | Keskmine saak | Marja suurus |
 |------|---------------|--------------|
 | Honeoye | 400–600 g | keskmine-suur |
 | Sonsation | 500–800 g | suur |
 | Asia | 500–700 g | väga suur |
 | Faith | 400–600 g | keskmine-suur |
+
+**Soovitatud sordid:**
+
+| Sort | Keskmine saak | Marja suurus |
+|------|---------------|--------------|
+| Polka | 500–700 g | keskmine-suur |
+| Malwina | 400–600 g | suur |
+| Sonata | 500–700 g | suur |
+| Charlotte (taasviljuv) | 300–500 g | keskmine |
+| Albion (taasviljuv) | 400–600 g | suur |
 
 **NB:** Teine ja kolmas aasta annavad parima saagi!
 
