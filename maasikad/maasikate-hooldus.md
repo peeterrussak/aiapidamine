@@ -135,7 +135,7 @@ Maasikate vahel kasvatatakse kasulikke kaaslaskultuure, mis peletavad kahjureid,
 | Sibul, murulauk | Peletab kahjureid (nagu küüslauk) | Istuta servadesse |
 | Spinat, salat | Maapinna katmine, kiire kasv | Kevadel enne maasikate kasvu |
 | Oad, herned | Seovad lämmastikku mulda | Istuta peenra otsa |
-| Nõgeseleht (Tagetes) | Peletab kahjureid juurtest | Ääristaimena |
+| Peiulill (Tagetes) | Peletab kahjureid juurtest | Ääristaimena |
 
 ### Mida MITTE kasvatada maasikate juures
 

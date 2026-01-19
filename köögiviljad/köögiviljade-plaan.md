@@ -23,7 +23,7 @@
                               60 cm vahe
 ┌─────────────────────────────────────────────────────────────────┐
 │                     PEENAR 2: MAAVITSALISED                     │
-│      Tomatid + tšilli + füüsal + basiilik + nõgeseleht      │
+│      Tomatid + tšilli + füüsal + basiilik + peiulill      │
 └─────────────────────────────────────────────────────────────────┘
                               60 cm vahe
 ┌─────────────────────────────────────────────────────────────────┐
@@ -77,7 +77,7 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiroh
 │  80 cm   │◄──60cm──►◄──60cm──►◄──60cm──►◄──60cm──►◄──60cm──►│  50 cm │
 └─────────────────────────────────────────────────────────────────┘
          ↑                                                    ↑
-    Basiilikus                                           Nõgeseleht
+    Basiilikus                                           Peiulill
     tomatite vahel                                       servades
 ```
 
@@ -86,7 +86,7 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiroh
 | Kaaslane | Kasu | Kuhu istutada |
 |----------|------|---------------|
 | **Basiilikus** | Peletab lehetäisid, parandab maitset | Tomatite vahele |
-| **Nõgeseleht (Tagetes)** | Peletab kahjureid, nematoodid | Peenra servad |
+| **Peiulill (Tagetes)** | Peletab kahjureid, nematoodid | Peenra servad |
 | **Porgand** | Kobestab mulda | Tomatite vahel (kui ruumi) |
 | **Petersell** | Meelitab kasulikke putukaid | Servad |
 
@@ -867,6 +867,286 @@ VARIANT B: Eraldi ala peenras 4
 
 ---
 
+## Lehtviljad (lehtpeet, lehtkapsas, spinat)
+
+Lehtviljad on suurepärased täiendused aeda – vitamiinirikkad, kiire kasvuga ja paljusid saab korjata pidevalt terve hooaja vältel.
+
+### Lehtpeet (mangold / Swisschard)
+
+**Ladina nimi:** Beta vulgaris var. cicla
+**Sugukond:** Rebasabalised (Chenopodiaceae)
+
+Lehtpeet on peedi sugulane, mida kasvatatakse lehtede, mitte juurika pärast. Dekoratiivne ja maitsev!
+
+**Miks kasvatada:**
+- Korjatav kogu hooaja (aprill–november)
+- Dekoratiivsed värvid (punane, kollane, oranž, valge varred)
+- Talub kerget külma (kuni -5°C)
+- Lihtne kasvatada, vähe kahjureid
+- Üks külv = mitu kuud saaki
+
+#### Sordid ⭐
+
+| Sort | Varre värv | Märkused |
+|------|------------|----------|
+| **'Bright Lights'** ⭐ | Segu (mitmevärviline) | Populaarne, dekoratiivne, hea maitse |
+| **'Rhubarb Chard'** ⭐ | Punane | Rabarberisarnane välimus, magusam |
+| **'Fordhook Giant'** | Valge | Klassikaline, suured lehed |
+| **'Golden'** | Kollane | Mahedam maitse, ilus värv |
+| **'Rainbow'** | Segu | Nagu 'Bright Lights' |
+
+#### Külvamine ja istutamine
+
+| Tegevus | Aeg | Juhis |
+|---------|-----|-------|
+| **Otsekülv** | Aprill–juuni | 2 cm sügavusele, 5–10 cm vahega |
+| **Ettekasvatamine** | Märts–aprill | Külvipotis, istuta mai keskpaigas |
+| **Harvendamine** | Kui 5–10 cm kõrgused | Jäta 20–30 cm vahe (harvendatud taimed söö ära!) |
+
+```
+Külviskeem:
+    20–30 cm        20–30 cm
+  ←─────────→     ←─────────→
+     ┌───┐           ┌───┐           ┌───┐
+     │ L │           │ L │           │ L │
+     └───┘           └───┘           └───┘
+```
+
+#### Hooldus
+
+- **Kastmine:** Regulaarne, ühtlane niiskus (kuivus = kibedad lehed)
+- **Väetamine:** Kompost kevadel, lämmastikurikas väetis soodustab lehekasvu
+- **Multšimine:** Hoia muld niiske ja umbrohuvaba
+- **Rohimine:** Esimesed nädalad olulised
+
+#### Korjamine
+
+- **Alusta:** Kui lehed ~20–25 cm pikad (6–8 nädalat pärast külvi)
+- **Meetod:** Lõika või murra välimisi lehti, jäta südamik kasvama
+- **Sagedus:** Iga 1–2 nädala tagant
+- **Hooaja pikendamine:** Kata kattelooriga – korjatav kuni novembrini
+
+```
+Korjamine:
+       ╱ lõika välimisi
+      ╱   lehti
+     ↓
+   ┌─────┐
+  ╱│     │╲ ← jäta südamik
+ ╱ │  ●  │ ╲   alles
+╱  │     │  ╲
+   └─────┘
+```
+
+**Köögis:**
+- **Lehed:** Nagu spinat (sautee, supid, smoothied)
+- **Varred:** Eraldi küpsetada (kauem kui lehed), nagu spargel
+
+---
+
+### Lehtkapsas (kale)
+
+**Ladina nimi:** Brassica oleracea var. sabellica
+**Sugukond:** Ristõielised (Brassicaceae)
+
+Lehtkapsas on supervili! Vitamiinirikas, külmakindel ja kasvab ka läbi talve. Pärast esimesi külmi muutub maitse magusaks.
+
+**Miks kasvatada:**
+- **Talvine rohelus** – korjatav oktoobrist aprillini!
+- Äärmiselt vitamiini- ja mineraalirikas (A, C, K, raud, kaltsium)
+- Talub külma kuni -15°C (kaetult veelgi rohkem)
+- Maitse paraneb pärast külma (tärklis → suhkur)
+- Vähe kahjureid sügisel/talvel
+
+#### Sordid ⭐
+
+| Sort | Lehe tüüp | Kõrgus | Külmakindlus | Märkused |
+|------|-----------|--------|--------------|----------|
+| **'Westlandse Winter'** ⭐ | Kähar, roheline | 60–80 cm | Väga hea (-15°C) | Hollandi sort, talvekindel |
+| **'Dwarf Green Curled'** ⭐ | Kähar, roheline | 30–40 cm | Hea | Kompaktne, sobib väiksemasse aeda |
+| **'Nero di Toscana'** ⭐ | Sile, tumesinine | 60–90 cm | Keskmine | Itaalia "dinosaurusekapsas", peenmaitse |
+| **'Red Russian'** | Hammastatud, punakasvioletne | 50–70 cm | Väga hea | Dekoratiivne, mahedam maitse |
+| **'Redbor'** | Kähar, tumepunane | 60–80 cm | Hea | Väga dekoratiivne, intensiivne värv |
+| **'Vates'** | Kähar, sinine-roheline | 40–60 cm | Väga hea | Klassikaline Ameerika sort |
+
+#### Külvamine ja istutamine
+
+**Talvise saagi jaoks:**
+
+| Tegevus | Aeg | Juhis |
+|---------|-----|-------|
+| **Ettekasvatamine** | Juuni–juuli | Potis/külvialuses |
+| **Istutamine õue** | Juuli–august | Vahe 40–50 cm |
+| **Otsekülv** | Juuni–juuli | 1 cm sügavusele |
+
+**Varase saagi jaoks:**
+
+| Tegevus | Aeg | Juhis |
+|---------|-----|-------|
+| **Ettekasvatamine** | Märts–aprill | Sees alustada |
+| **Istutamine õue** | Mai | Pärast öökülmade ohtu |
+| **Otsekülv** | Mai | Kui muld soojenenud |
+
+```
+Istutamine (talvesaagiks):
+      40–50 cm
+   ←───────────→
+  ┌───┐       ┌───┐
+  │ K │       │ K │    K = lehtkapsas
+  └───┘       └───┘
+
+Istutusaeg: juuli–august
+Saak: oktoober → aprill (järgmine kevad!)
+```
+
+#### Hooldus
+
+- **Kastmine:** Regulaarne, eriti kuival perioodil (suve alguses)
+- **Väetamine:** Kompost istutamisel, kesksel kasvuperioodil võib anda lämmastikku
+- **Multšimine:** Sügisel paksem multš (kaitse külma eest)
+- **Tugipuu:** Kõrged sordid võivad vajada tuge (tuul, lumi)
+
+#### Kahjurid
+
+⚠️ Lehtkapsas kuulub kapsaste sugukonda – samad kahjurid!
+
+| Kahjur | Oht | Tõrje |
+|--------|-----|-------|
+| **Kapsauss** (kapsaliblikas) | Suvi | Katteloor, Bt-preparaat, käsitsi korjamine |
+| **Kapsasääsk** | Suvi | Katteloor |
+| **Naeris-maakirp** | Kevad | Katteloor, niiske muld |
+| **Lehetäid** | Suvi | Seebivesi, lepatriinud |
+
+**NB:** Sügisel ja talvel on kahjurite surve palju väiksem – seepärast kasvatagi talviseks saagiks!
+
+#### Korjamine
+
+- **Alusta:** Kui lehed ~15–20 cm pikad
+- **Meetod:** Võta alumisi välimisi lehti, jäta ladvapung kasvama
+- **Regulaarselt:** Korjamine stimuleerib uut kasvu
+- **Talvel:** Korja vastavalt vajadusele, taim kasvab aeglaselt edasi
+
+```
+Korjamine:
+        ╱╲
+       ╱  ╲ ← jäta ladvapung!
+      ╱    ╲
+     ╱──────╲
+    ╱│      │╲
+      │    │
+      ↓    ↓
+   korja alumisi
+   lehti esmalt
+```
+
+**Köögis:**
+- **Toores:** Salatites (masseerida õli + soolaga, muutub pehmemaks)
+- **Küpsetatult:** Sautee, supid, smoothied, kale chips (krõpsud ahjus)
+- **Talvel:** Asendab spinatit ja salateid
+
+#### Lehtkapsase kalender
+
+| Kuu | Tegevus |
+|-----|---------|
+| Märts–aprill | Varase saagi ettekasvatamine |
+| Mai | Varase saagi istutamine |
+| Juuni–juuli | **Talvesaagi külv/ettekasvatamine** ⭐ |
+| Juuli–august | Talvesaagi istutamine (40–50 cm vahe) |
+| Oktoober | Saak algab (pärast esimesi külmi magusam!) |
+| November–märts | **Talvine korjamine** – vastavalt vajadusele |
+| Aprill | Taim läheb õitsema, saak lõppeb |
+
+---
+
+### Spinat
+
+**Ladina nimi:** Spinacia oleracea
+**Sugukond:** Rebasabalised (Chenopodiaceae)
+
+Spinat on kiire saagiga lehtköögivili, mis sobib eriti kevadeks ja sügiseks – suvel kipub õitsema minema.
+
+**Miks kasvatada:**
+- Väga kiire saak (30–45 päeva)
+- Kaks hooaega: kevad + sügis
+- Rauarikas, vitamiinirikas
+- Talub kerget külma
+
+#### Sordid
+
+| Sort | Tüüp | Märkused |
+|------|------|----------|
+| **'Matador'** ⭐ | Sile leht | Aeglane õitsemaminekuga, kevadeks |
+| **'Bloomsdale Long Standing'** | Kähar leht | Kuumus-tolerantne, aeglane õitsema |
+| **'Giant Winter'** | Sile leht | Talvekülviks, külmakindel |
+| **'Palco F1'** | Sile leht | Kiire kasv, levinud |
+
+#### Külvamine
+
+| Hooaeg | Külviaeg | Saak | Märkus |
+|--------|----------|------|--------|
+| **Kevad** | Märts–aprill | Mai–juuni | Külva kohe, kui muld haritav |
+| **Sügis** | August–september | September–november | Pärast kuumust, jahedamas |
+
+- Külvisügavus: 2 cm
+- Vahe reas: 5–10 cm (harvendada 15 cm peale)
+- Ridadevahe: 25–30 cm
+- Järelkülv: iga 2–3 nädala tagant (pidev saak)
+
+#### Hooldus
+
+- **Kastmine:** Ühtlane niiskus (kuivus → õitsemine!)
+- **Varjutamine:** Suvel osaliselt varjus (kuumus → õitsemine)
+- **Rohimine:** Hoida umbrohuvaba
+- **Väetamine:** Kompost piisab, mitte liiga palju
+
+#### Probleemid
+
+| Probleem | Põhjus | Lahendus |
+|----------|--------|----------|
+| **Õitseminek** (bolting) | Kuumus, pikk päev, kuivus | Sügiskülv, kastmine, sordivalik |
+| **Kollased lehed** | Lämmastikupuudus | Kompost, vedel lämmastikväetis |
+| **Lehetäid** | Suvi | Seebivesi, katteloor |
+
+**NB:** Spinat ei sobi suviseks saagiks Eesti pikal päeval – kasuta suve alguses hoopis lehtpeeti!
+
+#### Korjamine
+
+- **Alusta:** Kui lehed 8–10 cm pikad (baby spinat) või 15+ cm (täiskasvanud)
+- **Meetod 1:** Lõika välimisi lehti, jäta südamik (pikem saak)
+- **Meetod 2:** Lõika kogu taim 3 cm kõrguselt (kasvab tagasi 1×)
+- **Säilitamine:** Külmkapis niiskes kotis 5–7 päeva; külmuta blanšeeritult
+
+---
+
+### Lehtviljad peenras 3
+
+Lehtviljad sobivad suurepäraselt **Peenrasse 3** järelkülviks pärast herneid (juulist):
+
+```
+PEENAR 3 – SUVI/SÜGIS (pärast herneid)
+┌─────────────────────────────────────────────────────────────────┐
+│ Spinat │ Lehtpeet │  (porru jääb) │ Lehtkapsas │ Salatid │
+│ (külv  │ (juuni   │               │ (juuli     │ (külv   │
+│ aug)   │  külv)   │               │  istutus)  │  juuli) │
+└─────────────────────────────────────────────────────────────────┘
+         ↑                                        ↑
+    herneste alale                         herneste alale
+```
+
+### Lehtviljad – võrdlustabel
+
+| Omadus | Lehtpeet | Lehtkapsas | Spinat |
+|--------|----------|------------|--------|
+| **Saak** | Mai–november | Oktoober–aprill | Mai–juuni, sept–nov |
+| **Korjamismeetod** | Välimised lehed | Välimised lehed | Kogu taim/välimised |
+| **Kuumataluvus** | Hea | Keskmine | Halb (õitseb) |
+| **Külmataluvus** | Kuni -5°C | Kuni -15°C | Kuni -5°C |
+| **Talvine saak** | Ei (kattelooriga kuni nov) | **JAH** ⭐ | Ei |
+| **Raskusaste** | Lihtne | Lihtne | Keskmine |
+| **Dekoratiivsus** | Kõrge (värvid) | Keskmine–kõrge | Madal |
+
+---
+
 ## Maitsetaimed (ürdid)
 
 → **Vaata detailset juhendit:** [maitsetaimed/maitsetaimede-hooldus.md](../maitsetaimed/maitsetaimede-hooldus.md)
@@ -1159,7 +1439,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 | Kultuur | Head kaaslased |
 |---------|----------------|
-| Tomat | Basiilikus, porgand, petersell, nõgeseleht, sibul |
+| Tomat | Basiilikus, porgand, petersell, peiulill, sibul |
 | Tšilli | Basiilikus, tomat, porgand |
 | Kurk | Herned, oad, till, salat, päevalill, redis |
 | Herned | Porgand, redis, salat, kurk, aedoad |

@@ -296,7 +296,7 @@ Kasvuhoones pole palju tolmeldajaid – aita kaasa:
 | **Basiilikus** | Peletab lehetäisid, parandab maitset |
 | **Porgand** | Kobestab mulda |
 | **Petersell** | Meelitab kasulikke putukaid |
-| **Nõgeseleht (Tagetes)** | Peletab kahjureid, nematoodid |
+| **Peiulill (Tagetes)** | Peletab kahjureid, nematoodid |
 | **Sibul, küüslauk** | Peletab kahjureid |
 
 ### Halvad naabrid
