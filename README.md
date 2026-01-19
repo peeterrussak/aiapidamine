@@ -25,6 +25,8 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 
 | Fail | Kirjeldus |
 |------|-----------|
+| [tomatid/tomatite-hooldus.md](tomatid/tomatite-hooldus.md) | Tomatite kasvatamine (kasvuhoone ja avamaa sordid, hooldus) |
+| [kurgid/kurkide-hooldus.md](kurgid/kurkide-hooldus.md) | Kurkide kasvatamine (kasvuhoone ja avamaa sordid, hooldus) |
 | [küüslauk/küüslaugu-hooldus.md](küüslauk/küüslaugu-hooldus.md) | Küüslaugu kasvatamine, sordid (Lyubasha, Komsomolets, Eesti kohalik) |
 
 ### Marjad ja puuviljad

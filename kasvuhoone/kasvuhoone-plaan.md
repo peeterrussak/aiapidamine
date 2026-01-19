@@ -133,105 +133,65 @@ Hea õhuvahetus hoiab ära haigused ja reguleerib temperatuuri.
 
 ### Kurgid
 
+→ **Vaata detailset juhendit:** [kurgid/kurkide-hooldus.md](../kurgid/kurkide-hooldus.md)
+
 **Sordid kasvuhoonesse (pikad salatikurgid):**
 
 | Sort | Vilja pikkus | Valmimisaeg | Eripära |
 |------|--------------|-------------|---------|
 | **Suyu Long** ⭐ | 30–45 cm | 60–70 päeva | Testitud 2025! Hiina sort, mõruvaba, õhuke koor |
-| **Tasty Green F1** | 20–25 cm | 55–60 päeva | Sarnane Suyu Long'ile, saagikas, jahukastekindel |
 | **Futura F1** ⭐ | ~30 cm | varajane | Iseviljuv, jahukaste- ja juuremädanikkindel |
 | **Saladin F1** | 36–40 cm | 50–65 päeva | Kõige pikem! 300–400 g, mõruvaba |
-| **Telegraph Improved** | 20–26 cm | keskmine | Klassika, saagikas |
 
 **Iseviljuvad sordid** (ei vaja tolmeldajaid): Futura, Saladin, Tasty Green
-
-**NB:** Avamaakurgid (lühikesed, hapendamiseks) – vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md)
 
 ---
 
 ### Kurk 'Suyu Long' (Hiina pikk kurk)
+
+→ Täielik juhend: [kurgid/kurkide-hooldus.md](../kurgid/kurkide-hooldus.md)
 
 **2025 kogemus:** ⭐ Väga hea!
 - 4–5 kurki taime kohta
 - Kuni 30 cm pikad kurgid
 - Maitsev, õhuke koor
 
-**Kasvatamine:**
+**Lühikokkuvõte:**
 
-| Tegevus | Aeg | Märkused |
-|---------|-----|----------|
-| Ettekasvatamine | Aprill lõpp – mai algus | 3–4 nädalat enne istutamist, 25°C |
-| Istutamine kasvuhoonesse | Mai keskpaik–lõpp | Kui öökülmad möödas, muld >15°C |
-| Saagi algus | Juuli lõpp – august | ~60–70 päeva pärast istutamist |
+| Tegevus | Aeg |
+|---------|-----|
+| Ettekasvatamine | Aprill lõpp – mai algus (3–4 nädalat, 25°C) |
+| Istutamine kasvuhoonesse | Mai keskpaik–lõpp |
+| Saagi algus | Juuli lõpp |
 
-**Istutustihedus:**
-- Ridade vahe: 100–120 cm
-- Taimede vahe reas: 40–50 cm
-- ~4–6 taime 3m² kohta
+**Hooldus:** Vertikaalne tugi, eemalda esimesed 4–5 külgvõrset, kasta iga päev, nõgesevesi iga 10–14 päeva.
 
-**Hooldus:**
-- **Tugi:** Vertikaalne nöör lakke (2–2,5 m kõrguseni)
-- **Tüvi:** Eemalda esimesed 4–5 külgvõrset ja viljad (tugevdab taime)
-- **Ladvamine:** Näpista ladv kui jõuab lae alla
-- **Kastmine:** Iga päev või ülepäeviti, rohkelt
-- **Väetamine:** Nõgeseveega iga 10–14 päeva (alates õitsemisest)
-- **Ventilatsioon:** Hea õhuvahetus (hallituse vältimiseks)
-
-**Saagi korjamine:**
-- Korja kurgid 25–35 cm pikkuselt (parem maitse ja tekstuur)
-- Korja regulaarselt (iga 2–3 päeva), stimuleerib uusi vilju
-- Kasuta teravat nuga või kääre (ära rebi!)
+**Korjamine:** 25–35 cm pikkuselt, iga 2–3 päeva.
 
 ---
 
 ### Tomatid
 
+→ **Vaata detailset juhendit:** [tomatid/tomatite-hooldus.md](../tomatid/tomatite-hooldus.md)
+
 **Sordid kasvuhoonesse:**
 
 | Sort | Vilja värv | Vilja kaal | Märkused |
 |------|------------|------------|----------|
-| **Malle F1** ⭐ | punane | 80–90 g | Testitud 2025, väga hea! Haiguskindel |
-| **Pille** ⭐ | oranž | 125–130 g | Testitud 2025, väga hea! Suured lihakad viljad |
+| **Malle F1** ⭐ | punane | 80–90 g | Testitud 2025, väga hea! |
+| **Pille** ⭐ | oranž | 125–130 g | Testitud 2025, väga hea! |
 | **Evelle** ⭐ | punane | 80–90 g | Haiguskindel, lõhenemiskindel |
-| **Piibe F1** | punane | 70–80 g | Ploomtomat, pikad kobarad (~10 vilja) |
-| **Erk F1** | punane | keskmine | Hea, haiguskindel |
-| **San Marzano 2** | punane | ploomtomat | Kastmeteks, kuivatamiseks |
+| **San Marzano 2** | punane | ploomtomat | Kastmeteks |
 
-**Erilised sordid:**
+**Lühikokkuvõte:**
 
-| Sort | Vilja värv | Märkused |
-|------|------------|----------|
-| **Green Zebra** | roheline-kollane triibuline | Ebatavaline välimus, magus-hapukas |
-| **Black Krim** | tumepunane/pruunikas | Intensiivne maitse |
-| **Ananass** | kollane-roosa marmorjas | Suur, väga magus |
+| Tegevus | Aeg |
+|---------|-----|
+| Ettekasvatamine | Märts keskpaik |
+| Istutamine kasvuhoonesse | Mai keskpaik–lõpp |
+| Saagi algus | Juuli keskpaik |
 
-**NB:** Tomatid kasvavad nii kasvuhoones kui peenral (P2). Kasvuhoones pikem hooaeg ja parem kaitse haiguste eest. Avamaale sobivad madalakasvulised sordid (Terma, Mato, Siive) – vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md).
-
-**Kasvatamine:**
-
-| Tegevus | Aeg | Märkused |
-|---------|-----|----------|
-| Ettekasvatamine | Märts keskpaik | 6–8 nädalat enne istutamist, 20–22°C |
-| Istutamine kasvuhoonesse | Mai keskpaik–lõpp | Kui öökülmad möödas |
-| Saagi algus | Juuli keskpaik | ~90–100 päeva pärast külvi |
-
-**Istutustihedus:**
-- Ridade vahe: 60–80 cm
-- Taimede vahe reas: 50–60 cm
-- ~6–8 taime 3m² kohta
-
-**Hooldus:**
-- **Tugi:** Vaiad või nöör lakke, seo taim iga 20–30 cm tagant
-- **Kõrvalvõsud:** Eemalda KÕIK kõrvalvõsud (kaenlast kasvavad võrsed), kontrolli 2× nädalas
-- **Kastmine:** 2–3× nädalas, sügavalt; MULDA, mitte lehtedele
-- **Väetamine:** Nõgeseveega iga 7–10 päeva alates õitsemisest
-- **Ladvamine:** Näpista ladv juuli lõpus (4–5 kobarani jääb, jõuavad küpseda)
-- **Alumised lehed:** Eemalda kollased ja mulda puutuvad lehed
-
-**Tolmlemise abi:**
-- Kasvuhoones pole palju tolmeldajaid
-- Raputa õitsevaid taimi kergelt keskpäeval (tolm langeb)
-- Või kasuta elektrilist hambaharja õite juures
+**Hooldus:** Kõrvalvõsude eemaldamine 2× nädalas, kastmine mulda, ladvamine juuli lõpus.
 
 **Kasvuhoone vs avamaa:**
 

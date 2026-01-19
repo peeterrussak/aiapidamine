@@ -19,6 +19,10 @@ aiapidamine/
 ├── seemnete-kogumine.md         # Seemnete kogumine ja säilitamine
 ├── köögiviljad/
 │   └── köögiviljade-plaan.md    # Peamine köögiviljade fail (~1500 rida)
+├── tomatid/
+│   └── tomatite-hooldus.md      # Tomatite kasvatamine (sordid, hooldus, kahjurid)
+├── kurgid/
+│   └── kurkide-hooldus.md       # Kurkide kasvatamine (kasvuhoone ja avamaa)
 ├── küüslauk/
 │   └── küüslaugu-hooldus.md     # Küüslaugu sordid ja kasvatamine
 ├── maasikad/

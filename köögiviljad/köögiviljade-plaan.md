@@ -57,92 +57,15 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiroh
 | Tšilli | 3–4 taime | 40–50 cm | 40–80 cm | Kerge tugi |
 | Füüsal | 2–3 taime | 60–80 cm | 1–1,5 m | Vaiad |
 
-### Tomatisordid
+### Tomatid
 
-#### Testitud 2025 ⭐
+→ **Vaata detailset juhendit:** [tomatid/tomatite-hooldus.md](../tomatid/tomatite-hooldus.md)
 
-| Sort | Tüüp | Värv | Hinnang | Märkused |
-|------|------|------|---------|----------|
-| **Malle** | Keskmine | Punane | ⭐⭐⭐ | Väga hea! |
-| **Pille** | Keskmine | Oranž | ⭐⭐⭐ | Väga hea! |
-| **Erk F1** | – | – | ⭐⭐ | Hea |
+**Testitud 2025:** Malle ⭐⭐⭐, Pille ⭐⭐⭐, Erk F1 ⭐⭐
 
-#### Olemasolevad seemned
-
-| Sort | Tüüp | Märkused |
-|------|------|----------|
-| Maike | Keskmine | Eesti sort |
-| Pokusa | Keskmine | Poola sort, punane, saagirikas |
-| Moneymaker | Keskmine | Klassika, usaldusväärne |
-| S. Pierre | Keskmine | Prantsuse päritolu, aromaatne |
-| Zuckertraube | Kokteil | Saksa, magusad pisikesed |
-
-#### Hortinoom soovitused (proovida)
-
-| Sort | Tüüp | Eripära |
-|------|------|---------|
-| **Indigo Rose** | Kokteil | Tumesinine/lilla koor, antioksüdandid |
-| **Ananass** | Suur | Kollane-roosa-punane marmorjas, magus |
-| **Brandywine Yellow** | Suur (härgasüda tüüp) | Kollane, intensiivne maitse |
-| **San Marzano 2** | Ploomtomat | Itaalia klassika, kastmeteks |
-| **Oxheart / Härjasüda** | Suur | Südamekujuline, lihakas |
-| **Tolstoi F1** | Keskmine | Hübriid, haiguskindel, saagirikas |
-
-#### 2026 plaan
-
-**Kindlad valikud:**
-- **Malle** – testitud 2025, väga hea ⭐
-- **Pille** – testitud 2025, oranž, väga hea ⭐
-- **Maike** – Eesti sort, olemas
-
-**Proovida:**
-- **San Marzano 2** – kastmeteks ja kuivatamiseks
-- **Ananass** – suured, erilised
-
-**NB:** Tomatid lähevad nii peenrale (P2) kui kasvuhoonesse! Vt ka [kasvuhoone-plaan.md](../kasvuhoone/kasvuhoone-plaan.md)
-
-#### Soovitatud sordid kasvuhoonesse ⭐
-
-Kõrgekasvulised sordid, mis vajavad tuge ja kõrvalvõsude eemaldamist.
-
-| Sort | Vilja värv | Vilja kaal | Eripära |
-|------|------------|------------|---------|
-| **Malle F1** ⭐ | punane | 80–90 g | Testitud! Saagikas, haiguskindel, ruugehallituskindel |
-| **Pille** ⭐ | oranž | 125–130 g | Testitud! Suured lihakad viljad, hea maitse |
-| **Evelle** ⭐ | punane | 80–90 g | Haiguskindel, lõhenemiskindel, ühtlane saak |
-| **Piibe F1** | punane | 70–80 g | Ploomtomat, pikad kobarad (~10 vilja) |
-| **Visa F1** | punane | keskmine | Eesti klassika, usaldusväärne |
-| **San Marzano** | punane | ploomtomat | Itaalia klassika, kastmeteks ja kuivatamiseks |
-
-#### Soovitatud sordid avamaale ⭐
-
-Madalakasvulised ja varajased sordid – valmivad enne sügisvihmade ja lehemädaniku tulekut. Ei vaja nii palju hoolt kui kasvuhoonesordid.
-
-| Sort | Vilja värv | Vilja kaal | Eripära |
-|------|------------|------------|---------|
-| **Terma** ⭐ | punane | 50 g | Eesti sort, väga varajane, haiguskindel – "terve ja madal" |
-| **Mato** ⭐ | sügavpunane | 95–100 g | Eesti sort, varajane, hallituskindel |
-| **Siive** ⭐ | oranž | 70–80 g | Eesti sort, varajane, sobib tunnelisse JA avamaale |
-| **Maike** | punane | 60–65 g | "Laisa inimese tomat" – vähem võrseid eemaldada |
-| **Roma VF** | punane | ploomtomat | Haiguskindel, tihe lihaga, säilitamiseks |
-
-**Avamaa vs kasvuhoone:**
-
-| Omadus | Avamaa (P2) | Kasvuhoone |
-|--------|-------------|------------|
-| Sordid | Madalakasvulised, varajased | Kõrgekasvulised |
-| Istutusaeg | Juuni algus | Mai keskpaik |
-| Saak | Juuli lõpp – september | Juuli – oktoober |
-| Hooldus | Lihtsam | Intensiivsem |
-| Risk | Lehemädanik! | Väiksem |
-
-#### Erilised sordid (huvilisele)
-
-| Sort | Vilja värv | Eripära |
-|------|------------|---------|
-| **Green Zebra** | roheline-kollane triibuline | Ebatavaline välimus, magus-hapukas |
-| **Black Krim** | tumepunane/pruunikas | Vene päritolu, intensiivne maitse |
-| **Ananass** | kollane-roosa marmorjas | Suur, väga magus |
+**2026 sordid:**
+- **Kasvuhoone:** Malle F1, Pille, Evelle, San Marzano
+- **Avamaa:** Terma ⭐, Mato ⭐, Siive (madalakasvulised, varajased)
 
 ### Paigutus peenras (1 × 9 m)
 
@@ -510,17 +433,27 @@ Kartul on klassikaline Eesti aiakultur, mis sobib hästi kaevamisvaba aia süste
 
 2025 olid siin kartulid → 2026 on hea koht kõrvitsalistele (eri sugukond, hea rotatsioon).
 
+### Kurgid
+
+→ **Vaata detailset juhendit:** [kurgid/kurkide-hooldus.md](../kurgid/kurkide-hooldus.md)
+
+**Testitud 2025:** Andrus ⭐, Alex ⭐ (esimene saak 30. juuli)
+
+**2026 sordid (avamaa):**
+- **Adam F1** ⭐ – populaarseim Eestis, iseviljuv, mõruvaba
+- **Alex F1** ⭐ – väga varajane, haiguskindel
+
 ### Kultuurid
 
 | Kultuur | Kogus | Vahe | Saak algab | Märkused |
 |---------|-------|------|------------|----------|
-| **Avamaakurk** | 4–5 taime | 60–80 cm | Juuli lõpp | 'Andrus', 'Alex' testitud |
+| **Avamaakurk** | 4–5 taime | 60–80 cm | Juuli lõpp | Vt [kurkide-hooldus.md](../kurgid/kurkide-hooldus.md) |
 | **Suvikõrvits** | 2–3 taime | 80–100 cm | August | 'Black Beauty' ⭐ |
 | **Patisson** | 2 taime | 80–100 cm | August | 'Disco' ⭐ |
 | Till | Puistatud | – | – | Kurgi vahele, meelitab tolmeldajaid |
 | Päevalill | 4 tk | 50 cm | – | Peenra otstes, tuulekaitse |
 
-→ Detailne info: vt **Kõrvitsalised** sektsioon allpool
+→ Kõrvitsaliste detailne info: vt **Kõrvitsalised** sektsioon allpool
 
 ### Paigutus peenras (1 × 9 m)
 
@@ -540,15 +473,6 @@ Kartul on klassikaline Eesti aiakultur, mis sobib hästi kaevamisvaba aia süste
 ◇  = patisson (80–100 cm vahe)
 ```
 
-### Miks see kombinatsioon töötab
-
-| Seos | Selgitus |
-|------|----------|
-| Kurk + till | Till meelitab tolmeldajaid, parandab kurgi maitset |
-| Kõrvitsalised koos | Sama perekond, sarnased vajadused |
-| Päevalilled otstes | Tuulekaitse, tolmeldajad, dekoratiivsus |
-| Pärast kartuleid | Hea rotatsioon – eri sugukond, puhas muld |
-
 ### Hoolduskalender
 
 | Kuu | Tegevus |
@@ -562,38 +486,6 @@ Kartul on klassikaline Eesti aiakultur, mis sobib hästi kaevamisvaba aia süste
 | August | Suvikõrvitsa ja patissoni saagi algus – **korja noorelt!** |
 | August–sept | Regulaarne korjamine (iga 2–3 päeva) |
 | September | Viimased viljad enne öökülmi |
-
-### 2025 kogemus
-
-- Avamaakurgid 'Andrus', 'Alex': esimene saak 30. juuli ✓
-- Suvikõrvits 'Black Beauty' ja patisson 'Disco': esimene saak ~9. august ✓
-
-### Soovitatud kurgisordid avamaale ⭐
-
-#### Hapendamiseks ja marineerimiseks
-
-| Sort | Vilja pikkus | Valmimisaeg | Eripära |
-|------|--------------|-------------|---------|
-| **Andrus** ⭐ | 8–12 cm | keskmine | Testitud! Eesti klassika |
-| **Alex F1** ⭐ | 8–12 cm | 43–45 päeva | Väga varajane, haiguskindel, iseviljuv |
-| **Adam F1** ⭐ | 8–12 cm | 45–47 päeva | Populaarseim Eestis, iseviljuv, mõruvaba |
-| **Dirigent F1** | 8–10 cm | 55–60 päeva | Hapendamiseks ideaalne, mõruvaba, mosaiik- ja jahukastekindel |
-| **Dolomit F1** | 10–12 cm | varajane | Hea säilivus hoidistes, sile koor |
-
-#### Värskelt söömiseks
-
-| Sort | Vilja pikkus | Eripära |
-|------|--------------|---------|
-| **Julian F1** | 8–10 cm | Ei kasva üle, heleroheline |
-| **Melody F1** | 10–12 cm | Iseviljuv, silindriline |
-
-**Valmimise järjekord:**
-```
-Alex (43 pv) → Adam (45 pv) → Andrus → Dolomit → Dirigent
-└────────────────── juuli lõpp – september ──────────────────┘
-```
-
-**NB:** Kasvuhoone kurgid (pikad salatikurgid) – vt [kasvuhoone-plaan.md](../kasvuhoone/kasvuhoone-plaan.md)
 
 ---
 
