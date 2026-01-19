@@ -8,24 +8,11 @@ Taliküüslaugu kasvatamine Eesti tingimustes.
 
 | Parameeter | Väärtus |
 |------------|---------|
-| Tüüp | Taliküüslauk (suviküüslauk Eestis ei sobi) |
+| Tüüp | Taliküüslauk |
 | Istutusaeg | September lõpp – oktoober algus |
 | Saak | Juuli |
 | Asukoht | Päikeseline, hea drenaaž |
 | Eelkultuur | Liblikõielised, kõrvitsalised |
-
----
-
-## Miks taliküüslauk?
-
-Eesti Maaülikooli uuringud näitavad:
-
-| Tüüp | Saagikus | Soovitus |
-|------|----------|----------|
-| **Taliküüslauk** | 780 g/m² (keskmine) | ⭐ Kasvata seda! |
-| **Suviküüslauk** | 510 g/m² (keskmine) | ✗ Ei tasu, kasvuperiood liiga lühike |
-
-Taliküüslauk on ka maitselt teravam ja intensiivsem.
 
 ---
 
@@ -57,7 +44,6 @@ Need sordid annavad stabiilse saagi aastast aastasse, ilma et peaks paljundusmat
 |------|--------|
 | Prantsuse sordid ('Germidour', 'Thermidrome', 'Messidrome') | Vajavad igal aastal uut paljundusmaterjali |
 | Inglise sordid ('Chesnok Wight', 'Iberian Wight') | Saagikus langeb kiiresti |
-| Suviküüslaugud ('Flavor', 'Cledor') | Kasvuperiood Eestis liiga lühike |
 
 ---
 
@@ -396,5 +382,4 @@ Küüslauk on suurepärane kaaslane maasikale:
 ## Allikad
 
 - Eesti Maaülikooli küüslaugusortide uuring
-- Saarte Hääl: "Eestis suviküüslauku kasvatada ei tasu"
 - Seemnemaailm.com sortide info
