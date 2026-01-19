@@ -23,6 +23,10 @@ aiapidamine/
 │   └── tomatite-hooldus.md      # Tomatite kasvatamine (sordid, hooldus, kahjurid)
 ├── kurgid/
 │   └── kurkide-hooldus.md       # Kurkide kasvatamine (kasvuhoone ja avamaa)
+├── herned/
+│   └── herneste-hooldus.md      # Herneste kasvatamine (sordid, külv, säilitamine)
+├── oad/
+│   └── ubade-hooldus.md         # Ubade kasvatamine (aedoad, põlduba, sordid)
 ├── küüslauk/
 │   └── küüslaugu-hooldus.md     # Küüslaugu sordid ja kasvatamine
 ├── maasikad/

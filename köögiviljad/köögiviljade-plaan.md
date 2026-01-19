@@ -129,12 +129,15 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiroh
 | Salatid | Järelkülv | Pärast herneid | Juulist vabale alale |
 | Murulauk | Serv | Peenra otsad | Püsik, peletab kahjureid |
 
-### Oatüübid
+### Oad
 
-| Tüüp | Kõrgus | Tugi | Saak | Eestile sobivad sordid |
-|------|--------|------|------|------------------------|
-| **Ronivad aedoad** | 2–3 m | Vajalik (kepp, võrk) | Suurem, pikem hooaeg | 'Blauhilde' (lilla), 'Neckargold' (kollane), 'Neckarkönigin' |
-| **Madalad aedoad** | 40–50 cm | Pole vajalik | Kiirem, kompaktsem | 'Saxa', 'Delinel', 'Purple Teepee' |
+→ **Vaata detailset juhendit:** [oad/ubade-hooldus.md](../oad/ubade-hooldus.md)
+
+**2026 sordid:**
+- **Blauhilde** ⭐ – roniv, lilla/sinine, dekoratiivne
+- **Neckargold** ⭐ – roniv, kollane, kiudevaba
+- **Saxa** ⭐ – madal, varajane, kiudevaba
+- **Jõgeva** ⭐ – põlduba, Eesti sort, külmakindel
 
 ### Paigutus peenras (1 × 9 m)
 
@@ -161,14 +164,16 @@ Pärast herneid (juuli): külva samale alale salatid või spinat!
 | Herned → Salatid | Pärast herneid jääb lämmastikurikas muld → salatid kasvavad kiiresti |
 | Murulauk servades | Püsik, peletab kahjureid, ei võta ruumi |
 
-### Hernesordid (testitud 2025)
+### Herned
 
-| Sort | Kõrgus | Kaunad | Märkused | Hinnang |
-|------|--------|--------|----------|---------|
-| **'Looming'** | Madal | Keskmise paksusega, 10+ hernest kaunas | Palju kaunu, tipphetk juuli lõpus | ⭐⭐⭐ VÄGA HEA! |
-| **'Aamisepp'** | ~2 m | Paksemad ja lühemad | Kõrge kasv, vajab tugevat tuge | ⭐⭐ Hea |
+→ **Vaata detailset juhendit:** [herned/herneste-hooldus.md](../herned/herneste-hooldus.md)
 
-**NB:** Mõlemad on Eesti sordid – hästi kohanenud meie kliimaga!
+**Testitud 2025:** Looming ⭐⭐⭐, Aamisepp ⭐⭐
+
+**2026 sordid:**
+- **Looming** ⭐ – madal, palju kaunu, Eesti sort
+- **Kelvedon Wonder** ⭐ – varajane, kompaktne
+- **Ambassador** – magus, hea maitse
 
 ### Herneste ja ubade võrdlus
 
@@ -197,30 +202,6 @@ Pärast herneid (juuli): külva samale alale salatid või spinat!
 | August | Sibul | **Koristamine**, kuivatamine |
 | Sept–okt | Porgand | **Koristamine** |
 | Sept–nov | Porru | **Koristamine** vastavalt vajadusele |
-
-### Ubade kasvatamise nipid
-
-**Külv:**
-- Leota seemneid 4–8 tundi enne külvi (kiirem idanemine)
-- Külva 4–5 cm sügavusele
-- Muld peab olema soe (min 12°C)
-
-**Korjamine:**
-- Korja regulaarselt – siis taim toodab rohkem
-- Ära lase kaunadel üle kasvada (kõvaks minna)
-- Parim suurus: 10–15 cm (rohelised), seemned ei tundu läbi kauna
-
-**Saagi lõpp:**
-- Jäta viimastel kaunadel seemneid küpseda → järgmise aasta seeme
-- Või lase kaunadel täiesti kuivada → kuivoad talveks
-
-### Herneste ja ubade eripära kaevamisvabas aias
-
-**Pärast saaki:**
-- Lõika taimed maapinna tasemelt
-- **Jäta juured mulda** – lämmastikku siduvad bakterid jäävad
-- Järgmine kultuur saab kasu (nt hilissalatid)
-- Lisa komposti ja külva näiteks sügissalat
 
 ---
 
@@ -1254,9 +1235,10 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | Füüsal | Ananassfüüsal / maafüüsal | 1 pakk | P2 |
 | Basiilikus | 'Genovese', 'Thai', 'Lemon' | 1–2 pakki | P2 |
 | **P3: Herned + juurviljad** ||||
-| Herned | **'Looming'** ⭐, **'Aamisepp'** | 50–100 g | P3 |
-| Aedoad (roniv) | 'Blauhilde', 'Neckargold' | 50–100 g | P3 |
-| Aedoad (madal) | 'Saxa', 'Delinel' | 50–100 g | P3 |
+| Herned | **'Looming'** ⭐, 'Kelvedon Wonder' ⭐, 'Ambassador' | 50–100 g | P3 |
+| Aedoad (roniv) | **'Blauhilde'** ⭐ (lilla), **'Neckargold'** ⭐ (kollane) | 50–100 g | P3 |
+| Aedoad (madal) | **'Saxa'** ⭐, 'Delinel', 'Purple Teepee' | 50–100 g | P3 |
+| Põlduba | **'Jõgeva'** ⭐ (Eesti sort, kindel valik) | 100–200 g | P3 |
 | Porgand | 'Naomi', 'Jerada F1' (testitud 2025) | 2–3 pakki | P3 |
 | Pesasibul | **'Sturon'** ⭐ või **'Hercules'** (proovida!) | 0,5–1 kg istikuid | P3 |
 | Porru | 'Hannibal', 'Carentan' | 1–2 pakki | P3 |
