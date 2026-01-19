@@ -23,7 +23,7 @@
                               60 cm vahe
 ┌─────────────────────────────────────────────────────────────────┐
 │                     PEENAR 2: MAAVITSALISED                     │
-│      Tomatid + tšilli + füüsal + basiilikus + nõgeseleht      │
+│      Tomatid + tšilli + füüsal + basiilik + nõgeseleht      │
 └─────────────────────────────────────────────────────────────────┘
                               60 cm vahe
 ┌─────────────────────────────────────────────────────────────────┐
@@ -410,6 +410,225 @@ Kartul on klassikaline Eesti aiakultur, mis sobib hästi kaevamisvaba aia süste
 
 ---
 
+## Redis
+
+Redis on üks **kiiremaid** aiakultuure – saak valmib juba 25–30 päevaga! Ideaalne vahekultuure tühjadele kohtadele.
+
+### Miks kasvatada redist
+
+- **Väga kiire:** 25–30 päeva külvist saagini
+- **Vahetäitja:** Külva tühjade kohtade vahele (aeglaste kultuuride vahel)
+- **Mitu saaki:** Aprillist septembrini saab külvata iga 2–3 nädala järel
+- **Lihtne:** Idaneb jahedas, ei vaja ettekasvatust
+
+### Sordid
+
+| Sort | Kuju | Värvus | Valmimisaeg | Märkused |
+|------|------|--------|-------------|----------|
+| **'Cherry Belle'** ⭐ | Ümar | Punane | 22–25 päeva | Klassika, krõbe |
+| **'Jõgeva'** ⭐ | Ümar | Punane | 25–30 päeva | Eesti sort, kindel valik |
+| **'French Breakfast'** | Piklik | Punane-valge | 25–28 päeva | Mahe maitse |
+| **'Zlata'** | Ümar | Kollane | 30–35 päeva | Erinev, dekoratiivne |
+| **'Viola'** | Ümar | Lilla | 30–35 päeva | Dekoratiivne |
+| **Taliredis 'Taikon'** | Pikk | Valge | 50–60 päeva | Suur, haljasväetiseks |
+
+### Kasvatamine
+
+| Tegevus | Juhis |
+|---------|-------|
+| Külviaeg | Aprill–september (iga 2–3 nädala järel) |
+| Mullatemperatuur | Min 5°C (optimaalne 10–18°C) |
+| Sügavus | 1–2 cm |
+| Vahe reas | 3–5 cm |
+| Ridade vahe | 10–15 cm |
+
+**Külvi nipid:**
+- Külva **hõredalt** – tihedalt kasvanud redisid ei moodusta mugulaid
+- Hõrenda 3–5 cm peale, kui liiga tihe
+- Külva varjulisemasse kohta (suve keskpaigas)
+- Hoia muld **ühtlaselt niiske** – kuivus = kibedam maitse ja pragunemine
+
+### Paigutus aias
+
+```
+VAHETÄITJANA (aeglaste kultuuride vahel):
+┌─────────────────────────────────────────────┐
+│  PORGAND   │ redis │  PORGAND  │ redis │    │
+│  (aeglane) │  rrr  │ (aeglane) │  rrr  │    │
+│            │       │           │       │    │
+│  ← Redis valmib enne, kui porgand ruumi vajab →  │
+└─────────────────────────────────────────────┘
+
+ERALDI REANA:
+┌─────────────────────────────────────────────┐
+│  r r r r r r r r r r r r r r r r r r r r   │
+│  ← Külva iga 2 nädala järel uus rida →      │
+└─────────────────────────────────────────────┘
+```
+
+### Hooldus
+
+| Tegevus | Sagedus | Märkused |
+|---------|---------|----------|
+| Kastmine | Regulaarselt | Ühtlane niiskus = mahe maitse |
+| Hõrendamine | Vajadusel | 3–5 cm vahe mugulaid moodustavatele |
+| Rohimine | Alguses | Redis on nõrk konkurent |
+| Väetamine | Pole vajalik | Komposti piisab |
+
+### Korjamine
+
+- **Millal:** Kui mugul on 2–3 cm läbimõõduga (tunned läbi mulla)
+- **Ära oota liiga kaua** – muutub puiseks ja kibedaks
+- Korja hommikul (krõbedam)
+- Säilib külmkapis 1–2 nädalat (lehed eemaldatud)
+
+### Probleemid
+
+| Probleem | Põhjus | Lahendus |
+|----------|--------|----------|
+| Ei moodusta mugulat | Liiga tihe külv | Hõrenda! |
+| Kibe maitse | Kuivus, liiga vana | Kasta, korja õigel ajal |
+| Pragunenud | Ebaühtlane kastmine | Hoia ühtlaselt niiske |
+| Puine | Liiga kaua kasvanud | Korja varem |
+| Augud lehtedel | Maakirp | Katteloor, niiske muld |
+
+### Kalender
+
+| Kuu | Tegevus |
+|-----|---------|
+| Aprill | Esimene külv (niipea kui maa haritav) |
+| Aprill–august | Järelkülvid iga 2–3 nädala järel |
+| Mai–september | Korjamine 25–30 päeva pärast külvi |
+| September | Viimane külv (valmib enne külmi) |
+
+**💡 Nipp:** Redis ja porgand on head naabrid – külva redist porgandirea vahele. Redis valmib enne, kui porgand ruumi vajab, ja märgistab aeglaselt idaneva porgandi rea!
+
+---
+
+## Maapirn (Jerusalem artichoke)
+
+Maapirn (*Helianthus tuberosus*) on **püsikkultuur**, mis annab hiiglaslikku saaki minimaalse vaevaga. Üks kord istutatud, annab saaki aastaid!
+
+### Miks kasvatada maapirni
+
+- **Püsik:** Istuta üks kord, korja igal aastal
+- **Hiigelsaak:** 2–3 kg mugulaid taime kohta
+- **Hooldusevaba:** Peaaegu ei vaja hooldust
+- **Tervislik:** Sisaldab inuliini (prebiootikum, soolestikule hea)
+- **Dekoratiivne:** 2–3 m kõrged taimed kollaste õitega (nagu päevalilled)
+
+**⚠️ Hoiatus:** Maapirn levib agressiivselt! Istuta kohta, kust ta levida ei saa, või kasuta tõket.
+
+### Sordid
+
+| Sort | Mugula värv | Kuju | Märkused |
+|------|-------------|------|----------|
+| **'Fuseau'** ⭐ | Valge | Piklik, sile | Lihtsam puhastada |
+| **'Bianka'** | Valge | Ümar | Levinud Eestis |
+| **'Rouge'** | Punane | Ümar | Dekoratiivne |
+| Tavaline (nimetamata) | Valge | Konarlik | Sageli naabri käest, väga tugev |
+
+**NB:** Enamik Eestis kasvavaid maapirne on "nimetamata" kohalikud vormid – need on väga vastupidavad ja annavad head saaki.
+
+### Kasvatamine
+
+**Istutamine:**
+
+| Tegevus | Juhis |
+|---------|-------|
+| Aeg | Märts–aprill (niipea kui maa sulanud) |
+| Mugulad | Säilitatud eelmise aasta saagist või osta |
+| Sügavus | 10–15 cm |
+| Vahe | 50–60 cm (taimed on suured!) |
+| Koht | Päikeseline või poolvarjuline |
+
+**Koha valik (OLULINE!):**
+- Istuta **eraldi alale** – maapirn levib juurte kaudu
+- Hea koht: aia serv, tara äär, eraldi nurk
+- Või kasuta **juuretõket** (süvistatud plekk, betoon)
+- Ära istuta peenrasse – võtab üle!
+
+```
+SOBILIK KOHT:
+┌─────────────────────────────────────────────┐
+│                   AED                        │
+│   ┌────────┐                                │
+│   │Maapirn │ ← Aia servas, eraldi          │
+│   │  🌻🌻🌻  │    nurgas                     │
+│   │  🌻🌻🌻  │                               │
+│   └────────┘                                │
+│        ↑                                    │
+│   Tõke (betoon, plekk 40 cm sügavusse)      │
+└─────────────────────────────────────────────┘
+```
+
+### Hooldus
+
+| Tegevus | Sagedus | Märkused |
+|---------|---------|----------|
+| Kastmine | Harva | Väga põuakindel |
+| Väetamine | Pole vajalik | Kasvab vaeseseski mullas |
+| Tugi | Vajadusel | Väga tuulises kohas |
+| Levik | Jälgi! | Eemalda levivad taimed |
+
+**Praktiliselt hooldusevaba!** Maapirn kasvab isegi seal, kus muud ei kasva.
+
+### Korjamine
+
+**Millal korjata:**
+- **Sügis (oktoober–november):** Pärast esimesi külmi (magusam maitse!)
+- **Talvel:** Korja mullas jooksvalt, vastavalt vajadusele
+- **Kevad:** Enne uue kasvu algust (märts)
+
+**Kuidas korjata:**
+- Kaeva hanguga või labidaga
+- Korja kõik mugulad, mida näed (väiksemad jäta tagasi)
+- Hoia mõned mugulad mullas – järgmise aasta taimed
+
+**⚠️ Oluline:** Iga jäänud mugulatükk kasvatab uue taime – seepärast ta nii hästi levibki!
+
+### Säilitamine
+
+| Viis | Kestus | Märkused |
+|------|--------|----------|
+| Mullas (parim!) | Terve talv | Korja vastavalt vajadusele |
+| Külmkapis | 2–3 nädalat | Niiske liiv/turvas |
+| Keldris | 1–2 kuud | Liivas, jahe ja niiske |
+| Külmutamine | 6+ kuud | Koori, blanšeeri, külmuta |
+
+**💡 Nipp:** Parim "säilituskoht" on maa – jäta mugulad talveks mulda ja kaeva välja siis, kui vaja!
+
+### Kasutamine köögis
+
+| Viis | Kirjeldus |
+|------|-----------|
+| **Toores** | Krõbe, pähklise maitsega – salatites |
+| **Küpsetatud** | Nagu kartul, aga magusam |
+| **Praetud** | Võiga pannil, karamelliseerub |
+| **Supis/pürees** | Kreemjas tekstuur |
+| **Chips** | Õhukesed viilud, praetud |
+
+**⚠️ Seedimise hoiatus:** Inuliin võib alguses põhjustada kõhugaase. Alusta väikeste kogustega!
+
+### Maapirni kalender
+
+| Kuu | Tegevus |
+|-----|---------|
+| Märts–aprill | **Istutamine** (mugulad 10–15 cm sügavusele) |
+| Mai–september | Kasvab iseseisvalt, peaaegu ei vaja hooldust |
+| September | Õitsemine (kollased, päevalillelaadsed) |
+| Oktoober–november | **Korjamise algus** (pärast esimesi külmi) |
+| November–märts | Korja mullas vastavalt vajadusele |
+| Märts | Viimane korjamine enne kevadist kasvu |
+
+### 2026 plaan
+
+- **Koht:** Eraldi ala aia servas (mitte peenras!)
+- **Kogus:** 5–10 mugulat alustuseks (annab juba esimesel aastal head saaki)
+- **Variant:** Küsi naabrilt – levib nii hästi, et sageli antakse tasuta!
+
+---
+
 ## Peenar 4: Kurgid + Kõrvitsalised
 
 2025 olid siin kartulid → 2026 on hea koht kõrvitsalistele (eri sugukond, hea rotatsioon).
@@ -648,179 +867,29 @@ VARIANT B: Eraldi ala peenras 4
 
 ---
 
-## Ürdid
+## Maitsetaimed (ürdid)
 
-Ürdid on kasulikud kaaslaskultuurid – meelitavad tolmeldajaid, peletavad kahjureid ja maitsestavad toitu!
+→ **Vaata detailset juhendit:** [maitsetaimed/maitsetaimede-hooldus.md](../maitsetaimed/maitsetaimede-hooldus.md)
 
-### Ülevaade
+Maitsetaimed on kasulikud kaaslaskultuurid – meelitavad tolmeldajaid, peletavad kahjureid ja maitsestavad toitu!
 
-| Ürt | Tüüp | Kasvukoht | Kaaslased | Märkused |
-|-----|------|-----------|-----------|----------|
-| **Basiilikus** | Üheaastane | Tomatite vahel (peenar 2) | Tomat, tšilli, kurk | Peletab lehetäisid, parandab tomatite maitset |
-| **Petersell** | Kaheaastane | Peenra servad | Tomat, porgand, sibul | Meelitab kasulikke putukaid |
-| **Pune** | Püsik | Püsiv koht servas | Kõik | Meelitab tolmeldajaid, kuivatamiseks |
+### Paigutus 2026
 
----
+| Maitsetaim | Koht | Märkused |
+|------------|------|----------|
+| **Basiilikus** | P2: tomatite vahel | 4–6 taime |
+| **Till** | P4: kurkide vahel | Puista laiali |
+| **Petersell** | P3: servad | 4–6 taime |
+| **Koriander** | Servad | Külva järelkülve |
+| **Püsikud (ürdinurk)** | Eraldi ala | Pune, tüümian, salvei, leeskputk |
 
-### Basiilikus
+### Maitsetaimede tüübid
 
-**Tomat ja basiilikus** on klassikaline kombinatsioon – nii aias kui köögis!
-
-**Kasvatamine:**
-
-| Tegevus | Aeg | Juhis |
-|---------|-----|-------|
-| Ettekasvatamine | Aprill | Külvikasti, 20–22°C, katta õhukeselt |
-| Idanemine | 7–14 päeva | Vajab sooja ja valgust |
-| Istutamine õue | Juuni algus | Koos tomatitega, pärast öökülmi |
-| Koht | Peenar 2 | Tomatite vahele, 30 cm vahe |
-
-**Hooldus:**
-- Näpista ladvad, kui taim on 15–20 cm – hargnemine
-- Eemalda õieharud (pikendab lehtede tootmist)
-- Kasta regulaarselt, aga mitte üle
-- Ei talu külma ega märga
-
-**Korjamine:**
-- Näpista lehti/oksi regulaarselt
-- Mida rohkem korjad, seda rohkem kasvab
-- Enne öökülmi korista kogu taim
-
-**Säilitamine:**
-- Värskelt: klaasi vees (mitte külmkapis!)
-- Külmutamine: hakitud, jääkuubiku vormis õliga
-- Kuivatamine: võimalik, aga kaotab aroomi
-- Pesto: klassika (basiilikus + küüslauk + parmesaan + oliivõli + pähklid)
-
-**Sordid:**
-- 'Genovese' – klassikaline, suur leht
-- 'Thai' – vürtsikam, lillad varred
-- 'Lemon' – sidrunimaitseline
-- 'Purple' – dekoratiivne, tumedam
-
----
-
-### Petersell
-
-**Kaheaastane** – esimesel aastal lehed, teisel õitseb ja seemneb.
-
-**Kasvatamine:**
-
-| Tegevus | Aeg | Juhis |
-|---------|-----|-------|
-| Külv (ette) | Märts–aprill | Aeglane idanemine (3–4 nädalat!) |
-| Külv (otse) | Mai | Otse peenrasse, niiskes hoida |
-| Idanemine | 14–28 päeva | Leota seemneid 24h enne (kiirendab) |
-| Koht | Peenra servad | Sobib paljude kõrvale |
-
-**Idanemise kiirendamine:**
-- Leota seemneid 24 tundi leiges vees
-- Või: vala keev vesi peale, lase jahtuda, kurna
-- Kata külvirea kattelooriga, hoia niisket
-
-**Hooldus:**
-- Mõõdukas kastmine
-- Vähenõudlik muld
-- Talvitub kergelt kaetuna
-- Teisel aastal õitseb (lehed kibedamaks)
-
-**Korjamine:**
-- Lõika välimisi lehti (sisemised kasvavad edasi)
-- Korja terve hooaja
-- Talvel (lume alt) saab ka lehti
-
-**Tüübid:**
-- **Lehpetersell** – laiem leht, levinum
-- **Kähar petersell** – keerdus lehed, dekoratiivne
-- **Juurpetersell** – kasvatatakse juurika pärast (porgandisarnane)
-
----
-
-### Pune (Oregano)
-
-**Püsikkultuur** – istuta üks kord, korja aastaid!
-
-**Kasvatamine:**
-
-| Tegevus | Aeg | Juhis |
-|---------|-----|-------|
-| Istutamine | Kevad või sügis | Osta taim või jaga olemasolevat |
-| Külv (seemnest) | Aprill (ette) | Aeglane, parem istikust |
-| Koht | Püsiv koht, päikeseline | Peenra serv või eraldi ürdiala |
-| Muld | Kuivem, liivane | Ei talu märga mulda! |
-
-**Iseloomustus:**
-- Pärit Vahemere piirkonnast – armastab päikest ja kuiva
-- Levib juurte kaudu – piira levikut või anna ruumi
-- Talvekindel Eestis
-- Õitseb juulis-augustis (mesilaste lemmik!)
-
-**Hooldus:**
-- Peaaegu hooldusevaba
-- Ära väeta palju (maitse kannatab)
-- Lõika kevadel tagasi (uus kasv)
-- Jagage iga 3–4 aasta järel
-
-**Korjamine:**
-- Lõika varsi enne õitsemist (parim maitse)
-- Või õitsemise ajal (lilled ka söödavad)
-- Kuivata rippuvate kimpudena varjus
-
-**Kasutamine:**
-- Pitsale, pastale, tomatisoostele
-- Kreeka salatisse
-- Kuivatatud pune säilib aasta+
-
----
-
-### Ürtide paigutus aias
-
-```
-PEENAR 2 (ööviljalaadsed):
-┌─────────────────────────────────────────────────────────────────┐
-│ Füüsal │ Tomat │ Tomat │ Tomat │ Tomat │ Tomat │ Tšilli │ Pune │
-│          │  🌿   │  🌿   │  🌿   │  🌿   │  🌿   │        │(serv)│
-│          │ basi- │ basi- │ basi- │ basi- │ basi- │        │      │
-│          │ likus │ likus │ likus │ likus │ likus │        │      │
-└─────────────────────────────────────────────────────────────────┘
-
-PEENRA SERVAD (erinevad peenrad):
-┌─────────────────────────────────────────────────────────────────┐
-│ Petersell │           PORGAND / SALATID            │ Petersell │
-│  (serv)   │                                        │  (serv)   │
-└─────────────────────────────────────────────────────────────────┘
-
-VÕI ERALDI ÜRDIALA (kui ruumi):
-┌───────────────────────────┐
-│  Pune   │ Murulauk │ (muu)│
-│ (püsik) │ (püsik)  │      │
-└───────────────────────────┘
-```
-
----
-
-### Ürtide kalender
-
-| Kuu | Ürt | Tegevus |
-|-----|-----|---------|
-| Märts–aprill | Petersell | Ettekasvatamine (või mai otse) |
-| Aprill | Basiilikus | Ettekasvatamine (soe, valgus) |
-| Aprill | Pune | Istutamine/jagamine (taim/istik) |
-| Mai | Petersell | Otse peenrasse (kui ette ei kasvatanud) |
-| Juuni algus | Basiilikus | Istutamine õue (koos tomatitega) |
-| Juuni–september | Kõik ürdid | Regulaarne korjamine |
-| September | Basiilikus | Kogu saak enne öökülmi |
-| Oktoober | Pune | Viimane lõikus, ettevalmistus talveks |
-
----
-
-### Ürtide säilitamine
-
-| Ürt | Värskelt | Kuivatamine | Külmutamine |
-|-----|----------|-------------|-------------|
-| Basiilikus | Vees klaasis, toasoojuses | Kaotab aroomi | Hakituna õliga (parim!) |
-| Petersell | Külmikus niiskes paberis | Hästi, säilib aasta | Hakituna (hea!) |
-| Pune | Vees klaasis | Suurepärane! Kimp varjus kuivama | Võimalik |
+| Tüüp | Maitsetaimed | Kasvukoht |
+|------|--------------|-----------|
+| Üheaastased | Basiilikus, till, koriander | Peenras kaaslastena |
+| Kaheaastased | Petersell | Peenra servad |
+| Püsikud ⭐ | Pune, tüümian, salvei, leeskputk, murulauk | Eraldi ürdinurk |
 
 ---
 
@@ -1258,9 +1327,16 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | **Eraldi ala** ||||
 | Kartul (varajane) | **'Solist'** ⭐ (jaanipäevaks!) | 2–3 kg mugulaid | eraldi ala |
 | Arbuus | **'Sugar Baby'** (kasvuhoonesse!) | 1 pakk | KH |
-| **Muu** ||||
+| **Maapirn** | 'Fuseau' ⭐ või kohalik sort (naabrilt?) | 5–10 mugulat | eraldi ala |
+| **Muu / ürdid** ||||
 | Petersell | Lehpetersell, kähar | 1–2 pakki | servad |
-| Pune | Tavaline aedpune | Istik/taim | serv |
+| Koriander | Tavaline | 1 pakk | servad |
+| Till | Tavaline aiatill | 1 pakk | P4 (kurkide vahel) |
+| **Ürdinurk (püsikud)** ||||
+| Pune | Tavaline aedpune | Istik/taim | ürdinurk |
+| Tüümian | Tavaline tüümian | Istik/taim | ürdinurk |
+| Salvei | *Salvia officinalis* | Istik/taim | ürdinurk |
+| Leeskputk | Tavaline | Istik/taim (naabrilt?) | ürdinurk |
 
 ---
 
@@ -1321,7 +1397,7 @@ Meelita need aeda ja nad aitavad kahjureid kontrolli all hoida:
 ### Ennetamise põhimõtted
 
 1. **Külvikord** – sama kultuuri mitte samasse kohta 3–4 aasta jooksul
-2. **Kaaslaskultuurid** – sibul porgandi kõrvale, basiilikus tomatite vahele
+2. **Kaaslaskultuurid** – sibul porgandi kõrvale, basiilik tomatite vahele
 3. **Hea õhuring** – hõrenda, ära istuta liiga tihedalt
 4. **Õige kastmine** – mulda, mitte lehtedele; hommikul
 5. **Terved taimed** – hästi väetatud ja kastatud taim on vastupidavam

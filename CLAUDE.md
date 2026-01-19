@@ -29,6 +29,8 @@ aiapidamine/
 │   └── ubade-hooldus.md         # Ubade kasvatamine (aedoad, põlduba, sordid)
 ├── küüslauk/
 │   └── küüslaugu-hooldus.md     # Küüslaugu sordid ja kasvatamine
+├── maitsetaimed/
+│   └── maitsetaimede-hooldus.md # Maitsetaimed (basiilik, till, pune, salvei jt)
 ├── maasikad/
 │   └── maasikate-hooldus.md     # Maasikate hooldusplaan
 ├── kasvuhoone/

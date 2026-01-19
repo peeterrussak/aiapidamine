@@ -30,6 +30,7 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [herned/herneste-hooldus.md](herned/herneste-hooldus.md) | Herneste kasvatamine (sordid, külv, säilitamine) |
 | [oad/ubade-hooldus.md](oad/ubade-hooldus.md) | Ubade kasvatamine (aedoad, põlduba, sordid, hooldus) |
 | [küüslauk/küüslaugu-hooldus.md](küüslauk/küüslaugu-hooldus.md) | Küüslaugu kasvatamine, sordid (Lyubasha, Komsomolets, Eesti kohalik) |
+| [maitsetaimed/maitsetaimede-hooldus.md](maitsetaimed/maitsetaimede-hooldus.md) | Maitsetaimed (basiilik, till, petersell, pune, tüümian, salvei) |
 
 ### Marjad ja puuviljad
 
