@@ -102,9 +102,9 @@ Maasikate vahel kasvatatakse kasulikke kaaslaskultuure, mis peletavad kahjureid,
 
 ---
 
-### Kurgiruhi (Borago officinalis)
+### Kurgirohi (Borago officinalis)
 
-**Miks kurgiruhi maasikate juures:**
+**Miks kurgirohi maasikate juures:**
 - Meelitab mesilasi ja kimalasi → parem tolmlemine, suurem saak
 - Väidetavalt parandab maasikate maitset
 - Sügavad juured toovad toitaineid üles
@@ -639,7 +639,7 @@ Flair → Honeoye → Rumba → Polka → Sonsation → Sonata → Verdi → Asi
 ### 2024 hooaeg
 - Frigotaimed istutatud
 - Küüslauk istutatud maasikate vahele (Eesti sort)
-- Kurgiruhi külvatud
+- Kurgirohi külvatud
 
 ### 2025 hooaeg
 
@@ -661,7 +661,7 @@ Flair → Honeoye → Rumba → Polka → Sonsation → Sonata → Verdi → Asi
 
 **Kaaslaskultuurid:**
 - Küüslaugu küüned koristatud 30. juuli – VÄGA suured! ⭐
-- Kurgiruhi kasvas hästi
+- Kurgirohi kasvas hästi
 
 **Õppetund 2026 jaoks:**
 - Hoida hõredamana algusest peale (30–35 cm vahe)

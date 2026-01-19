@@ -163,7 +163,7 @@ Rõngu, Lõuna-Eesti (külmavöönd ~6a)
 - [ ] Tigutõrje graanulite paigaldamine
 - [ ] Esimeste võsundite eemaldamine
 - [ ] Kastmise alustamine (kui kuiv)
-- [ ] Kurgiruhi harvendamine (jäta 2–4 taime)
+- [ ] Kurgirohi harvendamine (jäta 2–4 taime)
 
 ### Kuslapuud
 - [ ] Uute võrsete harvendamine (jäta 6–8 tugevamat)

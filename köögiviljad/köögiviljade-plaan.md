@@ -18,7 +18,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                        PEENAR 1: MAASIKAD                       │
-│  Maasikad (Honeoye, Sonsation, Asia, Faith) + küüslauk + kurgiruhi │
+│  Maasikad (Honeoye, Sonsation, Asia, Faith) + küüslauk + kurgirohi │
 └─────────────────────────────────────────────────────────────────┘
                               60 cm vahe
 ┌─────────────────────────────────────────────────────────────────┐
@@ -43,7 +43,7 @@
 
 → **Vaata eraldi faili:** [maasikad/maasikate-hooldus.md](../maasikad/maasikate-hooldus.md)
 
-Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiruhi)
+Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgirohi)
 
 ---
 
@@ -84,7 +84,7 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiruh
 | **Indigo Rose** | Kokteil | Tumesinine/lilla koor, antioksüdandid |
 | **Ananass** | Suur | Kollane-roosa-punane marmorjas, magus |
 | **Brandywine Yellow** | Suur (härgasüda tüüp) | Kollane, intensiivne maitse |
-| **San Marzano 2** | Pastak | Itaalia klassika, soosidele |
+| **San Marzano 2** | Ploomtomat | Itaalia klassika, kastmeteks |
 | **Oxheart / Härjasüda** | Suur | Südamekujuline, lihakas |
 | **Tolstoi F1** | Keskmine | Hübriid, haiguskindel, saagirikas |
 
@@ -96,10 +96,53 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiruh
 - **Maike** – Eesti sort, olemas
 
 **Proovida:**
-- **San Marzano 2** – soosidele ja kuivatamiseks
+- **San Marzano 2** – kastmeteks ja kuivatamiseks
 - **Ananass** – suured, erilised
 
 **NB:** Tomatid lähevad nii peenrale (P2) kui kasvuhoonesse! Vt ka [kasvuhoone-plaan.md](../kasvuhoone/kasvuhoone-plaan.md)
+
+#### Soovitatud sordid kasvuhoonesse ⭐
+
+Kõrgekasvulised sordid, mis vajavad tuge ja kõrvalvõsude eemaldamist.
+
+| Sort | Vilja värv | Vilja kaal | Eripära |
+|------|------------|------------|---------|
+| **Malle F1** ⭐ | punane | 80–90 g | Testitud! Saagikas, haiguskindel, ruugehallituskindel |
+| **Pille** ⭐ | oranž | 125–130 g | Testitud! Suured lihakad viljad, hea maitse |
+| **Evelle** ⭐ | punane | 80–90 g | Haiguskindel, lõhenemiskindel, ühtlane saak |
+| **Piibe F1** | punane | 70–80 g | Ploomtomat, pikad kobarad (~10 vilja) |
+| **Visa F1** | punane | keskmine | Eesti klassika, usaldusväärne |
+| **San Marzano** | punane | ploomtomat | Itaalia klassika, kastmeteks ja kuivatamiseks |
+
+#### Soovitatud sordid avamaale ⭐
+
+Madalakasvulised ja varajased sordid – valmivad enne sügisvihmade ja lehemädaniku tulekut. Ei vaja nii palju hoolt kui kasvuhoonesordid.
+
+| Sort | Vilja värv | Vilja kaal | Eripära |
+|------|------------|------------|---------|
+| **Terma** ⭐ | punane | 50 g | Eesti sort, väga varajane, haiguskindel – "terve ja madal" |
+| **Mato** ⭐ | sügavpunane | 95–100 g | Eesti sort, varajane, hallituskindel |
+| **Siive** ⭐ | oranž | 70–80 g | Eesti sort, varajane, sobib tunnelisse JA avamaale |
+| **Maike** | punane | 60–65 g | "Laisa inimese tomat" – vähem võrseid eemaldada |
+| **Roma VF** | punane | ploomtomat | Haiguskindel, tihe lihaga, säilitamiseks |
+
+**Avamaa vs kasvuhoone:**
+
+| Omadus | Avamaa (P2) | Kasvuhoone |
+|--------|-------------|------------|
+| Sordid | Madalakasvulised, varajased | Kõrgekasvulised |
+| Istutusaeg | Juuni algus | Mai keskpaik |
+| Saak | Juuli lõpp – september | Juuli – oktoober |
+| Hooldus | Lihtsam | Intensiivsem |
+| Risk | Lehemädanik! | Väiksem |
+
+#### Erilised sordid (huvilisele)
+
+| Sort | Vilja värv | Eripära |
+|------|------------|---------|
+| **Green Zebra** | roheline-kollane triibuline | Ebatavaline välimus, magus-hapukas |
+| **Black Krim** | tumepunane/pruunikas | Vene päritolu, intensiivne maitse |
+| **Ananass** | kollane-roosa marmorjas | Suur, väga magus |
 
 ### Paigutus peenras (1 × 9 m)
 
@@ -524,6 +567,33 @@ Kartul on klassikaline Eesti aiakultur, mis sobib hästi kaevamisvaba aia süste
 
 - Avamaakurgid 'Andrus', 'Alex': esimene saak 30. juuli ✓
 - Suvikõrvits 'Black Beauty' ja patisson 'Disco': esimene saak ~9. august ✓
+
+### Soovitatud kurgisordid avamaale ⭐
+
+#### Hapendamiseks ja marineerimiseks
+
+| Sort | Vilja pikkus | Valmimisaeg | Eripära |
+|------|--------------|-------------|---------|
+| **Andrus** ⭐ | 8–12 cm | keskmine | Testitud! Eesti klassika |
+| **Alex F1** ⭐ | 8–12 cm | 43–45 päeva | Väga varajane, haiguskindel, iseviljuv |
+| **Adam F1** ⭐ | 8–12 cm | 45–47 päeva | Populaarseim Eestis, iseviljuv, mõruvaba |
+| **Dirigent F1** | 8–10 cm | 55–60 päeva | Hapendamiseks ideaalne, mõruvaba, mosaiik- ja jahukastekindel |
+| **Dolomit F1** | 10–12 cm | varajane | Hea säilivus hoidistes, sile koor |
+
+#### Värskelt söömiseks
+
+| Sort | Vilja pikkus | Eripära |
+|------|--------------|---------|
+| **Julian F1** | 8–10 cm | Ei kasva üle, heleroheline |
+| **Melody F1** | 10–12 cm | Iseviljuv, silindriline |
+
+**Valmimise järjekord:**
+```
+Alex (43 pv) → Adam (45 pv) → Andrus → Dolomit → Dirigent
+└────────────────── juuli lõpp – september ──────────────────┘
+```
+
+**NB:** Kasvuhoone kurgid (pikad salatikurgid) – vt [kasvuhoone-plaan.md](../kasvuhoone/kasvuhoone-plaan.md)
 
 ---
 
@@ -1287,7 +1357,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | **P2: Maavitsalised** ||||
 | Tomat | **'Malle'** ⭐, **'Pille'** ⭐ (osta!), 'Maike' (olemas) | 2–3 pakki | P2 |
 | Tomat (olemas) | 'Pokusa', 'Moneymaker', 'S. Pierre', 'Zuckertraube' | – | P2 |
-| Tomat (proovida) | 'San Marzano 2' (pastak), 'Ananass' (suur) | 1–2 pakki | P2 |
+| Tomat (proovida) | 'San Marzano 2' (ploomtomat), 'Ananass' (suur) | 1–2 pakki | P2 |
 | Tšilli | **'Jalapeño'** ⭐ | 1 pakk | P2 |
 | Füüsal | Ananassfüüsal / maafüüsal | 1 pakk | P2 |
 | Basiilikus | 'Genovese', 'Thai', 'Lemon' | 1–2 pakki | P2 |
@@ -1371,7 +1441,7 @@ Meelita need aeda ja nad aitavad kahjureid kontrolli all hoida:
 | **Kiilassilmad** | Söövad lehetäisid, lehtlaiku vastseid | Till, porgand, petersell õitsemas |
 | **Jooksiklased** | Söövad nälkjaid, teolisi, vastseisi | Kivivarjualused, multš |
 | **Sipelgad** | Segased – söövad ka kahjureid, aga "karjatavad" täisid | (sõltub kontekstist) |
-| **Mesilased, kimalased** | Tolmeldamine! | Lillede mitmekesisus, pune, kurgiruhi |
+| **Mesilased, kimalased** | Tolmeldamine! | Lillede mitmekesisus, pune, kurgirohi |
 | **Ämblikud** | Söövad kärbseid, putukaid | Ära häiri, jäta varjupaiku |
 
 ### Ennetamise põhimõtted

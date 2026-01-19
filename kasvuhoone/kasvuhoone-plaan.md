@@ -131,6 +131,24 @@ Hea õhuvahetus hoiab ära haigused ja reguleerib temperatuuri.
 
 ## Kultuurid
 
+### Kurgid
+
+**Sordid kasvuhoonesse (pikad salatikurgid):**
+
+| Sort | Vilja pikkus | Valmimisaeg | Eripära |
+|------|--------------|-------------|---------|
+| **Suyu Long** ⭐ | 30–45 cm | 60–70 päeva | Testitud 2025! Hiina sort, mõruvaba, õhuke koor |
+| **Tasty Green F1** | 20–25 cm | 55–60 päeva | Sarnane Suyu Long'ile, saagikas, jahukastekindel |
+| **Futura F1** ⭐ | ~30 cm | varajane | Iseviljuv, jahukaste- ja juuremädanikkindel |
+| **Saladin F1** | 36–40 cm | 50–65 päeva | Kõige pikem! 300–400 g, mõruvaba |
+| **Telegraph Improved** | 20–26 cm | keskmine | Klassika, saagikas |
+
+**Iseviljuvad sordid** (ei vaja tolmeldajaid): Futura, Saladin, Tasty Green
+
+**NB:** Avamaakurgid (lühikesed, hapendamiseks) – vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md)
+
+---
+
 ### Kurk 'Suyu Long' (Hiina pikk kurk)
 
 **2025 kogemus:** ⭐ Väga hea!
@@ -170,14 +188,24 @@ Hea õhuvahetus hoiab ära haigused ja reguleerib temperatuuri.
 
 **Sordid kasvuhoonesse:**
 
-| Sort | Tüüp | Märkused |
-|------|------|----------|
-| **Malle** ⭐ | Keskmine, punane | Testitud 2025, väga hea! |
-| **Pille** ⭐ | Keskmine, oranž | Testitud 2025, väga hea! |
-| Erk F1 | Hübriid | Hea, haiguskindel |
-| San Marzano 2 | Pastak | Soosidele, kuivatamiseks |
+| Sort | Vilja värv | Vilja kaal | Märkused |
+|------|------------|------------|----------|
+| **Malle F1** ⭐ | punane | 80–90 g | Testitud 2025, väga hea! Haiguskindel |
+| **Pille** ⭐ | oranž | 125–130 g | Testitud 2025, väga hea! Suured lihakad viljad |
+| **Evelle** ⭐ | punane | 80–90 g | Haiguskindel, lõhenemiskindel |
+| **Piibe F1** | punane | 70–80 g | Ploomtomat, pikad kobarad (~10 vilja) |
+| **Erk F1** | punane | keskmine | Hea, haiguskindel |
+| **San Marzano 2** | punane | ploomtomat | Kastmeteks, kuivatamiseks |
 
-**NB:** Tomatid kasvavad nii kasvuhoones kui peenral (P2). Kasvuhoones pikem hooaeg ja parem kaitse haiguste eest.
+**Erilised sordid:**
+
+| Sort | Vilja värv | Märkused |
+|------|------------|----------|
+| **Green Zebra** | roheline-kollane triibuline | Ebatavaline välimus, magus-hapukas |
+| **Black Krim** | tumepunane/pruunikas | Intensiivne maitse |
+| **Ananass** | kollane-roosa marmorjas | Suur, väga magus |
+
+**NB:** Tomatid kasvavad nii kasvuhoones kui peenral (P2). Kasvuhoones pikem hooaeg ja parem kaitse haiguste eest. Avamaale sobivad madalakasvulised sordid (Terma, Mato, Siive) – vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md).
 
 **Kasvatamine:**
 
