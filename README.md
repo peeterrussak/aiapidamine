@@ -13,13 +13,34 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 
 ## Failid
 
+### Põhijuhendid
+
 | Fail | Kirjeldus |
 |------|-----------|
+| [hooajaline-kalender.md](hooajaline-kalender.md) | Aastaringne tööde kalender kuude kaupa |
 | [köögiviljad/köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md) | Köögiviljade kasvatamise põhiplaan, rotatsioon, sordid |
-| [maasikad/maasikate-hooldus.md](maasikad/maasikate-hooldus.md) | Maasikate hooldus, sordid, 20 parimat tarkust |
 | [kasvuhoone/kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md) | Kasvuhoone kultuurid (kurk, tomat, arbuus) |
+
+### Marjad ja puuviljad
+
+| Fail | Kirjeldus |
+|------|-----------|
+| [maasikad/maasikate-hooldus.md](maasikad/maasikate-hooldus.md) | Maasikate hooldus, sordid, 20 parimat tarkust |
 | [vaarikad/vaarikate-hooldus.md](vaarikad/vaarikate-hooldus.md) | Vaarikate hooldus (Glen Ample, Glen Dee, must pampel) |
 | [kuslapuud/kuslapuude-hooldus.md](kuslapuud/kuslapuude-hooldus.md) | Kuslapuude hooldus (6 sorti) |
+| [sõstrad/sõstarde-hooldus.md](sõstrad/sõstarde-hooldus.md) | Sõstarde hooldus (must, punane, valge) |
+| [õunapuud/õunapuude-hooldus.md](õunapuud/õunapuude-hooldus.md) | Õunapuude hooldus, lõikus, sordid |
+
+### Tugijuhendid
+
+| Fail | Kirjeldus |
+|------|-----------|
+| [muld-ja-vaetamine.md](muld-ja-vaetamine.md) | Muld, kompost, väetised kaevamisvabas aias |
+| [kahjurid-ja-haigused.md](kahjurid-ja-haigused.md) | Kahjurite ja haiguste koondtabel, tõrje |
+| [kulvikorrad-ja-rotatsioon.md](kulvikorrad-ja-rotatsioon.md) | Külvikorra põhimõtted ja planeerimine |
+| [seemnete-kogumine.md](seemnete-kogumine.md) | Seemnete kogumine ja säilitamine |
+| [säilitamine-ja-hoiustamine.md](säilitamine-ja-hoiustamine.md) | Saagi säilitamine (külmutamine, kuivatamine, hapendamine) |
+| [varustus-ja-toeriistad.md](varustus-ja-toeriistad.md) | Tööriistad, varustus ja ligikaudsed kulud |
 
 ## 2026 plaan
 

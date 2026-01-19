@@ -181,26 +181,50 @@ Vaarikad vajavad tuge! Levinumad süsteemid:
 
 ### Kahjurid
 
-| Kahjur | Tunnused | Tõrje |
-|--------|----------|-------|
-| **Vaarikamardikas** | "Ussitanud" marjad | Raputa hommikul ajalehele |
-| **Lehetäid** | Keerdus lehed, nõrgad võrsed | Seebivesi, neebiõli |
-| **Vaarikakoi** | Närbunud võrsetipud | Lõika kahjustatud võrsed |
+| Kahjur | Tunnused | Kahju | Tõrje |
+|--------|----------|-------|-------|
+| **Vaarikamardikas** | Marjad "ussitanud", väikesed valged tõugud sees | Rikutud marjad | Raputa hommikul ajalehele; püüdepurgid; sügisel mullakihi pööramine |
+| **Lehetäid** | Keerdunud lehed, kleepuv kaste, sipelgad | Nõrgenenud võrsed, viirused | Seebivesi, neebiõli, tugev veejuga; lepatriinud |
+| **Vaarikakoi** | Närbunud võrsetipud, augud pungades | Kaotatud võrsed ja saak | Lõika kahjustatud võrsed 10 cm terve koeni |
+| **Vaarika-varreleedik** | Rõngakujulised turse-kohad vartel | Oksad murduvad | Lõika ja põleta nakatunud varred |
+| **Ämbliklestad** | Kollakad/pronksjad lehed, peen võrk | Lehed varisevad, taim nõrgeneb | Pihusta vett lehtedele; väävlipreparaat |
+| **Linnud** | Söödud marjad | Saagikadu | Kata võrguga |
 
 ### Haigused
 
-| Haigus | Tunnused | Ennetamine/tõrje |
-|--------|----------|------------------|
-| **Hallhallitus** | Hallitanud marjad | Hea õhuring, ära kasta marju |
-| **Võrsehaigus** | Lillad laigud varstel | Eemalda haigeid oksi, hõrenda |
-| **Rooste** | Oranžid täpid lehtedel | Eemalda nakatunud lehed |
+| Haigus | Tunnused | Kahju | Ennetamine/tõrje |
+|--------|----------|-------|------------------|
+| **Hallhallitus** (Botrytis) | Hall ebemjas hallitus marjadel | Marjad söömiskõlbmatud | Hea õhuring, hõrenda, ära kasta marju |
+| **Võrsehaigus** (Didymella) | Lillakad/pruunid laigud vartel, koor praguned | Võrsed surevad, saak väheneb | Eemalda ja põleta haigeid oksi; vaskpreparaat varakevadel |
+| **Vaarikaroosmed** | Oranžid/kollased pustlid lehtedel | Lehed varisevad, taim nõrgeneb | Eemalda nakatunud lehed; resistentsed sordid |
+| **Juuremädanik** (Phytophthora) | Taim närbub, juured pruunid/pehmed | Taim sureb | Paranda drenaaži; eemalda nakatunud taim; ära istuta samasse kohta |
+| **Viirushaigused** | Kollased sooned lehtedel, kääbuskasv | Saak väheneb, taim degenereerub | Tõrje lehetäisid (viiruse kandjad); eemalda nakatunud taimed |
 
-### Ennetamine
+### Ennetamine on parim kaitse
 
-- **Hea õhuring** – hõrenda regulaarselt
-- **Ära kasta ülevalt** – ainult mulda
-- **Multšimine** – hoiab ära mullapritsmed
-- **Eemalda haigeid oksi** – kohe!
+1. **Hea õhuring** – hõrenda 6–8 võrseni põõsa kohta
+2. **Kastmine mulda** – ära kasta ülevalt (seeneviljad levivad)
+3. **Multšimine** – hoiab ära mullapritsmed lehtedele
+4. **Hügieen** – eemalda haigeid oksi KOHE, põleta või prügikasti
+5. **Külvikord** – ära istuta vaarikaid vana vaarika kohale
+6. **Terve taim** – osta sertifitseeritud puukoolist
+
+### Kahjurite ja haiguste seire
+
+**Kontrolli regulaarselt (1× nädalas kevad–suvel):**
+- [ ] Pungad ja võrsetipud – koi kahjustused
+- [ ] Lehtede alumine pool – täid, lestad
+- [ ] Varred – laigud, praod, turse
+- [ ] Marjad – hallitus, tõugud
+
+### Tõrjevahendite meelespea
+
+| Probleem | Ökoloogiline lahendus | Keemiline (viimane variant) |
+|----------|----------------------|----------------------------|
+| Vaarikamardikas | Raputamine, püüdepurgid | Püretriinisprei (enne õitsemist) |
+| Lehetäid | Seebivesi, neebiõli | Püretriinisprei |
+| Hallhallitus | Hõrendamine, hügieen | Botrytiidi tõrjevahend |
+| Võrsehaigus | Haigete okste eemaldamine | Vaskpreparaat varakevadel |
 
 ---
 
@@ -237,8 +261,42 @@ Vaarikad vajavad tuge! Levinumad süsteemid:
 ## Märkmed
 
 ### 2025 hooaeg
-- Vaarikaid keskmiselt (30. juuli)
+
+**Saak:**
+- Vaarikate saak: keskmine (korjatud 30. juulist)
+- 'Glen Ample': esimesena valmis
+- Must pampel: juuli keskpaigas
+- 'Glen Dee': hiliseim, august
+
+**Tähelepanekud:**
+- (Lisa konkreetsed kogused ja tähelepanekud)
+
+**Kulud 2025:**
+- (Lisa sortide/väetiste kulud)
 
 ### 2026 hooaeg
-- (Lisa siia hooaja tähelepanekud)
+
+**Plaan:**
+- [ ] Kontrolli tugisüsteemi kevadel
+- [ ] Hõrenda 6–8 võrseni põõsa kohta
+- [ ] Paigalda liimpüünised vaarikamardikatele
+- [ ] Märgi üles saagi kogused
+
+**Hooaja tähelepanekud:**
+- (Lisa siia hooaja jooksul)
+
+**Oodatav saak:**
+| Sort | Põõsaste arv | Oodatav saak |
+|------|--------------|--------------|
+| Glen Ample | (lisa) | 3–4 kg/põõsas |
+| Glen Dee | (lisa) | 2–3 kg/põõsas |
+| Must pampel | (lisa) | 1–2 kg/põõsas |
+
+---
+
+## Seotud failid
+
+- **Teised marjad:** [sõstrad](../sõstrad/sõstarde-hooldus.md), [kuslapuud](../kuslapuud/kuslapuude-hooldus.md), [maasikad](../maasikad/maasikate-hooldus.md)
+- **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
+- **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)
 

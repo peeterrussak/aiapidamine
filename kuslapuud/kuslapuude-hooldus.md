@@ -283,3 +283,65 @@ Kuslapuu on üldiselt **väga vastupidav** taim, kuid mõned probleemid võivad 
 4. Lisa tilk nõudepesuvahendit
 5. Pihusta lehtede peale ja alla
 6. Korda 3–5 päeva tagant
+
+---
+
+## Märkmed
+
+### 2025 hooaeg
+
+**Sordid ja vanus:**
+| Sort | Istutatud | Vanus 2025 | Seisund |
+|------|-----------|------------|---------|
+| Jugana | 2020 | 5 a | (hinda) |
+| Tundra | 2020 | 5 a | (hinda) |
+| Honeybee | 2020 | 5 a | (hinda) |
+| Aurora | 2024 | 1 a | (hinda) |
+| Boreal Beast | 2024 | 1 a | (hinda) |
+| Boreal Blizzard | 2024 | 1 a | (hinda) |
+
+**Saak 2025:**
+- Jugana: (lisa kg)
+- Tundra: (lisa kg)
+- Honeybee: (lisa kg)
+- Uued sordid: minimaalne (1. aasta)
+- **Kokku:** (lisa kg)
+
+**Tähelepanekud:**
+- (Lisa konkreetsed tähelepanekud)
+
+**Kulud 2025:**
+- Uued taimed (2024): ~(lisa summa)
+- Väetised: (lisa)
+- Linnuvõrk: (lisa)
+
+### 2026 hooaeg
+
+**Plaan:**
+- [ ] Mõõda vahekaugused kevadel
+- [ ] Otsusta ümberistutamine (Tundra?)
+- [ ] Väeta kompostiga
+- [ ] Paigalda linnuvõrk enne marjade valmimist
+- [ ] Märgi üles saagi kogused sordi kaupa
+
+**Oodatav saak 2026:**
+| Sort | Vanus 2026 | Oodatav saak |
+|------|------------|--------------|
+| Jugana | 6 a | 2–3 kg |
+| Tundra | 6 a | 2–3 kg |
+| Honeybee | 6 a | 2–3 kg |
+| Aurora | 2 a | 0,5–1 kg |
+| Boreal Beast | 2 a | 0,5–1 kg |
+| Boreal Blizzard | 2 a | 0,5–1 kg |
+| **Kokku** | – | **~10–14 kg** |
+
+**Hooaja tähelepanekud:**
+- (Lisa siia hooaja jooksul)
+
+---
+
+## Seotud failid
+
+- **Teised marjad:** [vaarikad](../vaarikad/vaarikate-hooldus.md), [sõstrad](../sõstrad/sõstarde-hooldus.md), [maasikad](../maasikad/maasikate-hooldus.md)
+- **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
+- **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)

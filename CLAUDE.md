@@ -11,6 +11,12 @@ See on eestikeelne aiapidamise teadmusbaas kaevamisvaba (no-dig) aia jaoks Eesti
 ```
 aiapidamine/
 ├── hooajaline-kalender.md       # Aastaringne tööde kalender kuude kaupa
+├── säilitamine-ja-hoiustamine.md # Saagi säilitamine ja talveks ettevalmistamine
+├── varustus-ja-toeriistad.md    # Tööriistad, varustus ja kulud
+├── muld-ja-vaetamine.md         # Muld, kompost, väetised kaevamisvabas aias
+├── kahjurid-ja-haigused.md      # Kahjurite ja haiguste koondtabel
+├── kulvikorrad-ja-rotatsioon.md # Külvikorra põhimõtted ja planeerimine
+├── seemnete-kogumine.md         # Seemnete kogumine ja säilitamine
 ├── köögiviljad/
 │   └── köögiviljade-plaan.md    # Peamine köögiviljade fail (~1500 rida)
 ├── maasikad/

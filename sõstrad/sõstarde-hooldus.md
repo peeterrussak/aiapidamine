@@ -460,8 +460,47 @@ Must sõstar → Punane sõstar → Valge sõstar
 ## Märkmed
 
 ### 2025 hooaeg
-- (Lisa siia hooaja tähelepanekud)
+
+**Sordid aias:**
+- Must sõstar: (lisa sordid)
+- Punane sõstar: (lisa sordid)
+- Valge sõstar: (lisa sordid)
+
+**Saak:**
+- Must sõstar: (lisa kg)
+- Punane sõstar: (lisa kg)
+- Valge sõstar: (lisa kg)
+
+**Tähelepanekud:**
+- (Lisa konkreetsed tähelepanekud: haigused, kahjurid, ilmastik)
+
+**Kulud 2025:**
+- (Lisa väetiste/tõrjevahendite kulud)
 
 ### 2026 hooaeg
-- (Lisa siia hooaja tähelepanekud)
+
+**Plaan:**
+- [ ] Lõikus enne pungade paisumist (märts)
+- [ ] Väetamine kompostiga
+- [ ] Multšimine
+- [ ] Hiliskülmakaitse ettevalmistus
+- [ ] Märgi üles saagi kogused
+
+**Oodatav saak põõsa kohta:**
+| Tüüp | Põõsaste arv | Vanus | Oodatav saak |
+|------|--------------|-------|--------------|
+| Must sõstar | (lisa) | (lisa) | 3–5 kg/põõsas |
+| Punane sõstar | (lisa) | (lisa) | 3–4 kg/põõsas |
+| Valge sõstar | (lisa) | (lisa) | 3–4 kg/põõsas |
+
+**Hooaja tähelepanekud:**
+- (Lisa siia hooaja jooksul)
+
+---
+
+## Seotud failid
+
+- **Teised marjad:** [vaarikad](../vaarikad/vaarikate-hooldus.md), [kuslapuud](../kuslapuud/kuslapuude-hooldus.md), [maasikad](../maasikad/maasikate-hooldus.md)
+- **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
+- **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)
 

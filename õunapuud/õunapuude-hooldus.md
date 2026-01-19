@@ -552,10 +552,52 @@ Võimalikud põhjused:
 ## Märkmed
 
 ### 2025 hooaeg
+
+**Puud aias:**
+| Sort | Vanus | Pookealus | Seisund 2025 |
+|------|-------|-----------|--------------|
+| (lisa sort) | (lisa) | (lisa) | (hinda) |
+| (lisa sort) | (lisa) | (lisa) | (hinda) |
+| (lisa sort) | (lisa) | (lisa) | (hinda) |
+
+**Probleemid 2025:**
 - Lehed nirud ja kolletavad
 - Õunad siiski küljes
-- **Järeldus 2026:** Kontrollida haigusi/kahjureid, väetada paremini
+- Võimalik põhjus: kärntõbi, toitainepuudus, või põud
+
+**Saak 2025:**
+- (lisa kg ja kvaliteedi hinnang)
+
+**Kulud 2025:**
+- Väetised: (lisa)
+- Tõrjevahendid: (lisa)
 
 ### 2026 hooaeg
-- (Lisa siia hooaja tähelepanekud)
+
+**Tegevuskava 2025 probleemide lahendamiseks:**
+- [ ] Vaskpreparaadiga töötlus varakevadel (pungade paisumisel)
+- [ ] Väetamine kompostiga (20–30 L puu kohta)
+- [ ] Langenud lehtede kogumine (kärntõve ennetamine)
+- [ ] Regulaarne kastmine kuival perioodil
+- [ ] Kahjurite jälgimine (lehetäid, lestad)
+
+**Lõikuse plaan:**
+- [ ] Talvine lõikus veebruaris
+- [ ] Suvine vesivõsude eemaldamine juunis–juulis
+
+**Oodatav saak:**
+| Sort | Vanus | Oodatav saak |
+|------|-------|--------------|
+| (lisa) | (lisa) | (lisa kg) |
+
+**Hooaja tähelepanekud:**
+- (Lisa siia hooaja jooksul)
+
+---
+
+## Seotud failid
+
+- **Marjad:** [vaarikad](../vaarikad/vaarikate-hooldus.md), [sõstrad](../sõstrad/sõstarde-hooldus.md), [kuslapuud](../kuslapuud/kuslapuude-hooldus.md)
+- **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
+- **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)
 
