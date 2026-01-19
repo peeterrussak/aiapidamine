@@ -5,14 +5,15 @@
 **Sugukond:** Roosõielised (Rosaceae)
 **Perekond:** Prunus
 
-Eestis kasvatatakse kahte tüüpi kirsipuid:
+Eestis kasvatatakse mitut tüüpi kirsipuid:
 
 | Tüüp | Ladina nimi | Eesti kliimas | Märkus |
 |------|-------------|---------------|--------|
 | **Hapukirss** ⭐ | Prunus cerasus | Väga hea | Kindlam valik Eestis |
+| **Põõsaskirss** ⭐ | Prunus × kerrasis | **Suurepärane** | Väga talvekindel, kompaktne |
 | **Maguskirss** | Prunus avium | Keskmine | Vajab kaitstud kohta |
 
-**Rõngu jaoks:** Hapukirss on kindlam valik! Maguskirss võib külmadel talvedel kannatada.
+**Rõngu jaoks:** Hapukirss ja põõsaskirss on parimad valikud! Põõsaskirss sobib eriti väikesele aiale.
 
 ---
 
@@ -110,7 +111,94 @@ Sama mis hapukirssil, **AGA:**
 
 ---
 
-## Hooldus (mõlemad tüübid)
+## Põõsaskirss (Prunus × kerrasis) ⭐
+
+Põõsaskirss ehk Romance seeria kirsid on Kanadas Saskatchewan'i Ülikoolis aretatud hübriidid hapukirsi (*Prunus cerasus*) ja stepikirsipõõsa (*Prunus fruticosa*) vahel. **Ideaalne valik väikesele aiale!**
+
+### Miks põõsaskirss?
+
+| Eelis | Kirjeldus |
+|-------|-----------|
+| **Äärmiselt talvekindel** | Tsoon 2 (kuni -40°C!) – aretatud Kanada kliimas |
+| **Kompaktne** | Kõrgus 1,5–2,5 m – lihtsam hooldada ja korjata |
+| **Iseviljuv** | Piisab ühest põõsast |
+| **Oma juurtel** | Pole poogitud – kui külm kahjustab, kasvab sama sort tagasi |
+| **Minimaalne hooldus** | Lõikust praktiliselt pole vaja |
+| **Haiguskindel** | Vähe probleeme kahjurite ja haigustega |
+| **Mitmekülgne** | Sobib hekiks, konteinerisse, lillepeenrasse |
+
+### Sordid ⭐ (Romance seeria)
+
+| Sort | Kõrgus | Maitse | Valmimisaeg | Saak | Märkused |
+|------|--------|--------|-------------|------|----------|
+| **'Carmine Jewel'** ⭐ | 1,5–2 m | Hapukas | Juuli lõpp | 9–14 kg | Kõige produktiivsem, hea kuivatamiseks |
+| **'Juliet'** ⭐ | 1,5–2,4 m | **Magusaim** | Aug algus | 7–10 kg | Suurimad viljad, parim värskelt |
+| **'Romeo'** | 1,8–2,4 m | Magushapu | Aug algus | 7–10 kg | Parim mahlaks ja veiniks |
+| **'Crimson Passion'** | 2 m | Magushapu | Aug | 7–10 kg | Suur saak |
+| **'Cupid'** | 2 m | Magus | Aug | 5–8 kg | Suurimad viljad seerias |
+| **'Valentine'** | 1,5–2 m | Hapukas | Aug | 7–10 kg | Hea töötlemiseks |
+
+**Soovitus Rõngu jaoks:**
+- **'Carmine Jewel'** – kõige kindlam, suurim saak
+- **'Juliet'** – kui soovid magusaid marju
+
+### Istutamine
+
+| Tegur | Nõue |
+|-------|------|
+| **Aeg** | Kevad (aprill–mai) või sügis (sept–okt) |
+| **Valgus** | Täispäike (min 6h) |
+| **Muld** | Keskmine, hea drenaažiga |
+| **Vahe** | 1,5–2 m (üksikult) või 1–1,2 m (hekiks) |
+| **Sügavus** | **3–4 cm sügavamale** kui konteineris (varupungad!) |
+
+**Istutamine samm-sammult:**
+
+1. Kaeva auk 40 × 40 × 40 cm
+2. Sega muld kompostiga
+3. Istuta **3–4 cm sügavamale** kui konteineris (olulised varupungad!)
+4. Kasta põhjalikult
+5. Multši 5–10 cm
+
+### Hooldus
+
+**Kastmine:**
+- Esimesed 2 aastat: regulaarne kastmine
+- Hiljem: ainult pikaajalise põua ajal
+
+**Väetamine:**
+- Kevadel kompost (5–10 L põõsa kohta)
+- Vajadusel puutuhk sügisel
+
+**Lõikus:**
+- **Praktiliselt pole vajalik!**
+- Vajadusel eemalda surnud oksi
+- Hoia kausikujuline vorm
+
+### Saak
+
+- **Valmimisaeg:** Juuli lõpp – august
+- **Saagikus:** 9–14 kg põõsa kohta (5. aastaks)
+- **NB:** Marjad pole küpsed kohe pärast värvumist – oota veel 1–2 nädalat!
+
+**Kasutus:**
+- Moos ja keedised (palju pektiini!)
+- Küpsetised (pirukad, koogid)
+- Mahl ja vein ('Romeo' eriti hea)
+- Kuivatamine ('Carmine Jewel')
+- Külmutamine
+
+### Kust osta Eestis?
+
+| Puukool | Sordid |
+|---------|--------|
+| [Juhani Puukool](https://juhanipuukool.ee) | 'Carmine Jewel', 'Romeo', 'Juliet' |
+| [Neeva Aed](https://neevaaed.ee) | 'Carmine Jewel' |
+| Hansaplant | 'Carmine Jewel' |
+
+---
+
+## Hooldus (kirsipuud)
 
 ### Kastmine
 
@@ -289,15 +377,16 @@ Linnud on kirsi suurim "kahjur"! Lahendused:
 
 ## Kokkuvõte: Millist kirssi valida?
 
-| Küsimus | Hapukirss ⭐ | Maguskirss |
-|---------|-------------|------------|
-| **Talvekindlus** | Väga hea | Keskmine |
-| **Hooldus** | Lihtsam | Nõudlikum |
-| **Ruum** | Väiksem (3–5 m) | Suurem (5–8 m) |
-| **Tolmeldamine** | Iseviljuv | Vajab teist sorti |
-| **Värskelt söömine** | Hapukas | Magus |
-| **Töötlemine** | Suurepärane | Hea |
-| **Rõngu jaoks** | **Soovitatud** | Kaitstud kohas võimalik |
+| Küsimus | Põõsaskirss ⭐ | Hapukirss ⭐ | Maguskirss |
+|---------|---------------|-------------|------------|
+| **Talvekindlus** | **Suurepärane** (-40°C) | Väga hea | Keskmine |
+| **Hooldus** | **Minimaalne** | Lihtsam | Nõudlikum |
+| **Ruum** | **Väike** (1,5–2,5 m) | Keskmine (3–5 m) | Suur (5–8 m) |
+| **Tolmeldamine** | Iseviljuv | Iseviljuv | Vajab teist sorti |
+| **Värskelt söömine** | Hapukas–magus | Hapukas | Magus |
+| **Töötlemine** | **Suurepärane** | Suurepärane | Hea |
+| **Saak** | 9–14 kg | 15–25 kg | 20–40 kg |
+| **Rõngu jaoks** | **Ideaalne väikesele aiale** | Soovitatud | Kaitstud kohas |
 
 ---
 

@@ -22,7 +22,7 @@ Oma aia seemnete kogumine ja kasutamine.
 
 | Tüüp | Märgistus | Seemnete kogumine |
 |------|-----------|-------------------|
-| **Sortidid** (OP, avatud tolmlemine) | Pole märgistust või "OP" | ✓ Sobib – järglased sarnased vanemale |
+| **Sordid** (OP, avatud tolmlemine) | Pole märgistust või "OP" | ✓ Sobib – järglased sarnased vanemale |
 | **Hübriidid** | "F1" | ✗ Ei sobi – järglased erinevad, nõrgemad |
 
 **⚠️ Oluline:** F1 hübriidide seemneid EI tasu koguda – järglased ei ole ühtsed!
@@ -267,7 +267,7 @@ Enne kevadist külvi testi seemnete idanevust.
 
 | Kultuur | Põhjus |
 |---------|--------|
-| **Tomat** (sortidid) | Isetolmleja, lihtne |
+| **Tomat** (sordid) | Isetolmleja, lihtne |
 | **Herned** | Isetolmleja, väga lihtne |
 | **Oad** | Isetolmleja, väga lihtne |
 | **Salat** | Isetolmleja, lihtne |
