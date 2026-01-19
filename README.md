@@ -21,6 +21,12 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [köögiviljad/köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md) | Köögiviljade kasvatamise põhiplaan, rotatsioon, sordid |
 | [kasvuhoone/kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md) | Kasvuhoone kultuurid (kurk, tomat, arbuus) |
 
+### Köögiviljad
+
+| Fail | Kirjeldus |
+|------|-----------|
+| [küüslauk/küüslaugu-hooldus.md](küüslauk/küüslaugu-hooldus.md) | Küüslaugu kasvatamine, sordid (Lyubasha, Komsomolets, Eesti kohalik) |
+
 ### Marjad ja puuviljad
 
 | Fail | Kirjeldus |

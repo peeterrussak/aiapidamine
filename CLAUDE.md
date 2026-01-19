@@ -19,6 +19,8 @@ aiapidamine/
 ├── seemnete-kogumine.md         # Seemnete kogumine ja säilitamine
 ├── köögiviljad/
 │   └── köögiviljade-plaan.md    # Peamine köögiviljade fail (~1500 rida)
+├── küüslauk/
+│   └── küüslaugu-hooldus.md     # Küüslaugu sordid ja kasvatamine
 ├── maasikad/
 │   └── maasikate-hooldus.md     # Maasikate hooldusplaan
 ├── kasvuhoone/
