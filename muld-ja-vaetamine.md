@@ -111,6 +111,205 @@ Kompost on kaevamisvaba aia alus – see on nii väetis kui mullaparandaja.
 
 ---
 
+## Vermikomposti (ussikompost)
+
+Vermikomposti on kompostiusside abil valmistatud ülimalt kvaliteetne orgaaniline väetis. Ussid töötlevad orgaanilisi jäätmeid ja toodavad biohuumust, mis on tavalisest kompostist 5–10 korda toitainerikkam.
+
+### Miks vermikomposti?
+
+| Eelis | Selgitus |
+|-------|----------|
+| Kõrge toitaineväärtus | Sisaldab rohkem N, P, K kui tavaline kompost |
+| Mikroobiderohkus | Sisaldab kasulikke baktereid ja seeni |
+| Kasvustimulaator | Sisaldab humiinhappeid ja hormoone |
+| Ei põleta taimi | Võib kasutada lahjendamata |
+| Kompaktne süsteem | Sobib väikesesse kohta, ka tuppa |
+| Aastaringne | Töötab talvelgi (toas) |
+
+### Kompostiussi liigid
+
+| Liik | Ladina nimi | Sobivus | Märkused |
+|------|-------------|---------|----------|
+| **Punane kompostiuss** ⭐ | Eisenia fetida | Parim! | Kiire, toitainerohke, talub laias tempvahemikus |
+| **Teine kompostiuss** | Eisenia andrei | Väga hea | Sarnane punasega, natuke väiksem |
+| **Aafrika ööliblikas** | Eudrilus eugeniae | Soe kliima | Ei sobi Eestisse (vajab >15°C) |
+
+**⚠️ Tavaline vihmauss (Lumbricus terrestris) EI SOBI kompostimiseks!** Ta kaevab sügavale mulda ega toitu pinnasest.
+
+### Ussikasti ehitamine
+
+**Lihtne DIY ussikast:**
+
+```
+┌─────────────────────────────┐
+│  KAAS (pimedaks + niiskeks) │
+├─────────────────────────────┤
+│  TOITMISE KIHT              │  ← Köögiviljajäätmed
+│  ~5 cm                       │
+├─────────────────────────────┤
+│  USSID + ALLAPANU           │  ← Ussid + niiske papp/turvas
+│  ~15 cm                      │
+├─────────────────────────────┤
+│  DRENAAŽ (augud põhjas)     │  ← Vedelik välja
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │
+└─────────────────────────────┘
+     ↓ Ussi-"tee" (vedelik)
+```
+
+**Materjalid:**
+- 2 plastikkasti (60–80 L), üksteise sees
+- Alumisel kastil augud põhjas (drenaaž)
+- Kaas (pimedus on oluline!)
+- Kraanike alumises kastis (valikuline)
+
+**Allapanu:**
+- Rebitud papp / kartong (niisutatud)
+- Kookoskiud
+- Turvas (väike kogus)
+- Lehtedekõdu
+
+### Söötmine
+
+**Mida ANDA:**
+
+| Materjal | Kogus | Märkused |
+|----------|-------|----------|
+| Köögiviljajäätmed | Peamine | Koorid, lehed, varred |
+| Puuviljajäätmed | Mõõdukalt | Banaanikoored, õunad |
+| Kohvipaks | Hea! | Ussidele meeldib, neutrahne pH |
+| Teepuru | Jah | Koos filtriga |
+| Munakoored | Jah | Purusta peeneks (kaltsium) |
+| Papp, paber | Jah | Rebitud, niisutatud ("pruun" materjal) |
+| Surnud lehed | Jah | Mõõdukalt |
+
+**Mida MITTE anda:**
+
+| Materjal | Põhjus |
+|----------|--------|
+| Liha, kala, luu | Hais, kahjurid |
+| Piim, juust | Hais, hallitus |
+| Rasv, õli | Ei lagune |
+| Küüslauk, sibul | Ussid ei talu |
+| Tsitrusvilju (palju) | Liiga happeline |
+| Teraviljatooteid | Lähevad hallitama |
+| Haigeid taimi | Haigused võivad säilida |
+
+### Hooldus
+
+**Optimaalsed tingimused:**
+
+| Parameeter | Väärtus |
+|------------|---------|
+| Temperatuur | 15–25°C (parim 20°C) |
+| Niiskus | Nagu pigistatud käsn |
+| pH | 6–7 (neutraalne) |
+| Valgus | Pime (ussid pelgavad valgust) |
+| Õhk | Hea ventilatsioon |
+
+**Igapäevane hooldus:**
+- Söötmine 2–3× nädalas
+- Ära anna rohkem kui ussid ära söövad (~nende kaal päevas)
+- Sega aeg-ajalt (iga 1–2 nädalat)
+
+**Probleemid ja lahendused:**
+
+| Probleem | Põhjus | Lahendus |
+|----------|--------|----------|
+| Hais | Liiga palju toitu, liiga märg | Vähenda söötmist, lisa papp |
+| Kärbsed | Liiga palju puuvilju, lahtine toit | Kata toit paberi/papiga |
+| Ussid põgenevad | Liiga niiske/kuiv/happeline | Korrigeeri tingimusi |
+| Hallitus | Liiga palju tsitrust, halb ventilatsioon | Lisa lupja, tuuluta |
+| Ussid ei söö | Liiga külm või toit pole sobiv | Soojenda, vaheta toitu |
+
+### Vermikomposti koristamine
+
+**Meetod 1: Valguse meetod (lihtne)**
+1. Lükka valmis kompost kasti ühte otsa
+2. Lisa värsket toitu teise otsa
+3. Oota 1–2 nädalat (ussid kolivad toidu juurde)
+4. Korista valmis kompost
+
+**Meetod 2: Sõelumine**
+1. Tõsta sisu välja
+2. Sõelu läbi (5 mm sõel)
+3. Ussid ja suuremad tükid tagasi kasti
+
+**Saak:**
+- ~1/3 algmaterjali mahust
+- Algul vähem, kogenumal kasutajal rohkem
+
+### Vermikomposti kasutamine
+
+**Tahkena:**
+
+| Kasutus | Kogus | Kuidas |
+|---------|-------|--------|
+| Istutusauk | 1–2 peotäit | Sega mullaga |
+| Seemikutele | 10–20% | Sega potimullaga |
+| Peenrale | 0,5–1 cm kiht | Pealekülv |
+| Taimedele | 1 peotäis | Juurte ümber |
+| Murule | Õhuke kiht | Üle muru |
+
+**Vermikomposti tee (vedel väetis):**
+
+1. **Leotamine:** 1 osa vermikomposti : 5 osa vett
+2. **Aeg:** 24–48 tundi (sega aeg-ajalt)
+3. **Kurna:** Läbi riide või sõela
+4. **Kasuta:** Lahjendamata või 1:5
+5. **Kasta:** Juurte ümber või pihusta lehtedele
+
+**⭐ Vermikomposti tee on suurepärane kasvustimulaator!**
+- Sisaldab kasulikke mikroobe
+- Aitab taimedel toitaineid omastada
+- Tõstab haiguskindlust
+
+### Ussikasti käivitamine
+
+**1. Valmista kast ette**
+- Puurida augud (drenaaž + ventilatsioon)
+- Lisa alumine kast (vedeliku kogumiseks)
+
+**2. Lisa allapanu (~15 cm)**
+- Rebitud, niisutatud papp/kartong
+- Kookoskiud või turvas
+- Natuke mulda (mikroobid)
+
+**3. Lisa ussid**
+- Alusta ~500 g ussidega (~500–1000 tk)
+- Laota allapanu peale
+- Kata paberi/papiga
+
+**4. Oota 3–5 päeva**
+- Lase ussidel kohaneda
+- Ära söötmist kohe
+
+**5. Alusta söötmist**
+- Esimene nädal: vähe
+- Järk-järgult suurenda
+- Ussid kahekordistuvad ~3 kuuga
+
+### Kust osta kompostiusse
+
+| Allikas | Hind | Märkused |
+|---------|------|----------|
+| Teised ussikompostijad | Sageli tasuta | Parima kohanemisega |
+| Kalapoed (sööt) | 3–5 € tops | Punased ussid, väike kogus |
+| Aianduspoed | 10–20 € | Vermikomposti starterkit |
+| E-poed | 15–30 € / 500 g | Spetsiaalselt kasvatatud |
+
+**⭐ Soovitus:** Alusta väiksema kogusega – ussid paljunevad kiiresti!
+
+### Vermikomposti aastaplaan
+
+| Kuu | Tegevus |
+|-----|---------|
+| Kevad | Suurenda söötmist (ussid aktiivsemad) |
+| Suvi | Jälgi temperatuuri! Vii jahedamasse kohta kui >25°C |
+| Sügis | Korista kompost, valmista talveks |
+| Talv | Hoia toas (>10°C), vähenda söötmist |
+
+---
+
 ## Vedelvätised
 
 ### Nõgelevesi (üldväetis)
@@ -477,6 +676,8 @@ Liblikõielised (herned, oad, ristik, näär) **seovad õhulämmastikku** juurem
 
 - **Hooajaline kalender:** [hooajaline-kalender.md](hooajaline-kalender.md)
 - **Köögiviljad:** [köögiviljad/köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md)
+- **Tomatid:** [tomatid/tomatite-hooldus.md](tomatid/tomatite-hooldus.md)
+- **Kurgid:** [kurgid/kurkide-hooldus.md](kurgid/kurkide-hooldus.md)
 - **Kasvuhoone:** [kasvuhoone/kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md)
 - **Varustus:** [varustus-ja-toeriistad.md](varustus-ja-toeriistad.md)
 - **Marjad:** [maasikad/](maasikad/maasikate-hooldus.md), [vaarikad/](vaarikad/vaarikate-hooldus.md), [sõstrad/](sõstrad/sõstarde-hooldus.md)

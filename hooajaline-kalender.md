@@ -519,3 +519,16 @@ Kartul (Solist)                                         ██
 ### 2026 hooaeg
 - (Lisa siia hooaja tähelepanekud kuude kaupa)
 
+---
+
+## Seotud failid
+
+- **Köögiviljad:** [köögiviljad/köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md)
+- **Tomatid:** [tomatid/tomatite-hooldus.md](tomatid/tomatite-hooldus.md)
+- **Kurgid:** [kurgid/kurkide-hooldus.md](kurgid/kurkide-hooldus.md)
+- **Kasvuhoone:** [kasvuhoone/kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md)
+- **Muld ja väetamine:** [muld-ja-vaetamine.md](muld-ja-vaetamine.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](kahjurid-ja-haigused.md)
+- **Marjad:** [maasikad/](maasikad/maasikate-hooldus.md), [vaarikad/](vaarikad/vaarikate-hooldus.md), [sõstrad/](sõstrad/sõstarde-hooldus.md)
+- **Puuviljad:** [õunapuud/](õunapuud/õunapuude-hooldus.md)
+

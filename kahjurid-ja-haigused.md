@@ -217,5 +217,7 @@ Koondtabel aia kahjuritest ja haigustest koos tõrjemeetoditega.
 - **Hooajaline kalender:** [hooajaline-kalender.md](hooajaline-kalender.md)
 - **Muld ja väetamine:** [muld-ja-vaetamine.md](muld-ja-vaetamine.md)
 - **Köögiviljad:** [köögiviljad/köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md)
+- **Tomatid:** [tomatid/tomatite-hooldus.md](tomatid/tomatite-hooldus.md)
+- **Kurgid:** [kurgid/kurkide-hooldus.md](kurgid/kurkide-hooldus.md)
 - **Marjad:** [maasikad/](maasikad/maasikate-hooldus.md), [vaarikad/](vaarikad/vaarikate-hooldus.md), [sõstrad/](sõstrad/sõstarde-hooldus.md)
 - **Puuviljad:** [õunapuud/](õunapuud/õunapuude-hooldus.md)
