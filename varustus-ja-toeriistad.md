@@ -150,7 +150,7 @@ Kaevamisvaba (no-dig) aia tööriistad ja varustus.
 | Vahend | Kasutus | Märkused |
 |--------|---------|----------|
 | **Kollased liimpüünised** | Valge kärbse, lehetäide püüdmine | Kasvuhoones |
-| **Sinised liimpüünised** | Tripsid | Kasvuhoones |
+| **Sinised liimpüünised** | Ripstiivalised | Kasvuhoones |
 | **Feromoonpüünised** | Õunamähkur | Puude all |
 | **Õllelõksud** | Teod, nälkjad | Maasse kaevatud |
 | **Pihustuspudel** | Tõrjelahused | 1–2 liitrit |

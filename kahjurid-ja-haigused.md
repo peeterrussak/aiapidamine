@@ -17,7 +17,7 @@ Koondtabel aia kahjuritest ja haigustest koos tõrjemeetoditega.
 | **Sibulakärbes** | Sibul, porru, küüslauk | Närbuvad taimed, tõugud sibulas | Külvikord, katteloor, sibulakärbse püünis |
 | **Kartulimardikad** | Kartul, tomat, baklažaan | Triibulised mardikad, oranžid munad | Käsitsi korjamine, Bacillus thuringiensis |
 | **Karilane (valge kärbes)** | Tomat, kurk (kasvuhoones) | Valged tillukesed kärbsed lehtede all | Kollased liimpüünised, röövputukad |
-| **Trips** | Kurk, sibul, porru | Hõbedased triibud lehtedel | Sinised liimpüünised, niiske õhk |
+| **Ripstiivalised** | Kurk, sibul, porru | Hõbedased triibud lehtedel | Sinised liimpüünised, niiske õhk |
 | **Punane kedriklest** | Kurk, tomat, uba (kasvuhoones) | Kollased täpid, õhuke võrk | Niiske õhk, pihusta vett, röövlestad |
 | **Limukad ja teod** | Salat, kapsas, maasikad | Limajäljed, söödud lehed | Õllelõksud, käsitsi korjamine, tuhk ümber |
 | **Traatuss** | Kartul, porgand, peet | Käigud mugulates/juurtes | Külvikord, söödapüünised (kartulitükid) |
@@ -105,7 +105,7 @@ Koondtabel aia kahjuritest ja haigustest koos tõrjemeetoditega.
 |-------|---------|---------|
 | **Seebivesi** | 1 sl vedelat seepi / 1 L vett | Lehetäid, väikesed putukad |
 | **Küüslaugulahus** | 4–5 küünt, leota 24h 1L vees, kurna, lisa tilk seepi | Putukad, seened |
-| **Nõgelevesi** (kange) | Lahjendamata, 2–3 nädala vanune | Tõrjevahend, tugevdab taimi |
+| **Nõgesevesi** (kange) | Lahjendamata, 2–3 nädala vanune | Tõrjevahend, tugevdab taimi |
 | **Piimavesilahus** | 1 osa piima : 9 osa vett | Jahukaste |
 | **Soodaseebilahus** | 1 tl soodat + tilk seepi / 1 L vett | Seenhaigused |
 | **Sibulakoorelahus** | Käputäis koori / 1 L keeva vett, jahuta | Lehetäid, seened |
@@ -207,7 +207,7 @@ Koondtabel aia kahjuritest ja haigustest koos tõrjemeetoditega.
 | Pruunid laigud | Seenhaigus | Eemalda haiged lehed, tuuluta |
 | Närbunud taim | Juuremädanik, traatuss, põud | Kontrolli juuri |
 | Kleepuvad lehed | Lehetäid (mesikaste) | Pese veega, tõrje täisid |
-| Hõbedased triibud | Trips | Sinised liimpüünised |
+| Hõbedased triibud | Ripstiivalised | Sinised liimpüünised |
 | Peen võrk lehtedel | Kedriklest | Pihusta vett, tõsta niiskust |
 
 ---

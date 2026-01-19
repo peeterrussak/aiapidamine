@@ -244,6 +244,276 @@ Hea õhuvahetus hoiab ära haigused ja reguleerib temperatuuri.
 
 ---
 
+### Paprika
+
+Paprika vajab pikka sooja hooaega (120–150 päeva), mistõttu Eestis annab kasvuhoone oluliselt parema tulemuse kui avamaa.
+
+**Sordid kasvuhoonesse:**
+
+| Sort | Vilja värv | Vilja kaal | Valmimisaeg | Märkused |
+|------|------------|------------|-------------|----------|
+| **Klaaskollane** ⭐ | kollane | 100–150 g | varajane | Eesti klassika, kindel valik |
+| **Klaaspunane** | punane | 100–150 g | varajane | Sarnane kollasega |
+| **Yolo Wonder** | punane | 150–200 g | keskmine | Paksuseineline, magus |
+| **California Wonder** | punane/roheline | 150–200 g | keskmine | Klassika, suur vili |
+| **Bendigo F1** | oranž → punane | 200–250 g | keskmine | Väga magus, haiguskindel |
+| **Topepo Rosso** | punane | 80–100 g | varajane | Tomatikujuline, sobib täitmiseks |
+
+**Ettekasvatamine:**
+
+| Tegevus | Aeg | Märkused |
+|---------|-----|----------|
+| Külv | Veebruar lõpp – märts algus | 8–10 nädalat enne istutamist |
+| Idanemine | 10–14 päeva | 22–25°C, ühtlane niiskus |
+| Ümberpotimine | Kui 2 pärisleht | 9 cm pottidesse |
+| Karastamine | Mai keskpaik | 1–2 nädalat enne istutamist |
+| Istutamine | Mai lõpp – juuni algus | Muld vähemalt 15°C |
+
+**Hooldus:**
+
+| Tegevus | Kirjeldus |
+|---------|-----------|
+| **Istutustihedus** | 40–50 cm taimede vahel |
+| **Tugi** | Kerge tugi (bambuskepp või nöör) – viljad raskused! |
+| **Kastmine** | Regulaarne, ühtlane niiskus. Ülekastmine = juuremädanik |
+| **Väetamine** | Nõgesevesi iga 10–14 päeva alates õitsemisest |
+| **Näpistamine** | Eemalda esimene õis ("kuningaõis") – taim hargeb paremini |
+| **Korjamine** | Roheline = varem, punane/kollane = magusam |
+
+**Saak:** 6–10 vilja taime kohta (sõltub sordist ja hooldusest)
+
+---
+
+### Tšilli
+
+Tšilli vajab veelgi pikemat hooaega kui paprika (140–180 päeva). Kasvuhoones kindlasti parim tulemus.
+
+**Sordid kasvuhoonesse:**
+
+| Sort | Tugevus (SHU) | Vilja kuju | Valmimisaeg | Märkused |
+|------|---------------|------------|-------------|----------|
+| **Jalapeño** ⭐ | 2 500–8 000 | keskmised, paksud | 70–80 p | Mõõdukas, hea algajale |
+| **Cayenne** | 30 000–50 000 | pikad, kitsad | 70–80 p | Klassika, hea kuivatamiseks |
+| **Hungarian Hot Wax** | 1 000–15 000 | pikad, koonused | 60–70 p | Varajane! Heaks marineerida |
+| **Serrano** | 10 000–25 000 | väikesed, piklikud | 80–90 p | Mehhiko klassika |
+| **Habanero** | 100 000–350 000 | laternjad | 90–100 p | Väga kuum! Vajab sooja |
+| **Padron** | 500–2 500 | väikesed, ümarad | 60–70 p | Tapakseks! Enamasti leebed |
+
+**⚠️ SHU** = Scoville Heat Units (tugevusmõõt). Jalapeño on hea kesktee – tunda, aga söödav.
+
+**Ettekasvatamine:**
+
+| Tegevus | Aeg | Märkused |
+|---------|-----|----------|
+| Külv | Jaanuar lõpp – veebruar | 10–12 nädalat enne istutamist! |
+| Idanemine | 14–21 päeva | 25–28°C (soojusmatt soovitav), aeglane! |
+| Ümberpotimine | Kui 2–4 pärisleht | 9 cm → 12 cm pottidesse |
+| Karastamine | Mai keskpaik | 1–2 nädalat |
+| Istutamine | Juuni algus | Muld vähemalt 18°C |
+
+**Hooldus:**
+
+| Tegevus | Kirjeldus |
+|---------|-----------|
+| **Istutustihedus** | 30–40 cm taimede vahel |
+| **Tugi** | Tugev kepp – viljadega taim raske |
+| **Kastmine** | Mõõdukas. Kerge stress = vürtsikamad viljad |
+| **Väetamine** | Nõgesevesi iga 2 nädala tagant |
+| **Korjamine** | Roheline = leebem, punane/küps = kangem ja magusam |
+| **Kuivatamine** | Riputada nööri, kuivab 2–4 nädalat |
+
+**Saak:** 20–50+ vilja taime kohta (väiksevillalistel rohkem)
+
+---
+
+### Baklažaan
+
+Baklažaan (*Solanum melongena*) on maavitsaline nagu tomat ja paprika, kuid vajab kõige rohkem sooja. Eestis ainult kasvuhoones.
+
+**Sordid kasvuhoonesse:**
+
+| Sort | Vilja kuju | Vilja värv | Valmimisaeg | Märkused |
+|------|------------|------------|-------------|----------|
+| **Black Beauty** ⭐ | ovaalne, suur | tumelihla | 75–90 p | Klassika, kindel valik |
+| **Violetta Lunga** | pikk, kitsas | tumelihla | 70–85 p | Itaalia sort, hea maitse |
+| **Rosa Bianca** | ümar, suur | roosa-valge | 80–90 p | Kreemjas, pehme maitse |
+| **Listada de Gandia** | ovaalne | triibuline | 80–90 p | Ilus! Leebemagus |
+| **Slim Jim** | pikk, peenike | lilla | 65–75 p | Kompaktne taim, varajane |
+| **Applegreen** | ümar | roheline | 70–80 p | Kreemjas liha, leebe |
+
+**Ettekasvatamine:**
+
+| Tegevus | Aeg | Märkused |
+|---------|-----|----------|
+| Külv | Veebruar keskpaik – märts | 8–10 nädalat enne istutamist |
+| Idanemine | 10–14 päeva | 24–28°C (soojusmatt soovitatav) |
+| Ümberpotimine | Kui 2–4 pärisleht | 9 cm → 12 cm pottidesse |
+| Karastamine | Mai lõpp | 1–2 nädalat |
+| Istutamine | Juuni algus – keskpaik | Muld vähemalt 20°C! |
+
+**Hooldus:**
+
+| Tegevus | Kirjeldus |
+|---------|-----------|
+| **Istutustihedus** | 50–60 cm taimede vahel |
+| **Tugi** | Tugev tugi – viljad väga rasked! |
+| **Kastmine** | Regulaarne, rohke. Kuivus = kibedad, kõvad viljad |
+| **Väetamine** | Nõgesevesi iga 7–10 päeva (suur toitevajadus!) |
+| **Piiramine** | Jäta 4–6 vilja taime kohta (suuremad, paremad) |
+| **Korjamine** | Koor läikiv, liha kreemjas (mitte pruunikate seemnetega) |
+
+**Küpsuse märgid:**
+- Koor läikiv (matt = üleküps)
+- Vajutades taastub kuju (kõva = alaküps, pehme = üleküps)
+- Seemned veel valged/heledad
+
+**Saak:** 4–8 suurt vilja taime kohta
+
+**⚠️ Kahjurid:** Kartulimardikale väga maitsev! Kontrolli regulaarselt.
+
+---
+
+### Melon
+
+Melon (*Cucumis melo*) on kõrvitsaline nagu kurk ja arbuus. Eestis annab kasvuhoone oluliselt kindlama tulemuse kui avamaa.
+
+**Sordid kasvuhoonesse:**
+
+| Sort | Vilja kaal | Liha värv | Valmimisaeg | Märkused |
+|------|------------|-----------|-------------|----------|
+| **Charentais** ⭐ | 0,8–1,2 kg | oranž | 80–90 p | Prantsuse klassika, väga aromaatne |
+| **Petit Gris de Rennes** | 0,6–1 kg | oranž | 75–85 p | Varajane, sobib Põhja-Euroopasse |
+| **Emir F1** | 1–1,5 kg | oranž | 70–80 p | Haiguskindel, hea saagikus |
+| **Alvaro F1** | 1–2 kg | oranž | 75–85 p | Galia tüüp, magus |
+| **Minnesota Midget** | 0,4–0,6 kg | oranž | 65–75 p | Kompaktne! Hea väikesele kasvuhoonele |
+| **Ha'Ogen** | 1–1,5 kg | roheline | 80–90 p | Iisraeli sort, väga magus |
+
+**Ettekasvatamine:**
+
+| Tegevus | Aeg | Märkused |
+|---------|-----|----------|
+| Külv | Mai algus | Otse suurde potti (ei talu ümberistutamist!) |
+| Idanemine | 5–7 päeva | 24–28°C, soe! |
+| Istutamine | Juuni algus | Muld min 18°C, soojem koht |
+| Saak | August–september | ~80 päeva pärast külvi |
+
+**Hooldus:**
+
+| Tegevus | Kirjeldus |
+|---------|-----------|
+| **Ruumivajadus** | 1–2 m² taime kohta (väiksem kui arbuus) |
+| **Kasvatusviis** | Horisontaalne või vertikaalne (võrguga) |
+| **Piiramine** | Jäta 3–5 vilja taime kohta |
+| **Kastmine** | Regulaarne, aga vähenda enne küpsemist (magusus!) |
+| **Väetamine** | Nõgesevesi iga 10–14 päeva |
+| **Tolmlemine** | Abista käsitsi (kui mesilasi vähe) |
+| **Alus** | Pane viljad põhule/laudkivile (mädaniku vältimine) |
+
+**Küpsuse märgid:**
+- Vili eraldub kergelt varrest ("täiskork")
+- Tugev magus lõhn
+- Koore värv muutub (roheline → kollakamaks)
+- Kerge vajutus annab natuke järele
+
+**⚠️ Melon vs arbuus:** Melon vajab vähem ruumi ja valmib kiiremini. Hea alternatiiv, kui kasvuhoones ruumi napib!
+
+---
+
+### Füüsal (maafüüsal, ananassfüüsal)
+
+Füüsal (*Physalis*) on maavitsaline, mida tuntakse ka nime all "maafüüsal" või "kapimari". Eksootilised laternatega marjad, mis kasvuhoones annavad kindlama saagi.
+
+**Liigid ja sordid:**
+
+| Liik | Ladina nimi | Maitse | Märkused |
+|------|-------------|--------|----------|
+| **Ananassfüüsal** ⭐ | *Physalis pruinosa* | Magushapu, ananassimaitseline | Väiksemad marjad, rohkem saaki |
+| **Maafüüsal** (kapimari) | *Physalis peruviana* | Magus, troopiline | Suuremad marjad, pikem hooaeg |
+| **Tomatillo** | *Physalis philadelphica* | Hapu, mõrkjas | Mehhiko köök, kastmed |
+
+**Ettekasvatamine:**
+
+| Tegevus | Aeg | Märkused |
+|---------|-----|----------|
+| Külv | Märts keskpaik | Nagu tomat, 20–25°C |
+| Idanemine | 10–14 päeva | Ühtlane niiskus |
+| Ümberpotimine | Kui 2–4 pärisleht | 9 cm pottidesse |
+| Istutamine | Juuni algus | Pärast öökülmade ohtu |
+| Saak | August–oktoober | Marjad kukuvad maha kui küpsed |
+
+**Hooldus:**
+
+| Tegevus | Kirjeldus |
+|---------|-----------|
+| **Istutustihedus** | 60–80 cm taimede vahel (suur põõsas!) |
+| **Kõrgus** | 1–1,5 m (vajab tuge) |
+| **Tugi** | Tugevad vaiad või puurid (nagu tomat) |
+| **Kastmine** | Mõõdukas, talub kerget kuivust |
+| **Väetamine** | Nõgesevesi iga 2 nädala tagant (vähem kui tomat) |
+| **Kõrvalvõsud** | EI eemalda! (erinevalt tomatist) |
+
+**Korjamine:**
+- Marjad kukuvad maha, kui küpsed (laternad kollased/pruunikad)
+- Korja maast regulaarselt
+- Võib ladustada laternatega (säilib nädalaid)
+- Laterna sees küpseb edasi
+
+**Saak:** 100–200+ marja taime kohta (ananassfüüsal)
+
+**⭐ Hea teada:** Füüsal on vähenõudlik ja vastupidav. Sobib ideaalselt kasvuhoonesse tomatite kõrvale – sama hooldus, aga ei vaja kõrvalvõsude eemaldamist!
+
+---
+
+### Basiilik
+
+Basiilik (*Ocimum basilicum*) on klassikaline kasvuhoone taim – tomatite parim kaaslane nii aias kui köögis!
+
+**Sordid:**
+
+| Sort | Lehtede suurus | Maitse | Märkused |
+|------|----------------|--------|----------|
+| **Genovese** ⭐ | suured | klassikaline, magus | Parim pestole ja salatitesse |
+| **Thai** (Tai basiilik) | keskmised | aniisi-mündine | Aasia toidud, lillakad õied |
+| **Lemon** (sidrunibasiilik) | väiksed | sidruniline | Kalale, jookidele |
+| **Purple Ruffles** | suured, sakilised | mõõdukas | Dekoratiivne, lilla! |
+| **Greek** (Kreeka) | tillukesed | intensiivne | Kompaktne, pottidesse |
+| **Cinnamon** | keskmised | kaneeline | Magustoitudele, teele |
+
+**Ettekasvatamine:**
+
+| Tegevus | Aeg | Märkused |
+|---------|-----|----------|
+| Külv | Aprill | 20–22°C, palju valgust |
+| Idanemine | 5–10 päeva | Ära kata seemet (vajab valgust!) |
+| Ümberpotimine | Kui 2 pärisleht | 9 cm pottidesse |
+| Istutamine | Juuni algus | AINULT pärast öökülmi ohtu! |
+
+**Hooldus:**
+
+| Tegevus | Kirjeldus |
+|---------|-----------|
+| **Paigutus** | Tomatite vahele (kaaslaskultuur) |
+| **Istutustihedus** | 20–30 cm vahega |
+| **Kastmine** | Regulaarne! Kuivus = kibedad lehed |
+| **Väetamine** | Vähe – liigne väetis = nõrk maitse |
+| **Näpistamine** | Näpista ladvad regulaarselt (hargnemine!) |
+| **Õite eemaldamine** | Eemalda õied (pikendab lehesaaki) |
+
+**Korjamine:**
+- Korja ülemisi lehti ja ladvad
+- Korjamine soodustab hargnemist
+- Enne öökülmi korja KOGU saak
+
+**Säilitamine:**
+- Värskelt: vees klaasis (toasoojuses, MITTE külmikus!)
+- Külmutamine: hakitult õliga jääkuubikualusel
+- Pesto: klassika (basiilik + küüslauk + parmesaan + oliivõli + pähklid)
+- Kuivatamine: võimalik, aga kaotab aroomi
+
+**⭐ Tomat + basiilik:** Klassikaline kombinatsioon! Basiilik peletab lehetäisid ja parandab tomatite maitset. Istuta tomatitaimede vahele.
+
+---
+
 ## Kahjurid ja haigused
 
 Kasvuhoone soe ja niiske keskkond soodustab nii kasvu kui kahjureid.
@@ -253,9 +523,9 @@ Kasvuhoone soe ja niiske keskkond soodustab nii kasvu kui kahjureid.
 | Kahjur | Märgid | Tõrje |
 |--------|--------|-------|
 | **Kasvuhoone karilane** (valge kärbes) | Valged tillukesed kärbsed lehtede all | Kollased liimpüünised, Encarsia-röövel |
-| **Lehetäid** | Keerduned lehed, kleepuv kaste | Nõgelevesi, seebi-vesilahus, lepatriinud |
+| **Lehetäid** | Keerduned lehed, kleepuv kaste | Nõgesevesi, seebi-vesilahus, lepatriinud |
 | **Punane kedriklest** | Tillukesed täpid lehtedel, õhukesed võrgud | Tõsta niiskust, pihusta vett lehtedele, röövlest |
-| **Trips** | Hõbedased triibud lehtedel | Sinised liimpüünised, röövlest Amblyseius |
+| **Ripstiivalised** | Hõbedased triibud lehtedel | Sinised liimpüünised, röövlest Amblyseius |
 | **Limukad** | Näritavad lehed, limajäljed | Käsitsi korjamine õhtul, õllelõksud |
 
 **Ennetamine:**
@@ -313,6 +583,8 @@ LAETROSSI SÜSTEEM
 
 ### Kasvuhoone plaan (näidis 3 × 6 m)
 
+**Variant A: Põhipaigutus (kurk + tomat + arbuus)**
+
 ```
 ┌─────────────────────────────────────────────────────┐
 │                      UKS                            │
@@ -337,11 +609,41 @@ LAETROSSI SÜSTEEM
      PÕHI ←─────────────────────────────────→ LÕUNA
 ```
 
+**Variant B: Laiendatud paigutus (+ paprika/tšilli/baklažaan)**
+
+```
+┌─────────────────────────────────────────────────────┐
+│                      UKS                            │
+│                                                     │
+│  ┌───────┐   ┌───────┐   ┌───────┐   ┌───────┐    │
+│  │ TOMAT │   │ KURK  │   │ TOMAT │   │PAPRIKA│    │
+│  │'Malle'│   │'Suyu  │   │'Pille'│   │/TŠILLI│    │
+│  │ 3 tk  │   │ Long' │   │ 3 tk  │   │ 3 tk  │    │
+│  │       │   │ 3 tk  │   │       │   │       │    │
+│  └───────┘   └───────┘   └───────┘   └───────┘    │
+│                                                     │
+│  ─────────────── KÄIGUTEE (50 cm) ──────────────── │
+│                                                     │
+│  ┌─────────────────────┐   ┌─────────────────────┐ │
+│  │  ARBUUS 'Sugar Baby'│   │     BAKLAŽAAN       │ │
+│  │        1–2 tk       │   │       2–3 tk        │ │
+│  └─────────────────────┘   └─────────────────────┘ │
+│                                                     │
+│                    [AKEN]                           │
+└─────────────────────────────────────────────────────┘
+     PÕHI ←─────────────────────────────────→ LÕUNA
+```
+
 **Paigutuse põhimõtted:**
-- Kõrgemad taimed (tomatid) põhjapoolsele
-- Madalamad (arbuus) lõunapoolsele (ei varja teisi)
+- Kõrgemad taimed (tomatid, füüsal) põhjapoolsele
+- Madalamad (arbuus, melon, baklažaan) lõunapoolsele (ei varja teisi)
+- Paprika/tšilli võib panna tomatite ritta (sama hooldus)
+- **Basiilik** tomatite VAHELE (kaaslaskultuur, ei võta lisaruumi)
+- **Füüsal** saab olla tomatite reas (sama hooldus, aga ei näpista võsusid)
+- **Melon** arbuusi kõrvale (sama hooldus, väiksem ruumivajadus)
 - Käigutee vähemalt 50 cm lai
 - Veeanumad päikeselisele kohale (soojusaku)
+- **⚠️ Ruumipuudusel:** Vähenda arbuusi/meloni 1 taimele või jäta välja
 
 ---
 
@@ -389,29 +691,52 @@ LAETROSSI SÜSTEEM
 
 ## Kasvuhoone hooajaline kalender
 
+### Jaanuar–veebruar
+- [ ] **Tšilli külv** (jaanuari lõpp – veebruari algus, 25–28°C)
+- [ ] Seemnete tellimine (kui puudu)
+
+### Veebruar–märts
+- [ ] **Paprika külv** (veebruari lõpp – märtsi algus)
+- [ ] **Baklažaani külv** (veebruari keskpaik – märts)
+- [ ] Tšilli ümberpotimine (9 cm pottidesse)
+
 ### Märts
 - [ ] Kasvuhoone puhastamine ja pesemine
 - [ ] Mulla ettevalmistamine
-- [ ] Tomatite ettekasvatamise alustamine (toas)
+- [ ] **Tomatite ettekasvatamise alustamine** (toas)
+- [ ] **Füüsali ettekasvatamise alustamine** (nagu tomat)
+- [ ] Paprika ja baklažaani ümberpotimine
 - [ ] Tilkkastmise kontrollimine
 
 ### Aprill
-- [ ] Kurkide ettekasvatamise alustamine (toas)
+- [ ] **Kurkide ettekasvatamise alustamine** (toas)
+- [ ] **Basiiliku ettekasvatamine** (20–22°C, palju valgust)
 - [ ] Mulla soojendamine (must kilepins pinnale)
 - [ ] Tomatitaimede ümberistutamine suurematesse pottidesse
+- [ ] Füüsali ümberpotimine (9 cm pottidesse)
+- [ ] Paprika, tšilli, baklažaani ümberpotimine (12 cm pottidesse)
 - [ ] Liimpüüniste paigaldamine
 
 ### Mai
 - [ ] **Mai keskpaik:** Tomatite istutamine kasvuhoonesse
 - [ ] **Mai lõpp:** Kurkide istutamine kasvuhoonesse
-- [ ] Arbsuui ettekasvatamise alustamine (mai algus)
+- [ ] **Mai lõpp:** Paprika istutamine kasvuhoonesse
+- [ ] Arbuusi ettekasvatamise alustamine (mai algus)
+- [ ] **Meloni ettekasvatamise alustamine** (mai algus, nagu arbuus)
 - [ ] Tugi- ja nöörisüsteemide paigaldamine
 - [ ] Regulaarse kastmise alustamine
 
 ### Juuni
+- [ ] **Juuni algus:** Tšilli istutamine kasvuhoonesse
+- [ ] **Juuni algus:** Baklažaani istutamine kasvuhoonesse
+- [ ] **Juuni algus:** Füüsali istutamine kasvuhoonesse
+- [ ] **Juuni algus:** Basiiliku istutamine (tomatite vahele!)
+- [ ] **Juuni algus:** Meloni istutamine kasvuhoonesse
 - [ ] Arbuuside istutamine kasvuhoonesse
 - [ ] Tomatite kõrvalvõsude eemaldamine (2× nädalas!)
 - [ ] Kurkide alumiste võrsete eemaldamine
+- [ ] Paprika "kuningaõie" eemaldamine
+- [ ] Basiiliku ladvade näpistamine (hargnemine!)
 - [ ] Regulaarne kastmine ja väetamine
 - [ ] Ventilatsiooni jälgimine (kuumalained!)
 
@@ -420,20 +745,34 @@ LAETROSSI SÜSTEEM
 - [ ] Esimeste kurkide korjamine (juuli lõpp)
 - [ ] Tomatite ladvade näpistamine (juuli lõpp)
 - [ ] Arbuuside viljade arvu piiramine
+- [ ] Melonite viljade arvu piiramine (3–5 vilja)
+- [ ] Baklažaani viljade arvu piiramine (4–6 vilja)
+- [ ] Esimeste paprikate korjamine (rohelised)
+- [ ] Basiiliku korjamine ja õite eemaldamine
 - [ ] Regulaarne kahjurikontroll
 
 ### August
-- [ ] Peamine saagiperiood: kurgid, tomatid
+- [ ] Peamine saagiperiood: kurgid, tomatid, paprika, füüsal
 - [ ] Kurkide sagedane korjamine (iga 2–3 päeva)
 - [ ] Tomatite korjamine (ka roheliselt, küpsevad järel)
+- [ ] Paprika korjamine (punased = magusamad)
+- [ ] Tšilli korjamine (punased = vürtsikamad)
+- [ ] Baklažaani korjamine (koor läikiv)
+- [ ] Füüsalite korjamine (kukkunud laternad)
 - [ ] Arbuuside küpsuse jälgimine
+- [ ] Melonite küpsuse jälgimine (lõhn, eraldub varrest)
+- [ ] Basiiliku korjamine (pesto tegemiseks!)
 - [ ] Vähenda kurkide kastmist hooaja lõpus
 - [ ] Kasuma läinud kurkidelt seemned
 
 ### September
 - [ ] Viimased kurkide saagid
 - [ ] Tomatite lõppsaak (ka rohelised)
-- [ ] Arbuuside korjamine
+- [ ] Paprika, tšilli, baklažaani lõppsaak
+- [ ] Füüsalite lõppsaak
+- [ ] Arbuuside ja melonite korjamine
+- [ ] **Basiiliku täissaak** (enne öökülmi – teha pesto!)
+- [ ] Tšillide kuivatamine (riputada nöörile)
 - [ ] Roheliste tomatite järelküpsetus (toas, pimedas)
 - [ ] Taimede eemaldamise alustamine
 
@@ -468,11 +807,23 @@ LAETROSSI SÜSTEEM
 
 ### 2026 hooaeg
 
-**Plaanitud:**
-- Kurk 'Suyu Long': 4 taime
-- Tomat 'Malle': 4 taime
-- Tomat 'Pille': 4 taime
-- Arbuus 'Sugar Baby': 2 taime
+**Plaanitud (põhikultuurid):**
+- Kurk 'Suyu Long': 3–4 taime
+- Tomat 'Malle': 3–4 taime
+- Tomat 'Pille': 3–4 taime
+- Arbuus 'Sugar Baby': 1–2 taime
+
+**Plaanitud (uued kultuurid – valikuline):**
+- Paprika 'Klaaskollane': 2–3 taime
+- Tšilli 'Jalapeño': 2–3 taime
+- Baklažaan 'Black Beauty': 2–3 taime
+- Melon 'Charentais': 1–2 taime
+- Füüsal (ananassfüüsal): 2–3 taime
+- Basiilik 'Genovese': 4–6 taime (tomatite vahel)
+
+**⚠️ Ruumisoovitus:** Kui kõiki ei mahu, siis prioriteet: tomat > kurk > paprika/tšilli > basiilik > füüsal > arbuus/melon > baklažaan
+
+**💡 Vihje:** Basiilik mahub tomatite vahele, füüsal saab olla tomatitega samas reas – need ei võta lisaruumi!
 
 **Hooaja tähelepanekud:**
 - (Lisa siia hooaja jooksul)

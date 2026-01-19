@@ -312,9 +312,9 @@ Vermikomposti on kompostiusside abil valmistatud ülimalt kvaliteetne orgaanilin
 
 ## Vedelvätised
 
-### Nõgelevesi (üldväetis)
+### Nõgesevesi (üldväetis)
 
-Nõgelevesi on parim universaalne vedelvätis – sisaldab lämmastikku, kaaliumi ja mikroelemente.
+Nõgesevesi on parim universaalne vedelväetis – sisaldab lämmastikku, kaaliumi ja mikroelemente.
 
 **Valmistamine:**
 
@@ -329,7 +329,7 @@ Nõgelevesi on parim universaalne vedelvätis – sisaldab lämmastikku, kaalium
 
 | Lahjendus | Kasutus | Sagedus |
 |-----------|---------|---------|
-| 1:10 (vesi:nõgelevesi) | Kastmine juurte ümber | Iga 1–2 nädala tagant |
+| 1:10 (vesi:nõgesevesi) | Kastmine juurte ümber | Iga 1–2 nädala tagant |
 | 1:20 | Leheväetis (pihustamine) | Iga 2–3 nädala tagant |
 
 **Sobib:**
@@ -447,11 +447,11 @@ Kaltsiumiallikas, aitab vältida tomatite lõheviljalisust.
 
 | Kultuur | Kevad | Kasvuperiood | Märkused |
 |---------|-------|--------------|----------|
-| **Tomat** | Kompost + luujahu | Nõgelevesi iga 7–10 p | Kaalium viljumise ajal |
-| **Kurk** | Kompost | Nõgelevesi iga 7–10 p | Armastab lämmastikku |
-| **Kõrvits, suvikõrvits** | Kompost | Nõgelevesi iga 10–14 p | Suured toitjad |
-| **Kapsas** | Kompost + sõnnik | Nõgelevesi iga 10–14 p | Palju lämmastikku |
-| **Seller** | Kompost | Nõgelevesi iga 7–10 p | Pikk kasvuaeg |
+| **Tomat** | Kompost + luujahu | Nõgesevesi iga 7–10 p | Kaalium viljumise ajal |
+| **Kurk** | Kompost | Nõgesevesi iga 7–10 p | Armastab lämmastikku |
+| **Kõrvits, suvikõrvits** | Kompost | Nõgesevesi iga 10–14 p | Suured toitjad |
+| **Kapsas** | Kompost + sõnnik | Nõgesevesi iga 10–14 p | Palju lämmastikku |
+| **Seller** | Kompost | Nõgesevesi iga 7–10 p | Pikk kasvuaeg |
 
 ### Keskmise toitainevajadusega
 
@@ -461,7 +461,7 @@ Kaltsiumiallikas, aitab vältida tomatite lõheviljalisust.
 | **Peet** | Kompost | Puutuhk juunis | Kaaliumilembne |
 | **Sibul** | Kompost | Puutuhk juunis | Fosfor ja kaalium |
 | **Kartul** | Kompost + puutuhk | Puutuhk mullimisel | Kaaliumilembne |
-| **Salat** | Kompost | Nõgelevesi 1× | Kiire kasv |
+| **Salat** | Kompost | Nõgesevesi 1× | Kiire kasv |
 
 ### Madala toitainevajadusega
 
@@ -501,7 +501,7 @@ Kaltsiumiallikas, aitab vältida tomatite lõheviljalisust.
 ### Mai–juuni (kasvuperiood)
 
 **Tomatid, kurgid, kõrvitsalised:**
-- [ ] Alusta nõgeleve kastmist (iga 7–14 päeva)
+- [ ] Alusta nõgeseveega kastmist (iga 7–14 päeva)
 
 **Sibul, küüslauk:**
 - [ ] Puutuhk (50 g/m²)
@@ -512,11 +512,11 @@ Kaltsiumiallikas, aitab vältida tomatite lõheviljalisust.
 ### Juuli–august (viljumine)
 
 **Tomatid:**
-- [ ] Jätka nõgelevett (fookus kaaliumil)
+- [ ] Jätka nõgeseveega (fookus kaaliumil)
 - [ ] Puutuhk (50 g taime kohta)
 
 **Kurgid, kõrvitsalised:**
-- [ ] Jätka nõgelevett
+- [ ] Jätka nõgeseveega
 
 **Marjad:**
 - [ ] Pärast saaki: puutuhk (50–100 g põõsa kohta)

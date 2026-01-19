@@ -112,7 +112,7 @@ ISTUTUSSÜGAVUS:
 ### Kevad (märts–mai)
 
 - [ ] Eemalda talvine multš (kui paks kiht)
-- [ ] Väeta lämmastikuga (kompost, nõgelevesi)
+- [ ] Väeta lämmastikuga (kompost, nõgesevesi)
 - [ ] Alusta kastmist, kui kuiv
 - [ ] Rohi umbrohud
 
@@ -121,7 +121,7 @@ ISTUTUSSÜGAVUS:
 | Aeg | Väetis | Kogus |
 |-----|--------|-------|
 | Märts–aprill | Kompost | 2–3 cm kiht |
-| Aprill–mai | Nõgelevesi | 1:10, iga 2 nädala tagant |
+| Aprill–mai | Nõgesevesi | 1:10, iga 2 nädala tagant |
 | Mai | Puutuhk | 50 g/m² |
 
 ### Suvi (juuni–juuli)
@@ -284,7 +284,7 @@ Küüslauk on suurepärane kaaslane maasikale:
 - [ ] Alusta kastmist vajadusel
 
 ### Mai
-- [ ] Jätka väetamist (nõgelevesi)
+- [ ] Jätka väetamist (nõgesevesi)
 - [ ] Rohi umbrohud
 - [ ] Kasta vajadusel
 
