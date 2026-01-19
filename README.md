@@ -41,6 +41,8 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [vaarikad/vaarikate-hooldus.md](vaarikad/vaarikate-hooldus.md) | Vaarikate ja pamplede hooldus (Glen Ample, Glen Dee, must pampel, aedmurakas) |
 | [kuslapuud/kuslapuude-hooldus.md](kuslapuud/kuslapuude-hooldus.md) | Kuslapuude hooldus (6 sorti) |
 | [sõstrad/sõstarde-hooldus.md](sõstrad/sõstarde-hooldus.md) | Sõstarde hooldus (must, punane, valge) |
+| [karusmari/karusmarja-hooldus.md](karusmari/karusmarja-hooldus.md) | Karusmarja hooldus (ogadeta sordid, jahukaste, lõikus) |
+| [aroonia/aroonia-hooldus.md](aroonia/aroonia-hooldus.md) | Aroonia hooldus (hooldusevaba, tervislik, sordid) |
 | [õunapuud/õunapuude-hooldus.md](õunapuud/õunapuude-hooldus.md) | Õunapuude hooldus, lõikus, sordid |
 
 ### Tugijuhendid

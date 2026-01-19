@@ -43,6 +43,10 @@ aiapidamine/
 │   └── kuslapuude-hooldus.md    # Kuslapuude hooldus
 ├── sõstrad/
 │   └── sõstarde-hooldus.md      # Sõstarde hooldus (must, punane, valge)
+├── karusmari/
+│   └── karusmarja-hooldus.md    # Karusmarja hooldus (ogadeta sordid, lõikus)
+├── aroonia/
+│   └── aroonia-hooldus.md       # Aroonia hooldus (hooldusevaba, tervislik)
 └── õunapuud/
     └── õunapuude-hooldus.md     # Õunapuude hooldus ja lõikus
 ```
@@ -66,7 +70,7 @@ aiapidamine/
 **Eraldi alad:**
 - Kasvuhoone (kurk 'Suyu Long', tomatid, arbuus)
 - Kartul 'Solist' (eraldi ala, jaanipäevaks)
-- Marjapõõsad (vaarikad, kuslapuud)
+- Marjapõõsad (vaarikad, kuslapuud, sõstrad, karusmari, aroonia)
 
 ## Keelelised konventsioonid
 
