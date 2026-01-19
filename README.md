@@ -44,6 +44,8 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [karusmari/karusmarja-hooldus.md](karusmari/karusmarja-hooldus.md) | Karusmarja hooldus (ogadeta sordid, jahukaste, lõikus) |
 | [aroonia/aroonia-hooldus.md](aroonia/aroonia-hooldus.md) | Aroonia hooldus (hooldusevaba, tervislik, sordid) |
 | [õunapuud/õunapuude-hooldus.md](õunapuud/õunapuude-hooldus.md) | Õunapuude hooldus, lõikus, sordid |
+| [kirsid/kirside-hooldus.md](kirsid/kirside-hooldus.md) | Kirside hooldus (hapukirss, maguskirss, sordid) |
+| [ploomid/ploomide-hooldus.md](ploomid/ploomide-hooldus.md) | Ploomide hooldus (koduploom, alõtša, sordid) |
 
 ### Tugijuhendid
 

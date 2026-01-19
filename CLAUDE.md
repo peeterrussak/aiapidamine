@@ -47,8 +47,12 @@ aiapidamine/
 │   └── karusmarja-hooldus.md    # Karusmarja hooldus (ogadeta sordid, lõikus)
 ├── aroonia/
 │   └── aroonia-hooldus.md       # Aroonia hooldus (hooldusevaba, tervislik)
-└── õunapuud/
-    └── õunapuude-hooldus.md     # Õunapuude hooldus ja lõikus
+├── õunapuud/
+│   └── õunapuude-hooldus.md     # Õunapuude hooldus ja lõikus
+├── kirsid/
+│   └── kirside-hooldus.md       # Kirside hooldus (hapukirss, maguskirss, sordid)
+└── ploomid/
+    └── ploomide-hooldus.md      # Ploomide hooldus (koduploom, alõtša, sordid)
 ```
 
 ## Aia parameetrid
