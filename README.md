@@ -43,8 +43,8 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [sõstrad/sõstarde-hooldus.md](sõstrad/sõstarde-hooldus.md) | Sõstarde hooldus (must, punane, valge) |
 | [karusmari/karusmarja-hooldus.md](karusmari/karusmarja-hooldus.md) | Karusmarja hooldus (ogadeta sordid, jahukaste, lõikus) |
 | [aroonia/aroonia-hooldus.md](aroonia/aroonia-hooldus.md) | Aroonia hooldus (hooldusevaba, tervislik, sordid) |
-| [õunapuud/õunapuude-hooldus.md](õunapuud/õunapuude-hooldus.md) | Õunapuude hooldus, lõikus, sordid |
-| [kirsid/kirside-hooldus.md](kirsid/kirside-hooldus.md) | Kirside hooldus (hapukirss, maguskirss, sordid) |
+| [õunapuud/õunapuude-hooldus.md](õunapuud/õunapuude-hooldus.md) | Õunapuude hooldus, lõikus, sordid, sammasõunapuud |
+| [kirsid/kirside-hooldus.md](kirsid/kirside-hooldus.md) | Kirside hooldus (hapukirss, maguskirss, põõsaskirss) |
 | [ploomid/ploomide-hooldus.md](ploomid/ploomide-hooldus.md) | Ploomide hooldus (koduploom, alõtša, sordid) |
 
 ### Tugijuhendid
@@ -78,6 +78,13 @@ P4: Kõrvitsalised (kurk, suvikõrvits, patisson)
 ### Eraldi ala
 
 - Kartul 'Solist' (jaanipäevaks)
+
+### Viljapuud
+
+| Kultuur | Sordid | Märkus |
+|---------|--------|--------|
+| **Ploomid** | 'Emma Leppermann', 'Liisu' | 'Emma Leppermann' tolmeldab 'Liisu' |
+| **Sammasõunapuud** | 'Baiba', 'Inese' | Läti sordid, talvekindlad |
 
 ## Rotatsioon
 

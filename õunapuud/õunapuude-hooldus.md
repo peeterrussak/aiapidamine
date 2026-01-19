@@ -114,6 +114,72 @@ Pookealus määrab puu:
 
 ---
 
+## Sammasõunapuud ⭐
+
+Sammasõunapuu (columnar apple, pillar apple) on kompaktne õunapuu, mis kasvab peaaegu ilma külgharudeta – ideaalne väikestele aedadele ja lastele!
+
+### Miks sammasõunapuu?
+
+| Eelis | Kirjeldus |
+|-------|-----------|
+| **Väga kompaktne** | Kõrgus 1,5–2 m, laius vaid 40–60 cm |
+| **Lastele ideaalne** | Kõik õunad käeulatuses |
+| **Ruumisäästlik** | Istutuskaugus 0,8–1,2 m |
+| **Varajane saak** | Kannab vilja juba 2.–3. aastal |
+| **Lihtne hooldus** | Lõikust peaaegu pole vaja |
+| **Dekoratiivne** | Sobib ka rõdule/terrassile potis |
+
+⚠️ **Piirangud:**
+- Lühem eluiga (10–15 aastat)
+- Väiksem saak (3–8 kg puu kohta)
+- Mõned sordid talveõrnad Eestis
+
+### Sordid ⭐ (Läti aretused – talvekindlad!)
+
+Inglise ja Kesk-Euroopa sordid on Eestis sageli talveõrnad. **Läti sordid** on meie kliimale parimad:
+
+| Sort | Valmimisaeg | Maitse | Värv | Märkused |
+|------|-------------|--------|------|----------|
+| **'Baiba'** ⭐ | Sept algus | Magushapu | Punase põsega | Esimene Läti sort (2006), väga talvekindel |
+| **'Inese'** ⭐ | Okt | Magushapu | Punane | Talvesort, hea säilivus |
+| **'Zane'** | Aug lõpp | Magus, vähe hapet | Erepunane | Lastele meeldib! |
+| **'Uldis'** | Aug | Magushapu | Punase põsega | Varajane, hea maitse |
+| **'Ciepa'** | Aug | Magus | Roosade triipudega | Ilus |
+| **'Duet'** | Sept–okt | Magushapu | Punane | Säilib mitu kuud |
+
+**Tolmlemine:** Sammasõunapuud on **head tolmlejad** teistele õunapuudele ja tolmlevad ka üksteist.
+
+### Istutamine
+
+| Tegur | Nõue |
+|-------|------|
+| **Vahe** | 0,8–1,2 m (hekina 0,5–0,8 m) |
+| **Valgus** | Täispäike |
+| **Muld** | Viljakas, dreenitud |
+| **Tugi** | Nõrgematel alustel (M9, B396) vajalik |
+
+**Potis kasvatamine:** Sobib! Vähemalt 40–50 L pott, talveks kaitse juuri.
+
+### Hooldus
+
+**Lõikus:**
+- **Ära lõika latva!** – see rikub sambavormi
+- Eemalda ainult pikemaks kasvanud külgvõrsed (suvel, juulis)
+- Hoia võimalikult kitsas vorm
+
+**Väetamine:** Nagu tavalisel õunapuul, aga väiksemas koguses.
+
+### Kust osta Eestis?
+
+| Puukool | Sordid |
+|---------|--------|
+| [Juhani Puukool](https://juhanipuukool.ee) | 'Baiba', 'Inese', 'Zane', 'Uldis' |
+| [Seedri Puukool](https://seedripuukool.ee) | Mitu sorti |
+| [Hansu Puukool](https://hansupuukool.ee) | Lai valik |
+| Hansaplant | 'Baiba' jt |
+
+---
+
 ## Istutamine
 
 ### Istutusaeg

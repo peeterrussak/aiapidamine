@@ -32,6 +32,7 @@ Eestis kasvatatakse mitut tüüpi ploome:
 | **'Tartu Punane'** | Punane | Keskmine | Aug lõpp | Ei | Eesti sort, vastupidav |
 | **'Viikingiploom'** | Tumesinine | Väga suur | Sept | Osaliselt | Suur vili, hea maitse |
 | **'Oda'** | Lilla | Keskmine | Aug | Ei | Varajane, kompaktne |
+| **'Liisu'** | Punane, lillalaiguline | Suur | Aug algus | Ei | **Varajane!** Mahlane lauaploom |
 | **'Ave'** | Kollane-punane | Keskmine | Aug lõpp | Osaliselt | Eesti sort |
 | **'Stanley'** | Tumesinine | Suur | Sept | Jah | Iseviljuv, klassikaline kuivatusploom |
 
@@ -52,6 +53,7 @@ Eestis kasvatatakse mitut tüüpi ploome:
 | 'Stanley' | 'Polli Viljakas' |
 | 'Victoria' | 'Tartu Punane' |
 |  | 'Viikingiploom' |
+|  | 'Liisu' → tolmeldajad: **'Emma Leppermann'**, 'Tartu Punane', 'Ave' |
 
 **Lahendused:**
 1. Istuta 2 erinevat sorti (kuni 20 m kaugusele)
