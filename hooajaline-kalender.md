@@ -655,6 +655,6 @@ Aroonia                                                                     █�
 - **Kasvuhoone:** [kasvuhoone/kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md)
 - **Muld ja väetamine:** [muld-ja-vaetamine.md](muld-ja-vaetamine.md)
 - **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](kahjurid-ja-haigused.md)
-- **Marjad:** [maasikad/](maasikad/maasikate-hooldus.md), [vaarikad/](vaarikad/vaarikate-hooldus.md), [sõstrad/](sõstrad/sõstarde-hooldus.md)
-- **Puuviljad:** [õunapuud/](õunapuud/õunapuude-hooldus.md), [kirsid/](kirsid/kirside-hooldus.md), [ploomid/](ploomid/ploomide-hooldus.md)
+- **Marjad:** [maasikad](maasikad/maasikate-hooldus.md), [vaarikad](vaarikad/vaarikate-hooldus.md), [sõstrad](sõstrad/sõstarde-hooldus.md)
+- **Puuviljad:** [õunapuud](õunapuud/õunapuude-hooldus.md), [kirsid](kirsid/kirside-hooldus.md), [ploomid](ploomid/ploomide-hooldus.md)
 

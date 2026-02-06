@@ -680,4 +680,4 @@ Liblikõielised (herned, oad, ristik, näär) **seovad õhulämmastikku** juurem
 - **Kurgid:** [kurgid/kurkide-hooldus.md](kurgid/kurkide-hooldus.md)
 - **Kasvuhoone:** [kasvuhoone/kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md)
 - **Varustus:** [varustus-ja-toeriistad.md](varustus-ja-toeriistad.md)
-- **Marjad:** [maasikad/](maasikad/maasikate-hooldus.md), [vaarikad/](vaarikad/vaarikate-hooldus.md), [sõstrad/](sõstrad/sõstarde-hooldus.md)
+- **Marjad:** [maasikad](maasikad/maasikate-hooldus.md), [vaarikad](vaarikad/vaarikate-hooldus.md), [sõstrad](sõstrad/sõstarde-hooldus.md)

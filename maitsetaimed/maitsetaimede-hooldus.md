@@ -508,7 +508,7 @@ ERALDI ÜRDINURK:
 
 ---
 
-## Viited
+## Seotud failid
 
 - Köögiviljad üldiselt: vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md)
 - Tomatid (basiiliku kaaslane): vt [tomatite-hooldus.md](../tomatid/tomatite-hooldus.md)

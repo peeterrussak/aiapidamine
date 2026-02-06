@@ -326,9 +326,9 @@ Herned (ja teised liblikõielised) seovad õhulämmastikku juuremügarate abil:
 
 ---
 
-## Viited
+## Seotud failid
 
 - Köögiviljad üldiselt: vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md)
-- Oad: vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md) (ubade sektsioon)
+- Oad: vt [ubade-hooldus.md](../oad/ubade-hooldus.md)
 - Külvikord: vt [kulvikorrad-ja-rotatsioon.md](../kulvikorrad-ja-rotatsioon.md)
 - Säilitamine: vt [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)

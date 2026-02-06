@@ -63,9 +63,9 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 ### Peenrad
 
 ```
-P1: Maasikad + küüslauk
+P1: Maasikad + küüslauk + kurgirohi
 P2: Maavitsalised (tomat, tšilli, füüsal)
-P3: Liblikõielised + juurviljad (herned, oad, porgand, sibul)
+P3: Liblikõielised + juurviljad (herned, oad, porgand, sibul, porru)
 P4: Kõrvitsalised (kurk, suvikõrvits, patisson)
 ```
 
@@ -98,7 +98,7 @@ P4: Kõrvitsalised (kurk, suvikõrvits, patisson)
 
 | Kultuur | Head sordid |
 |---------|-------------|
-| Tomat | 'Malle', 'Pille' |
+| Tomat | 'Malle', 'Pille', 'Erk F1' |
 | Maasikas | 'Asia' |
 | Hernes | 'Looming' |
 | Kurk | 'Suyu Long' (KH), 'Andrus' (avamaa) |

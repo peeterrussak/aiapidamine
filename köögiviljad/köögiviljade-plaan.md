@@ -1,5 +1,28 @@
 # Köögiviljade kasvatamise plaan
 
+## Sisukord
+
+**Peenrad ja kultuurid:**
+- [Aia ülevaade](#aia-ülevaade) · [Peenarde jaotus 2026](#peenarde-jaotus-2026)
+- [Peenar 1: Maasikad](#peenar-1-maasikad) · [Peenar 2: Maavitsalised](#peenar-2-maavitsalised-solanaceae)
+- [Peenar 3: Herned + Oad + Juurviljad](#peenar-3-herned--oad--juurviljad) · [Peenar 4: Kurgid + Kõrvitsalised](#peenar-4-kurgid--kõrvitsalised)
+
+**Eraldi kultuurid:**
+- [Kartul](#kartul) · [Redis](#redis) · [Maapirn](#maapirn-jerusalem-artichoke) · [Porgand](#porgandi-kasvatamine)
+- [Laugud (Allium)](#laugud-allium) · [Lehtviljad](#lehtviljad-lehtpeet-lehtkapsas-spinat)
+- [Maitsetaimed](#maitsetaimed-ürdid) · [Kõrvitsalised](#kõrvitsalised-cucurbitaceae)
+
+**Planeerimine ja meetodid:**
+- [Ettekasvatamise kalender](#ettekasvatamise-kalender) · [Ettekasvatamise tingimused](#ettekasvatamise-tingimused)
+- [Kaevamisvaba meetod](#kaevamisvaba-meetodi-põhimõtted) · [Külvikord](#külvikord-rotatsioon)
+- [Kaaslaskultuurid](#kaaslaskultuuride-kokkuvõte) · [Haljasväetis](#haljasväetis-katvekultuurid)
+
+**Praktilised juhendid:**
+- [2026 kevadine tegevuskava](#2026-kevadine-tegevuskava) · [Seemnete hankimine](#seemnete-hankimise-nimekiri)
+- [Kahjurid ja haigused](#kahjurid-ja-haigused) · [Märkmed](#märkmed)
+
+---
+
 ## Aia ülevaade
 
 **Aia tüüp:** Kaevamisvaba (no-dig)

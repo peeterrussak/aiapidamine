@@ -481,10 +481,9 @@ Sama tehnika sobib ka:
 
 ---
 
-## Viited
+## Seotud failid
 
-**Seotud failid:**
-- Marjade hooldus: vt [maasikad/](maasikad/maasikate-hooldus.md), [vaarikad/](vaarikad/vaarikate-hooldus.md), [sõstrad/](sõstrad/sõstarde-hooldus.md)
+- Marjade hooldus: vt [maasikad](maasikad/maasikate-hooldus.md), [vaarikad](vaarikad/vaarikate-hooldus.md), [sõstrad](sõstrad/sõstarde-hooldus.md)
 - Köögiviljade kasvatamine: vt [köögiviljad/köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md)
 - Tomatid: vt [tomatid/tomatite-hooldus.md](tomatid/tomatite-hooldus.md)
 - Kurgid: vt [kurgid/kurkide-hooldus.md](kurgid/kurkide-hooldus.md)

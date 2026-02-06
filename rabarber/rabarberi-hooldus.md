@@ -412,7 +412,7 @@ NÄIDISPAIGUTUS:
 
 ---
 
-## Viited
+## Seotud failid
 
 - Püsikultuurid: vt [maapirn (köögiviljade-plaan.md)](../köögiviljad/köögiviljade-plaan.md)
 - Säilitamine: vt [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
