@@ -382,7 +382,7 @@ Kasvuhoones pole palju tolmeldajaid – aita kaasa:
 - [ ] Sordid mis toimisid / ei toiminud:
 - [ ] Saak sordi kaupa (kg):
 - [ ] Esimesed küpsed viljad (kuupäev):
-- [ ] Haigused (lehemädanik, tippnekroos):
+- [ ] Haigused (lehemädanik, lõppmädanik):
 - [ ] Lõikamise mõju:
 
 ### 2026 hooaeg

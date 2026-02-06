@@ -470,7 +470,7 @@ Vaarikad vajavad tuge! Levinumad süsteemid:
 - [ ] Saak sordi kaupa (kg):
 - [ ] Marjamardikad – kas liimpüünised toimisid?
 - [ ] Lõikus – millal ja kui palju hõrendati?
-- [ ] Haigused (hallitus, võrselõputõbi):
+- [ ] Haigused (hallitus, võrsehaigus):
 - [ ] Tugikonstruktsiooni seisund:
 
 **Oodatav saak:**
