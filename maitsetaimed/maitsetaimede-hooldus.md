@@ -1,5 +1,8 @@
 # Maitsetaimede kasvatamine
 
+## Sisukord
+[Ülevaade](#ülevaade) · [Üheaastased](#üheaastased-maitsetaimed) · [Kaheaastased](#kaheaastased-maitsetaimed) · [Püsikud](#püsikud) · [Ürdinurga planeerimine](#ürdinurga-planeerimine) · [Pottides](#maitsetaimed-pottides) · [Paigutus aias](#maitsetaimede-paigutus-aias) · [Kalender](#kalender) · [Säilitamine](#säilitamine) · [2026 plaan](#2026-plaan) · [Seotud failid](#seotud-failid)
+
 ## Ülevaade
 
 Maitsetaimed (ürdid) on kasulikud kaaslaskultuurid – meelitavad tolmeldajaid, peletavad kahjureid ja maitsestavad toitu!
@@ -513,4 +516,5 @@ ERALDI ÜRDINURK:
 - Köögiviljad üldiselt: vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md)
 - Tomatid (basiiliku kaaslane): vt [tomatite-hooldus.md](../tomatid/tomatite-hooldus.md)
 - Kurgid (tilli kaaslane): vt [kurkide-hooldus.md](../kurgid/kurkide-hooldus.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - Säilitamine: vt [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)

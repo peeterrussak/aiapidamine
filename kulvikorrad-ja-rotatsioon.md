@@ -67,7 +67,7 @@ Pärast liblikõielisi on mullas rohkem lämmastikku!
 | Kõrvitsalised | 2–3 aastat | Jahukaste, fusarioos |
 | Kapsalised | 4–7 aastat | Kapsanuuter (väga püsiv!) |
 | Liblikõielised | 2–3 aastat | Juuremädanik |
-| Sibulalised | 3–4 aastat | Sibulakärbes, hallitus |
+| Laugud | 3–4 aastat | Sibulakärbes, hallitus |
 | Sarikõielised | 2–3 aastat | Porgandikärbes |
 
 ### 4-aastane rotatsioon (klassikaline)

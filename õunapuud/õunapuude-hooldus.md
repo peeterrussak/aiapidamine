@@ -1,5 +1,8 @@
 # Õunapuude hooldusplaan
 
+## Sisukord
+[Ülevaade](#ülevaade) · [Sortide tüübid](#õunasortide-tüübid) · [Tolmlemine](#tolmlemine) · [Pookealused](#pookealused) · [Sammasõunapuud](#sammasõunapuud-) · [Istutamine](#istutamine) · [Lõikus](#lõikuse-põhimõtted) · [Hoolduskalender](#aastaringne-hoolduskalender) · [Kahjurid](#kahjurid) · [Haigused](#haigused) · [Väetamine](#väetamine) · [Kastmine](#kastmine) · [Saagi koristamine](#saagi-koristamine-ja-säilitamine) · [Probleemid](#probleemide-lahendamine) · [Tööde kokkuvõte](#tööde-kokkuvõte-kuude-kaupa) · [Märkmed](#märkmed) · [Seotud failid](#seotud-failid)
+
 ## Ülevaade
 
 | Parameeter | Väärtus |
@@ -657,13 +660,20 @@ Võimalikud põhjused:
 | (lisa) | (lisa) | (lisa kg) |
 
 **Hooaja tähelepanekud:**
-- (Lisa siia hooaja jooksul)
+
+- [ ] Lõikus – millal ja mida tehti?
+- [ ] Õitsemise aeg (kuupäevad):
+- [ ] Saak sordi kaupa (kg):
+- [ ] Haigused (kärntõbi, jahukaste):
+- [ ] Kahjurid (õunakoi, lehetäi):
+- [ ] Sordid – mis toimis?
 
 ---
 
 ## Seotud failid
 
 - **Marjad:** [vaarikad](../vaarikad/vaarikate-hooldus.md), [sõstrad](../sõstrad/sõstarde-hooldus.md), [kuslapuud](../kuslapuud/kuslapuude-hooldus.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
 - **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)
 

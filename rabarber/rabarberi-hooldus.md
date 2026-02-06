@@ -1,5 +1,8 @@
 # Rabarberi kasvatamine
 
+## Sisukord
+[Ülevaade](#ülevaade) · [Sordid](#sordid) · [Kasvatamine](#kasvatamine) · [Hooldus](#hooldus) · [Korjamine](#korjamine) · [Säilitamine ja kasutamine](#säilitamine-ja-kasutamine) · [Taime jagamine](#taime-jagamine-uuendamine) · [Probleemid ja kahjurid](#probleemid-ja-kahjurid) · [Kaevamisvabas aias](#rabarber-kaevamisvabas-aias) · [Kalender](#kalender) · [2026 plaan](#2026-plaan) · [Seotud failid](#seotud-failid)
+
 ## Ülevaade
 
 Rabarber (*Rheum rhabarbarum*) on **püsikkultuur**, mis võib kasvada samas kohas 10–20 aastat! Üks esimesi kevadsaake aias – varred on valmis juba mais.
@@ -415,5 +418,6 @@ NÄIDISPAIGUTUS:
 ## Seotud failid
 
 - Püsikultuurid: vt [maapirn (köögiviljade-plaan.md)](../köögiviljad/köögiviljade-plaan.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - Säilitamine: vt [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
 - Marjad: vt [maasikate-hooldus.md](../maasikad/maasikate-hooldus.md)

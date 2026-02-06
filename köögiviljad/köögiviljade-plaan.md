@@ -147,8 +147,8 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiroh
 | **Herned** | Põhi (kevad) | 2–3 m rida, 5–10 cm | Aprill külv, juulis valmis |
 | **Aedoad (roniv)** | Põhi (suvi) | 2 m rida, 10–15 cm | Mai külv, juuli–sept saak |
 | **Porgand** | Põhi (terve hooaeg) | 2–3 m, 4 rida | Aprill–okt, vt porgandi sektsioon |
-| **Sibul** | Põhi | 1,5 m, 2 rida | Aprill–august, vt sibulaliste sektsioon |
-| **Porru** | Põhi | 1 m rida | Mai–november, vt sibulaliste sektsioon |
+| **Sibul** | Põhi | 1,5 m, 2 rida | Aprill–august, vt laugude sektsioon |
+| **Porru** | Põhi | 1 m rida | Mai–november, vt laugude sektsioon |
 | Salatid | Järelkülv | Pärast herneid | Juulist vabale alale |
 | Murulauk | Serv | Peenra otsad | Püsik, peletab kahjureid |
 
@@ -714,7 +714,7 @@ SOBILIK KOHT:
 
 ## Porgandi kasvatamine
 
-→ Porgand kasvab 2026 **Peenras 3** (koos sibulalistega)
+→ Porgand kasvab 2026 **Peenras 3** (koos laugudega)
 
 **Sordid Eestis:**
 
@@ -845,7 +845,7 @@ Laugud on kasulikud kaaslaskultuurid – peletavad kahjureid (eriti porgandikär
 - Värskelt: salatid, võileivad, munaroad
 - Õied on ka söödavad (dekoratsioon)
 
-### Sibulaliste paigutus aias
+### Laugude paigutus aias
 
 ```
 VARIANT A: Porgandipeenra servas
@@ -1481,6 +1481,16 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | **Porgand** | Till (väidetavalt), seller | Konkurents, maitse |
 | Salat | – | Sobib peaaegu kõigega |
 
+### Marjad ja puuviljad
+
+| Kultuur | Head kaaslased | Halvad kaaslased |
+|---------|----------------|------------------|
+| Maasikas | Küüslauk, kurgirohi, sibul, salat, spinat | Kapsas |
+| Vaarikas | Küüslauk, sibul (kahjuritõrje) | Kartul (haigused) |
+| Sõstar | Kurgirohi, küüslauk | Vahukivi lähedus |
+| Tomat (KH) | Basiilik (maitse + kahjuritõrje) | Kurk (sama KH) |
+| Sibul ↔ porgand | Vastastikuse kasu: sibulakärbes ↔ porgandikärbes | – |
+
 ---
 
 ## 2026 kevadine tegevuskava
@@ -1842,5 +1852,36 @@ Meelita need aeda ja nad aitavad kahjureid kontrolli all hoida:
 ---
 
 ### 2026 hooaeg
-- (Lisa siia hooaja tähelepanekud)
+
+**Kultuuride märkmed:**
+
+**TOMATID:**
+- (Sordid, kasv, saak, probleemid)
+
+**MAASIKAD:**
+- (Tippaeg, marjasuurus, hõredus)
+
+**KÜÜSLAUK:**
+- (Koristusaeg, küünde suurus)
+
+**HERNED / OAD:**
+- (Sordid, saak, haljasväetis pärast)
+
+**KURGID:**
+- (Avamaa vs kasvuhoone, sordid)
+
+**KÕRVITSALISED:**
+- (Suvikõrvits, patisson, saak)
+
+**SIBULAD:**
+- (Uued sordid: 'Sturon' / 'Hercules' – kas toimis?)
+
+**TŠILLID:**
+- (Varasem ettekasvatamine – kas aitas?)
+
+**KARTUL:**
+- (Solist, saak, jaanipäevaks?)
+
+**MUUD:**
+- (Porru, füüsal, porgand, arbuus)
 

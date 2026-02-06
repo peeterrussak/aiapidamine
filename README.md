@@ -93,6 +93,8 @@ P4: Kõrvitsalised (kurk, suvikõrvits, patisson)
 | 2025 | Maasikad | Herned + oad | Kurgid + kõrvits | Kartul |
 | 2026 | Maasikad | Maavitsalised | Herned + oad | Kõrvitsalised |
 | 2027 | Maasikad | Salatid + porgand | Maavitsalised | Herned + oad |
+| 2028 | Maasikad | Kurgid + kõrvitsalised | Salatid + porgand | Maavitsalised |
+| 2029 | **Uuenda maasikad** | Herned + oad | Kurgid + kõrvitsalised | Salatid + porgand |
 
 ## Testitud sordid 2025
 

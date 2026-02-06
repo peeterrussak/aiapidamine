@@ -309,5 +309,6 @@ Aroonia on üks väheseid marjapõõsaid, millel **praktiliselt puuduvad** kahju
 ## Seotud failid
 
 - **Teised marjad:** [sõstrad](../sõstrad/sõstarde-hooldus.md), [karusmari](../karusmari/karusmarja-hooldus.md), [kuslapuud](../kuslapuud/kuslapuude-hooldus.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
 - **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)

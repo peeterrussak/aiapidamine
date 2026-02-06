@@ -355,7 +355,11 @@ Küüslauk on suurepärane kaaslane maasikale:
 - Kvaliteet: (lisa)
 
 **Tähelepanekud:**
-- (Lisa siia hooaja jooksul)
+
+- [ ] Koristuskuupäev:
+- [ ] Küünde suurus (võrdle 2024-ga):
+- [ ] Säilivus (kuud):
+- [ ] Haigused/kahjurid:
 
 ### 2026 hooaeg
 
@@ -365,14 +369,19 @@ Küüslauk on suurepärane kaaslane maasikale:
 - [ ] Jätka kohalikku sorti
 
 **Hooaja tähelepanekud:**
-- (Lisa siia hooaja jooksul)
+
+- [ ] Koristuskuupäev:
+- [ ] Küünde suurus:
+- [ ] Sordid (Eesti, Lyubasha, Komsomolets) – võrdlus:
+- [ ] Säilivus:
+- [ ] Maasikapeenras – kuidas toimis?
 
 ---
 
 ## Seotud failid
 
 - **Maasikad:** [maasikad/maasikate-hooldus.md](../maasikad/maasikate-hooldus.md)
-- **Sibulalised:** [köögiviljad/köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md)
+- **Laugud:** [köögiviljad/köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md)
 - **Kahjurid:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - **Külvikord:** [kulvikorrad-ja-rotatsioon.md](../kulvikorrad-ja-rotatsioon.md)
 - **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)

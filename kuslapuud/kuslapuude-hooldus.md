@@ -336,12 +336,18 @@ Kuslapuu on üldiselt **väga vastupidav** taim, kuid mõned probleemid võivad 
 | **Kokku** | – | **~10–14 kg** |
 
 **Hooaja tähelepanekud:**
-- (Lisa siia hooaja jooksul)
+
+- [ ] Saak sordi kaupa (kg):
+- [ ] Tolmlemine – kas sordid õitsesid samal ajal?
+- [ ] Marjad – suurus, maitse, varisemiskindlus:
+- [ ] Kasv (uute sortide Aurora, Boreal):
+- [ ] Linnukahjustused?
 
 ---
 
 ## Seotud failid
 
 - **Teised marjad:** [vaarikad](../vaarikad/vaarikate-hooldus.md), [sõstrad](../sõstrad/sõstarde-hooldus.md), [maasikad](../maasikad/maasikate-hooldus.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
 - **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)

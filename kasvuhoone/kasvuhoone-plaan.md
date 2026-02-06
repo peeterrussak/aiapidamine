@@ -1,5 +1,8 @@
 # Kasvuhoone plaan
 
+## Sisukord
+[Ülevaade](#ülevaade) · [Kliima juhtimine](#kliima-juhtimine) · [Kastmine](#kastmine) · [Kultuurid](#kultuurid) · [Kahjurid ja haigused](#kahjurid-ja-haigused) · [Ruumi optimeerimine](#ruumi-optimeerimine) · [Kasvuhoone hooldus](#kasvuhoone-hooldus) · [Hooajaline kalender](#kasvuhoone-hooajaline-kalender) · [Märkmed](#märkmed) · [Ressursid ja viited](#ressursid-ja-viited)
+
 ## Ülevaade
 
 | Parameeter | Väärtus |
@@ -826,7 +829,15 @@ LAETROSSI SÜSTEEM
 **💡 Vihje:** Basiilik mahub tomatite vahele, füüsal saab olla tomatitega samas reas – need ei võta lisaruumi!
 
 **Hooaja tähelepanekud:**
-- (Lisa siia hooaja jooksul)
+
+- [ ] Maksimaalne temperatuur suvel (°C):
+- [ ] Minimaalne temperatuur kevadel (°C):
+- [ ] Ventilatsioon – kas piisav?
+- [ ] Kastmissüsteem – kas töötas?
+- [ ] Saak kultuuride kaupa (kg): tomat / kurk / arbuus / muu
+- [ ] Kahjurid/haigused:
+- [ ] Mis töötas hästi?
+- [ ] Mida muuta 2027?
 
 ---
 

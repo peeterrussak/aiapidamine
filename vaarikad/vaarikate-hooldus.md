@@ -2,6 +2,9 @@
 
 Selles failis: vaarikad (Rubus idaeus), must aedpampel (R. occidentalis) ja pampel/aedmurakas (R. fruticosus).
 
+## Sisukord
+[Sordid](#sordid) · [Vaarikate tüübid](#vaarikate-tüübid) · [Glen Ample](#glen-ample) · [Glen Dee](#glen-dee) · [Must aedpampel](#must-aedpampel-rubus-occidentalis) · [Pampel](#pampel--aedmurakas-rubus-fruticosus) · [Hoolduskalender](#aastaringne-hoolduskalender) · [Tugikonstruktsioon](#tugikonstruktsioon) · [Väetamine](#väetamine) · [Kastmine](#kastmine) · [Kahjurid ja haigused](#kahjurid-ja-haigused) · [Säilitamine](#marjade-säilitamine) · [Paljundamine](#paljundamine) · [Märkmed](#märkmed) · [Seotud failid](#seotud-failid)
+
 ## Sordid
 
 ### Praegused sordid
@@ -463,7 +466,12 @@ Vaarikad vajavad tuge! Levinumad süsteemid:
 - [ ] Märgi üles saagi kogused
 
 **Hooaja tähelepanekud:**
-- (Lisa siia hooaja jooksul)
+
+- [ ] Saak sordi kaupa (kg):
+- [ ] Marjamardikad – kas liimpüünised toimisid?
+- [ ] Lõikus – millal ja kui palju hõrendati?
+- [ ] Haigused (hallitus, võrselõputõbi):
+- [ ] Tugikonstruktsiooni seisund:
 
 **Oodatav saak:**
 | Sort | Põõsaste arv | Oodatav saak |
@@ -477,6 +485,7 @@ Vaarikad vajavad tuge! Levinumad süsteemid:
 ## Seotud failid
 
 - **Teised marjad:** [sõstrad](../sõstrad/sõstarde-hooldus.md), [kuslapuud](../kuslapuud/kuslapuude-hooldus.md), [maasikad](../maasikad/maasikate-hooldus.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
 - **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)
 

@@ -1,5 +1,8 @@
 # Maasikate hooldusplaan
 
+## Sisukord
+[Kasvukoht ja peenrad](#kasvukoht-ja-peenrad) · [Istutuskaugused](#istutuskaugused) · [Kaaslaskultuurid](#kaaslaskultuurid) · [Kevadine korrastamine](#kevadine-peenra-korrastamine) · [Sordid](#sordid-ja-istutusaasta) · [Peenra elutsükkel](#peenra-elutsükkel) · [Hoolduskalender](#aastaringne-hoolduskalender) · [Kastmine](#kastmine) · [Väetamine](#väetamine) · [Võsundid](#võsundite-haldamine) · [Kahjurid ja haigused](#kahjurid-ja-haigused) · [Saagikus](#saagikus) · [Säilitamine](#säilitamine) · [Kontrollnimekiri 2026](#kevadine-kontrollnimekiri-2026) · [Ostukohtade meelespea](#ostukohtade-meelespea) · [20 tarkust](#20-parimat-tarkust-edukaks-maasikakasvatuseks) · [Märkmed](#märkmed) · [Seotud failid](#seotud-failid)
+
 ## Kasvukoht ja peenrad
 
 **Aia tüüp:** Kaevamisvaba (no-dig)
@@ -668,5 +671,20 @@ Flair → Honeoye → Rumba → Polka → Sonsation → Sonata → Verdi → Asi
 - Asia on väga hea sort – jätkata!
 
 ### 2026 hooaeg
-- (Lisa siia hooaja tähelepanekud)
+
+- [ ] Marjasuurus (võrdle 2025-ga):
+- [ ] Saagi tippaeg (kuupäevad):
+- [ ] Viimased marjad (kuupäev):
+- [ ] Taime tihedus – kas 30–35 cm vahe piisav?
+- [ ] Kaaslaskultuurid (küüslauk, kurgirohi) – kuidas kasvasid?
+- [ ] Haigused/kahjurid:
+
+---
+
+## Seotud failid
+
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
+- **Küüslauk (kaaslaskultuur):** [küüslaugu-hooldus.md](../küüslauk/küüslaugu-hooldus.md)
+- **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
+- **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)
 

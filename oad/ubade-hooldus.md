@@ -351,5 +351,6 @@ Oad (ja teised liblikõielised) seovad õhulämmastikku juuremügarate abil:
 
 - Herned: vt [herned/herneste-hooldus.md](../herned/herneste-hooldus.md)
 - Köögiviljad üldiselt: vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - Külvikord: vt [kulvikorrad-ja-rotatsioon.md](../kulvikorrad-ja-rotatsioon.md)
 - Säilitamine: vt [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)

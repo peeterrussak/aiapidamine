@@ -378,12 +378,22 @@ Kasvuhoones pole palju tolmeldajaid – aita kaasa:
 - Erk F1: korralik
 
 **Tähelepanekud:**
-- (Lisa siia hooaja jooksul)
+
+- [ ] Sordid mis toimisid / ei toiminud:
+- [ ] Saak sordi kaupa (kg):
+- [ ] Esimesed küpsed viljad (kuupäev):
+- [ ] Haigused (lehemädanik, tippnekroos):
+- [ ] Lõikamise mõju:
 
 ### 2026 hooaeg
 
 **Tähelepanekud:**
-- (Lisa siia hooaja jooksul)
+
+- [ ] Sordid (Malle, Pille, Erk F1 + uued):
+- [ ] Saak sordi kaupa (kg):
+- [ ] Esimesed küpsed viljad (kuupäev):
+- [ ] Haigused:
+- [ ] Väetamine – mida ja millal?
 
 ---
 

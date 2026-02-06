@@ -342,4 +342,5 @@ Eesti klassika! Hapukurgid säilivad keldris kuni kevadeni.
 
 - Kõrvitsalised üldiselt: vt [köögiviljade-plaan.md](../köögiviljad/köögiviljade-plaan.md)
 - Kasvuhoone tingimused: vt [kasvuhoone-plaan.md](../kasvuhoone/kasvuhoone-plaan.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - Hapendamine ja säilitamine: vt [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)

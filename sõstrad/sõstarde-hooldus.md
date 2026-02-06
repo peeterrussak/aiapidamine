@@ -1,5 +1,8 @@
 # Sõstarde hooldusplaan
 
+## Sisukord
+[Sõstratüübid](#sõstratüübid) · [Erinevused hoolduses](#erinevused-hoolduses) · [Kasvukoht](#kasvukoha-valik) · [Istutamine](#istutamine) · [Lõikus](#lõikuse-põhimõtted) · [Hoolduskalender](#aastaringne-hoolduskalender) · [Väetamine](#väetamine) · [Kastmine](#kastmine) · [Kahjurid ja haigused](#kahjurid-ja-haigused) · [Sordid](#sordid-eestile) · [Saagikus](#saagikus) · [Korjamine](#marjade-korjamine) · [Säilitamine](#marjade-säilitamine) · [Paljundamine](#paljundamine) · [Probleemid](#probleemide-lahendamine) · [Kontrollnimekiri](#kontrollnimekiri-hooajaks) · [Märkmed](#märkmed) · [Seotud failid](#seotud-failid)
+
 ## Sõstratüübid
 
 | Tüüp | Ladina nimi | Maitse | Kasutus | Märkused |
@@ -494,13 +497,19 @@ Must sõstar → Punane sõstar → Valge sõstar
 | Valge sõstar | (lisa) | (lisa) | 3–4 kg/põõsas |
 
 **Hooaja tähelepanekud:**
-- (Lisa siia hooaja jooksul)
+
+- [ ] Saak sordi kaupa (must/punane/valge, kg):
+- [ ] Marjad – suurus ja maitse:
+- [ ] Lõikus – mida tehti?
+- [ ] Haigused (jahukaste, lehelaik):
+- [ ] Kahjurid (lehetäi, klaastiib):
 
 ---
 
 ## Seotud failid
 
 - **Teised marjad:** [vaarikad](../vaarikad/vaarikate-hooldus.md), [kuslapuud](../kuslapuud/kuslapuude-hooldus.md), [maasikad](../maasikad/maasikate-hooldus.md)
+- **Kahjurid ja haigused:** [kahjurid-ja-haigused.md](../kahjurid-ja-haigused.md)
 - **Säilitamine:** [säilitamine-ja-hoiustamine.md](../säilitamine-ja-hoiustamine.md)
 - **Hooajaline kalender:** [hooajaline-kalender.md](../hooajaline-kalender.md)
 

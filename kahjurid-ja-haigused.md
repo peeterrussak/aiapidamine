@@ -161,7 +161,7 @@ Koondtabel aia kahjuritest ja haigustest koos tõrjemeetoditega.
 | **Maavitsalised** (tomat, kartul, paprika) | 3–4 aastat | Lehemädanik, fusarioos |
 | **Kõrvitsalised** (kurk, kõrvits) | 2–3 aastat | Jahukaste, fusarioos |
 | **Kapsalised** (kapsas, redis, naeris) | 4–7 aastat | Kapsanuuter! |
-| **Sibulalised** (sibul, küüslauk, porru) | 3–4 aastat | Sibulakärbes, hallitus |
+| **Laugud** (sibul, küüslauk, porru) | 3–4 aastat | Sibulakärbes, hallitus |
 | **Liblikõielised** (herned, oad) | 2–3 aastat | Juuremädanik |
 | **Maasikas** | 4–5 aastat | Juuremädanik, nematoodid |
 
