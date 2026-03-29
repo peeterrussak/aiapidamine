@@ -46,35 +46,11 @@ Sinu puukastid (1 × 9 m) kuivavad kiiremini kui maapealsed peenrad:
 
 ### Süsteemi ülevaade
 
-```
-     ┌──────────────────────┐
-     │    MAJA KATUS         │
-     │    (vihmavesi)        │
-     └──────────┬───────────┘
-                │ renn + lehefilter
-                ▼
-     ┌──────────────────────┐
-     │  VIHMAVEETÜNN 1 m³   │  ← maapinnal, tugeval alusel
-     │  (1000 liitrit)      │
-     │  + moskiitovõrk      │
-     │  + ülevool           │
-     └──────────┬───────────┘
-                │ 12V päikesepatareiga pump
-                │ + taimer
-                ▼
-     ┌──────────────────────┐
-     │  KASVUHOONE (3×6 m)  │
-     │  tilkkastmine         │
-     └──────────────────────┘
-
-     ┌──────────────────────┐
-     │  KRAANIVESI           │
-     └──────────┬───────────┘
-                │ aiavoolik + taimer
-                ▼
-     ┌──────────────────────────────────────────────────┐
-     │  PEENRAD P1–P4 (immutuskastmisvoolik × 4 tk)     │
-     └──────────────────────────────────────────────────┘
+```mermaid
+flowchart TD
+    A["Maja katus\nvihmavesi"] -->|"renn + lehefilter"| B["Vihmaveetünn 1 m³\n1000 L · moskiitovõrk · ülevool\nmaapinnal, tugeval alusel"]
+    B -->|"12V päikesepatareiga pump + taimer"| C["Kasvuhoone 3×6 m\ntilkkastmine"]
+    D["Kraanivesi"] -->|"aiavoolik + taimer"| E["Peenrad P1–P4\nimmutuskastmisvoolik × 4 tk"]
 ```
 
 ### Katuse kogumise maht
@@ -229,13 +205,14 @@ Tippaeg (juuli, kuumalaine): 4 peenart vajavad korraga **220–290 L**. See on 2
 
 ### Paigaldus
 
-```
-                     ┌──── Immutuskastmisvoolik ────┐
-KRAANIVESI ─── Taimer ─── Jaotustükk ─┤ P1: Maasikad (9 m)         │
-                                       ├ P2: Tomatid + tšilli (9 m) │
-                                       ├ P3: Herned + juurviljad (9 m)│
-                                       └ P4: Kurgid + kõrvits (9 m)   │
-                                       └────────────────────────────┘
+```mermaid
+flowchart LR
+    A["Kraanivesi"] --> B["Taimer"]
+    B --> C["Jaotustükk\n4 haru"]
+    C --> P1["P1: Maasikad\nimmutuskastmisvoolik 9 m"]
+    C --> P2["P2: Tomatid + tšilli\nimmutuskastmisvoolik 9 m"]
+    C --> P3["P3: Herned + juurviljad\nimmutuskastmisvoolik 9 m"]
+    C --> P4["P4: Kurgid + kõrvits\nimmutuskastmisvoolik 9 m"]
 ```
 
 1. **Ühenda taimer** kraanile
