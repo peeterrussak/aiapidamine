@@ -17,6 +17,7 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 
 | Fail | Kirjeldus |
 |------|-----------|
+| [aiapidamine-2026.md](aiapidamine-2026.md) | 2026 logipidamine |
 | [hooajaline-kalender.md](hooajaline-kalender.md) | Aastaringne tööde kalender kuude kaupa |
 | [köögiviljad/köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md) | Köögiviljade kasvatamise põhiplaan, rotatsioon, sordid |
 | [kasvuhoone/kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md) | Kasvuhoone kultuurid (kurk, tomat, arbuus) |
@@ -102,7 +103,7 @@ P4: Kõrvitsalised (kurk, suvikõrvits, patisson)
 | Kultuur | Head sordid |
 |---------|-------------|
 | Tomat | 'Malle', 'Pille', 'Erk F1' |
-| Maasikas | 'Asia' |
-| Hernes | 'Looming' |
+| Maasikas | 'Asia', 'Faith', 'Sonsation', 'Honeoye' |
+| Hernes | 'Looming', 'Aamisepp' |
 | Kurk | 'Suyu Long' (KH), 'Andrus' (avamaa) |
 | Küüslauk | Eesti sort |
