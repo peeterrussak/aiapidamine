@@ -126,14 +126,14 @@ ISTUTUSSÜGAVUS:
 
 ### Suvi (juuni–juuli)
 
-**Noolte eemaldamine:**
-- Taliküüslaugul kasvavad õienooled
-- **Eemalda nooled**, kui nad on ~10 cm pikad
+**Võrsete eemaldamine:**
+- Taliküüslaugul kasvavad õievarred
+- **Eemalda võrsed**, kui nad on ~10 cm pikad
 - Muidu läheb energia seemnetesse, mitte sibulasse
-- Noolte eemaldamine suurendab saaki 20–30%
+- Võrsete eemaldamine suurendab saaki 20–30%
 
 ```
-NOOLE EEMALDAMINE:
+VÕRSE EEMALDAMINE:
         ↑ lõika siit
         │ (kui ~10 cm pikk)
     ────┴────
@@ -143,8 +143,8 @@ NOOLE EEMALDAMINE:
        │ │
 ```
 
-**⚠️ Jäta 1–2 noolt alles:**
-- Noolte sirgeks muutumine näitab, et saak on valmis
+**⚠️ Jäta 1–2 võrset alles:**
+- Võrsete sirgeks muutumine näitab, et saak on valmis
 - Saad ka sibulõisikuid (paljundamiseks)
 
 **Kastmine:**
@@ -180,7 +180,7 @@ NOOLE EEMALDAMINE:
 | Märk | Kirjeldus |
 |------|-----------|
 | Lehed | 1/3 kuni 1/2 kollased/kuivanud |
-| Nool | Sirge (kui jätsid alles) |
+| Võrse | Sirge (kui jätsid alles) |
 | Sibul | Soomused tihedalt ümber küünte |
 | Aeg | Juuli keskpaik–lõpp |
 
@@ -231,12 +231,12 @@ NOOLE EEMALDAMINE:
 - Jäta parimad sibulad istutamiseks
 - Eralda küüned alles vahetult enne istutamist
 
-### Sibulõisikutest (nooltelt)
+### Sibulõisikutest (võrsetelt)
 
-Noolte otsas moodustuvad väikesed sibulõisikud:
+Võrsete otsas moodustuvad väikesed sibulõisikud:
 
-1. Lase 1–2 noolel õitseda ja sibulõisikud moodustuda
-2. Korja sibulõisikud augustis, kui nool kuivab
+1. Lase 1–2 võrsel õitseda ja sibulõisikud moodustuda
+2. Korja sibulõisikud augustis, kui võrse kuivab
 3. Kuivata
 4. **Istuta sügisel** nagu küüned (veidi tihedamalt)
 5. **1. aasta:** kasvab väike ümmargune sibul ("üheaastane")
@@ -289,8 +289,8 @@ Küüslauk on suurepärane kaaslane maasikale:
 - [ ] Kasta vajadusel
 
 ### Juuni
-- [ ] **Eemalda õienooled** (kui ~10 cm)
-- [ ] Jäta 1–2 noolt küpsuse märgiks
+- [ ] **Eemalda õievarred** (kui ~10 cm)
+- [ ] Jäta 1–2 võrset küpsuse märgiks
 - [ ] Kasta vajadusel
 - [ ] Puutuhk (50 g/m²)
 

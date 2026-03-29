@@ -30,6 +30,14 @@ aiapidamine/
 │   └── ubade-hooldus.md         # Ubade kasvatamine (aedoad, põlduba, sordid)
 ├── küüslauk/
 │   └── küüslaugu-hooldus.md     # Küüslaugu sordid ja kasvatamine
+├── kartul/
+│   └── kartuli-hooldus.md       # Kartuli kasvatamine (varajane, jaanipäevaks)
+├── porgand/
+│   └── porgandi-hooldus.md      # Porgandi kasvatamine (külv, porgandikärbes)
+├── sibul/
+│   └── sibula-hooldus.md        # Sibula kasvatamine (pesasibul, sordid)
+├── porru/
+│   └── porru-hooldus.md         # Porru kasvatamine (ettekasvatamine, talvikindlad)
 ├── maitsetaimed/
 │   └── maitsetaimede-hooldus.md # Maitsetaimed (basiilik, till, pune, salvei jt)
 ├── rabarber/
@@ -38,6 +46,8 @@ aiapidamine/
 │   └── maasikate-hooldus.md     # Maasikate hooldusplaan
 ├── kasvuhoone/
 │   └── kasvuhoone-plaan.md      # Kasvuhoone kultuurid (kurk, tomat, arbuus)
+├── arbuus/
+│   └── arbuusi-hooldus.md       # Arbuusi kasvatamine kasvuhoones (tolmeldamine, sordid)
 ├── vaarikad/
 │   └── vaarikate-hooldus.md     # Vaarikate hooldus
 ├── kuslapuud/

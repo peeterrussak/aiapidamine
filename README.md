@@ -21,6 +21,7 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [hooajaline-kalender.md](hooajaline-kalender.md) | Aastaringne tööde kalender kuude kaupa |
 | [köögiviljad/köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md) | Köögiviljade kasvatamise põhiplaan, rotatsioon, sordid |
 | [kasvuhoone/kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md) | Kasvuhoone kultuurid (kurk, tomat, arbuus) |
+| [arbuus/arbuusi-hooldus.md](arbuus/arbuusi-hooldus.md) | Arbuusi kasvatamine kasvuhoones (käsitsi tolmeldamine, 'Sugar Baby') |
 
 ### Köögiviljad
 
@@ -31,6 +32,10 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [herned/herneste-hooldus.md](herned/herneste-hooldus.md) | Herneste kasvatamine (sordid, külv, säilitamine) |
 | [oad/ubade-hooldus.md](oad/ubade-hooldus.md) | Ubade kasvatamine (aedoad, põlduba, sordid, hooldus) |
 | [küüslauk/küüslaugu-hooldus.md](küüslauk/küüslaugu-hooldus.md) | Küüslaugu kasvatamine, sordid (Lyubasha, Komsomolets, Eesti kohalik) |
+| [kartul/kartuli-hooldus.md](kartul/kartuli-hooldus.md) | Kartuli kasvatamine (varajane 'Solist' jaanipäevaks, kaevamisvaba meetod) |
+| [porgand/porgandi-hooldus.md](porgand/porgandi-hooldus.md) | Porgandi kasvatamine (külv, harvendamine, porgandikärbes) |
+| [sibul/sibula-hooldus.md](sibul/sibula-hooldus.md) | Sibula kasvatamine (pesasibul, sordid Sturon/Hercules) |
+| [porru/porru-hooldus.md](porru/porru-hooldus.md) | Porru kasvatamine (ettekasvatamine märtsis, talvikindlad sordid) |
 | [maitsetaimed/maitsetaimede-hooldus.md](maitsetaimed/maitsetaimede-hooldus.md) | Maitsetaimed (basiilik, till, petersell, pune, tüümian, salvei) |
 | [rabarber/rabarberi-hooldus.md](rabarber/rabarberi-hooldus.md) | Rabarberi hooldus (sordid, korjamine, jagamine) |
 

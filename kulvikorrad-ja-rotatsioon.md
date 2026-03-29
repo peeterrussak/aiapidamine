@@ -43,17 +43,14 @@ Kultuuride vaheldumise põhimõtted ja planeerimine.
 
 ### Rühmadevahelised seosed
 
+```mermaid
+flowchart LR
+    A["🌿 Liblikõielised\nherned, oad\n★ Seovad N"] --> B["🍅 Maavitsalised\ntomat, kartul\nKasutavad N"]
+    B --> C["🥒 Kõrvitsalised\nkurk, kõrvits\nKasutavad N"]
+    C --> D["🥬 Kapsalised\nkapsas\nKasutavad N"]
 ```
-PARIM JÄRGNEVUS:
-
-Liblikõielised → Maavitsalised → Kõrvitsalised → Kapsalised
-(herned, oad)    (tomat, kartul)   (kurk, kõrvits)  (kapsas)
-     ↓                 ↓                 ↓              ↓
-  Seovad N        Kasutavad N       Kasutavad N    Kasutavad N
-                  (palju!)          (palju!)       (palju!)
 
 Pärast liblikõielisi on mullas rohkem lämmastikku!
-```
 
 ---
 
@@ -72,28 +69,21 @@ Pärast liblikõielisi on mullas rohkem lämmastikku!
 
 ### 4-aastane rotatsioon (klassikaline)
 
-```
-Aasta 1: Liblikõielised (herned, oad) – seo lämmastikku
-    ↓
-Aasta 2: Maavitsalised (tomat, kartul, paprika) – kasuta N
-    ↓
-Aasta 3: Kapsalised (kapsas, lillkapsas) – kasuta N
-    ↓
-Aasta 4: Juurviljad + sibulad (porgand, peet, sibul) – vähe N
-    ↓
-(Aasta 5: jälle liblikõielised...)
+```mermaid
+flowchart TD
+    A["Aasta 1 – Liblikõielised\nherned, oad\n★ seo lämmastikku"] --> B["Aasta 2 – Maavitsalised\ntomat, kartul, paprika\nkasuta N"]
+    B --> C["Aasta 3 – Kapsalised\nkapsas, lillkapsas\nkasuta N"]
+    C --> D["Aasta 4 – Juurviljad + sibulad\nporgand, peet, sibul\nvähe N"]
+    D --> A
 ```
 
 ### 3-aastane rotatsioon (lihtsustatud)
 
-```
-Aasta 1: Lehtkultuurid + liblikõielised (salat, herned, oad, kapsas)
-    ↓
-Aasta 2: Viljataimed (tomat, kurk, paprika, kõrvits)
-    ↓
-Aasta 3: Juurviljad + sibulad (porgand, peet, sibul, küüslauk)
-    ↓
-(Aasta 4: jälle lehtkultuurid...)
+```mermaid
+flowchart TD
+    A["Aasta 1 – Lehtkultuurid + liblikõielised\nsalat, herned, oad, kapsas"] --> B["Aasta 2 – Viljataimed\ntomat, kurk, paprika, kõrvits"]
+    B --> C["Aasta 3 – Juurviljad + sibulad\nporgand, peet, sibul, küüslauk"]
+    C --> A
 ```
 
 ---
@@ -162,8 +152,9 @@ Kartul on kõige probleemsem:
 - Vajab vähemalt **4 aasta pausi**
 
 **Hea järgnevus:**
-```
-Kartul → Liblikõielised → Kapsalised → Juurviljad → (Kartul)
+```mermaid
+flowchart LR
+    A[Kartul] --> B[Liblikõielised] --> C[Kapsalised] --> D[Juurviljad] --> A
 ```
 
 ### Küüslauk
