@@ -17,6 +17,7 @@ aiapidamine/
 ├── kahjurid-ja-haigused.md      # Kahjurite ja haiguste koondtabel
 ├── kulvikorrad-ja-rotatsioon.md # Külvikorra põhimõtted ja planeerimine
 ├── seemnete-kogumine.md         # Seemnete kogumine ja säilitamine
+├── kastmine-ja-veemajandus.md   # Kastmine, vihmavee kogumine, tilkkastmine
 ├── köögiviljad/
 │   └── köögiviljade-plaan.md    # Peamine köögiviljade fail (~1500 rida)
 ├── tomatid/

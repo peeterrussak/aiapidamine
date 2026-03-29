@@ -56,6 +56,7 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [kulvikorrad-ja-rotatsioon.md](kulvikorrad-ja-rotatsioon.md) | Külvikorra põhimõtted ja planeerimine |
 | [seemnete-kogumine.md](seemnete-kogumine.md) | Seemnete kogumine ja säilitamine |
 | [säilitamine-ja-hoiustamine.md](säilitamine-ja-hoiustamine.md) | Saagi säilitamine (külmutamine, kuivatamine, hapendamine) |
+| [kastmine-ja-veemajandus.md](kastmine-ja-veemajandus.md) | Kastmine, vihmavee kogumine, gravitatsiooniga tilkkastmine |
 | [varustus-ja-toeriistad.md](varustus-ja-toeriistad.md) | Tööriistad, varustus ja ligikaudsed kulud |
 
 ## 2026 plaan
