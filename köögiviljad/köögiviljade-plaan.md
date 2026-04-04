@@ -100,7 +100,7 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiroh
 │  80 cm   │◄──60cm──►◄──60cm──►◄──60cm──►◄──60cm──►◄──60cm──►│  50 cm │
 └─────────────────────────────────────────────────────────────────┘
          ↑                                                    ↑
-    Basiilikus                                           Peiulill
+    Basiilik                                           Peiulill
     tomatite vahel                                       servades
 ```
 
@@ -108,7 +108,7 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiroh
 
 | Kaaslane | Kasu | Kuhu istutada |
 |----------|------|---------------|
-| **Basiilikus** | Peletab lehetäisid, parandab maitset | Tomatite vahele |
+| **Basiilik** | Peletab lehetäisid, parandab maitset | Tomatite vahele |
 | **Peiulill (Tagetes)** | Peletab kahjureid, nematoodid | Peenra servad |
 | **Porgand** | Kobestab mulda | Tomatite vahel (kui ruumi) |
 | **Petersell** | Meelitab kasulikke putukaid | Servad |
@@ -1180,7 +1180,7 @@ Maitsetaimed on kasulikud kaaslaskultuurid – meelitavad tolmeldajaid, peletava
 
 | Maitsetaim | Koht | Märkused |
 |------------|------|----------|
-| **Basiilikus** | P2: tomatite vahel | 4–6 taime |
+| **Basiilik** | P2: tomatite vahel | 4–6 taime |
 | **Till** | P4: kurkide vahel | Puista laiali |
 | **Petersell** | P3: servad | 4–6 taime |
 | **Koriander** | Servad | Külva järelkülve |
@@ -1190,7 +1190,7 @@ Maitsetaimed on kasulikud kaaslaskultuurid – meelitavad tolmeldajaid, peletava
 
 | Tüüp | Maitsetaimed | Kasvukoht |
 |------|--------------|-----------|
-| Üheaastased | Basiilikus, till, koriander | Peenras kaaslastena |
+| Üheaastased | Basiilik, till, koriander | Peenras kaaslastena |
 | Kaheaastased | Petersell | Peenra servad |
 | Püsikud ⭐ | Pune, tüümian, salvei, leeskputk, murulauk | Eraldi ürdinurk |
 
@@ -1323,7 +1323,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | 1.–2. nädal | **Murulauk** | Istutamine/jagamine (püsik) |
 | 1.–2. nädal | **Pune** | Istutamine/jagamine (püsik) |
 | 2.–3. nädal | **Porgand** | **Otse peenrasse** (muld min 7°C) |
-| 2.–3. nädal | **Basiilikus** | Ettekasvatamine (soe, 20–22°C) |
+| 2.–3. nädal | **Basiilik** | Ettekasvatamine (soe, 20–22°C) |
 | 2.–3. nädal | **Petersell** | Ettekasvatamine (või mai otse) |
 | 2.–3. nädal | Tomat, füüsal | Ümber potimine suurematesse |
 | 2.–3. nädal | Salat | Esimene külv (otse või ettekasv.) |
@@ -1349,7 +1349,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | Nädal | Kultuur | Tegevus |
 |-------|---------|---------|
 | 1. nädal | Tomat, tšilli, füüsal | **Istutamine õue** (pärast öökülmi) |
-| 1. nädal | **Basiilikus** | **Istutamine õue** (tomatite vahele) |
+| 1. nädal | **Basiilik** | **Istutamine õue** (tomatite vahele) |
 | 1.–2. nädal | Kurk | **Istutamine õue** (soe muld, min 15°C) |
 | 1. nädal | Aedoad | Toe paigaldamine ronivatele |
 | 2. nädal | Till | Teine külv |
@@ -1462,8 +1462,8 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 | Kultuur | Head kaaslased |
 |---------|----------------|
-| Tomat | Basiilikus, porgand, petersell, peiulill, sibul |
-| Tšilli | Basiilikus, tomat, porgand |
+| Tomat | Basiilik, porgand, petersell, peiulill, sibul |
+| Tšilli | Basiilik, tomat, porgand |
 | Kurk | Herned, oad, till, salat, päevalill, redis |
 | Herned | Porgand, redis, salat, kurk, aedoad |
 | **Aedoad** | Kurk, porgand, salat, redis, tomat, herned |
@@ -1615,7 +1615,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | Tomat (proovida) | 'San Marzano 2' (ploomtomat), 'Ananass' (suur) | 1–2 pakki | P2 |
 | Tšilli | **'Jalapeño'** ⭐ | 1 pakk | P2 |
 | Füüsal | Ananassfüüsal / maafüüsal | 1 pakk | P2 |
-| Basiilikus | 'Genovese', 'Thai', 'Lemon' | 1–2 pakki | P2 |
+| Basiilik | 'Genovese', 'Thai', 'Lemon' | 1–2 pakki | P2 |
 | **P3: Herned + juurviljad** ||||
 | Herned | **'Looming'** ⭐, 'Kelvedon Wonder' ⭐, 'Ambassador' | 50–100 g | P3 |
 | Aedoad (roniv) | **'Blauhilde'** ⭐ (lilla), **'Neckargold'** ⭐ (kollane) | 50–100 g | P3 |

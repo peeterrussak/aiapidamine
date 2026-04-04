@@ -11,10 +11,10 @@ Maitsetaimed (ürdid) on kasulikud kaaslaskultuurid – meelitavad tolmeldajaid,
 
 | Variant | Sobib | Maitsetaimed |
 |---------|-------|--------------|
-| **Kaaslaskultuurina peenras** | Üheaastased, kaaslased | Basiilikus (tomatitega), till (kurkidega), koriander |
+| **Kaaslaskultuurina peenras** | Üheaastased, kaaslased | Basiilik (tomatitega), till (kurkidega), koriander |
 | **Peenra servades** | Kaheaastased, väiksemad püsikud | Petersell, murulauk |
 | **Eraldi ürdinurgas** ⭐ | Püsikud | Pune, tüümian, salvei, leeskputk |
-| **Kasvuhoones** | Ainult soojaarmastavad | Basiilikus (tomatite vahel) |
+| **Kasvuhoones** | Ainult soojaarmastavad | Basiilik (tomatite vahel) |
 
 **Soovitus:** Püsikuid **ära sega** üheaastaste peenardega – nad jäävad paigale ja segavad rotatsiooni!
 
@@ -22,7 +22,7 @@ Maitsetaimed (ürdid) on kasulikud kaaslaskultuurid – meelitavad tolmeldajaid,
 
 | Maitsetaim | Tüüp | Kasvukoht | Eripära |
 |------------|------|-----------|---------|
-| **Basiilikus** | Üheaastane | P2: tomatite vahel | Soojust armastav, külmatundlik |
+| **Basiilik** | Üheaastane | P2: tomatite vahel | Soojust armastav, külmatundlik |
 | **Till** | Üheaastane (isekülvav) | P4: kurkide vahel | Isekülvab, mesilaste lemmik |
 | **Koriander** | Üheaastane | Peenra servad | Kiire, lehed + seemned |
 | **Petersell** | Kaheaastane | Peenra servad | Talvitub, aeglane idanemine |
@@ -36,7 +36,7 @@ Maitsetaimed (ürdid) on kasulikud kaaslaskultuurid – meelitavad tolmeldajaid,
 
 ## Üheaastased maitsetaimed
 
-### Basiilikus
+### Basiilik
 
 **Tomat ja basiilik** on klassikaline kombinatsioon – nii aias kui köögis!
 
@@ -406,7 +406,7 @@ Kui ruumi pole, kasva maitsetaimi pottides terrassil või rõdul:
 
 | Maitsetaim | Poti suurus | Märkused |
 |------------|-------------|----------|
-| Basiilikus | 15–20 cm | Kasta regulaarselt! |
+| Basiilik | 15–20 cm | Kasta regulaarselt! |
 | Petersell | 20–25 cm | Sügav juur |
 | Pune | 25–30 cm | Levib, piira |
 | Tüümian | 15–20 cm | Väga sobiv potti |
@@ -460,16 +460,16 @@ ERALDI ÜRDINURK:
 | Kuu | Maitsetaim | Tegevus |
 |-----|------------|---------|
 | Märts–aprill | Petersell | Ettekasvatamine (või mai otse) |
-| Aprill | Basiilikus | Ettekasvatamine (soe, valgus) |
+| Aprill | Basiilik | Ettekasvatamine (soe, valgus) |
 | Aprill | Koriander | Esimene külv otse (järelkülvid iga 3 näd) |
 | Aprill–mai | Püsikud (pune, tüümian, salvei) | Istutamine / jagamine |
 | Mai | Petersell | Otse peenrasse (kui ette ei kasvatanud) |
 | Mai | Till | Esimene külv P4 kurkide vahele |
-| Juuni algus | Basiilikus | Istutamine õue (tomatite vahele) |
+| Juuni algus | Basiilik | Istutamine õue (tomatite vahele) |
 | Juuni | Till | Järelkülv |
 | Juuni–september | Kõik maitsetaimed | Regulaarne korjamine |
 | Juuli–august | Püsikud | Kuivatamiseks korjamine (enne õitsemist) |
-| September | Basiilikus, koriander | Kogu saak enne öökülmi |
+| September | Basiilik, koriander | Kogu saak enne öökülmi |
 | Oktoober | Püsikud | Viimane lõikus, ettevalmistus talveks |
 
 ---
@@ -478,7 +478,7 @@ ERALDI ÜRDINURK:
 
 | Maitsetaim | Värskelt | Kuivatamine | Külmutamine |
 |------------|----------|-------------|-------------|
-| Basiilikus | Vees klaasis, toasoojuses | Kaotab aroomi | Hakituna õliga (parim!) |
+| Basiilik | Vees klaasis, toasoojuses | Kaotab aroomi | Hakituna õliga (parim!) |
 | Petersell | Külmikus niiskes paberis | Hästi, säilib aasta | Hakituna (hea!) |
 | Pune ⭐ | Vees klaasis | **Suurepärane!** Kimp varjus kuivama | Võimalik |
 | Tüümian ⭐ | Külmikus | **Suurepärane!** Kimp varjus kuivama | Võimalik |
@@ -495,7 +495,7 @@ ERALDI ÜRDINURK:
 ## 2026 plaan
 
 **Kaaslaskultuurina peenras:**
-- Basiilikus – P2 tomatite vahel (4–6 taime)
+- Basiilik – P2 tomatite vahel (4–6 taime)
 - Till – P4 kurkide vahel (puista laiali)
 
 **Peenra servades:**

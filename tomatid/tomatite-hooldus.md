@@ -293,7 +293,7 @@ Kasvuhoones pole palju tolmeldajaid – aita kaasa:
 
 | Taim | Kasu |
 |------|------|
-| **Basiilikus** | Peletab lehetäisid, parandab maitset |
+| **Basiilik** | Peletab lehetäisid, parandab maitset |
 | **Porgand** | Kobestab mulda |
 | **Petersell** | Meelitab kasulikke putukaid |
 | **Peiulill (Tagetes)** | Peletab kahjureid, nematoodid |
