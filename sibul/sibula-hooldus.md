@@ -169,6 +169,34 @@ ISTUTUSSÜGAVUS:
 
 ---
 
+## 2026 märkmed
+
+**Sort:** 'Sturon' ⭐ (21/24 mm, 1 kg pakk)
+
+**Asukoht:** Peenar 3, **eelmise aasta hernekohal** (laugud P3-l 2025 ei olnud, seega külvikord on korras).
+
+**Paigutus:**
+- 3 m sektsioon (laiendatud 1,5 m → 3 m pärast porru ärajätmist)
+- 4 rida × 10 cm vahe reas
+- Mahutab ~120 istikut → ~80–180 istikut jääb üle (anti edasi / teisele peenrale)
+
+**⚠️ Kriitiline hoiatus – lämmastik:**
+
+Eelmise aasta herned (liblikõieline) jätsid juurtesse **maksimaalse lämmastikujäägi**. See on sibulale **halb**: liigne N → pikad lopsakad lehed, väikesed mugulad, hiline valmimine.
+
+**Mida sellega teha:**
+- ⚠️ **ÄRA lisa** komposti ega mistahes orgaanilist väetist sibula sektsiooni alla
+- Multš ainult ridade vahele, mitte sibulate peale
+- Kastmine mõõdukas – lase mullal kergelt kuivada, et pidurdada N vabanemist
+- Kui lehed suvel lopsakalt kasvavad – **pole haigus**, see on N-jääk; ära ravi kemikaalidega
+- Koristusaeg võib venida augustist septembrisse
+
+**Seotud otsused:**
+- Porru jäeti 2026 plaanist välja (taastada 2027)
+- Sibula ülejääk (pärast P3 täitmist) – otsustada istutamise järel
+
+---
+
 ## Aastaringne kalender
 
 | Kuu | Tegevus |

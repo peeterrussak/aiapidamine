@@ -51,6 +51,7 @@ Sisaldavad rohkem suhkrut – magusam maitse.
 |------|--------|-------------|---------|
 | **Ambassador** | 75–90 cm | Keskmine | Populaarne, hea maitse |
 | **Hurst Green Shaft** | 60–75 cm | Keskmine | Haiguskindel |
+| **Utrillo F1** ⭐ | 75 cm | Hiline (70–75 p) | F1 hübriid, hea maitse, saagikas, suurekaunaline, 8–10 tera kaunas – vajab kerget tuge |
 | **Alderman** | 150–180 cm | Hiline | Väga saagikas, vajab tugevat tuge |
 
 ### Suhkruherned (söödav kaun)
@@ -313,16 +314,41 @@ Herned (ja teised liblikõielised) seovad õhulämmastikku juuremügarate abil:
 
 ---
 
-## 2026 plaan
+## 2026 plaan – SORDIPROOV
 
-**Sordid:**
-- 'Looming' ⭐ (testitud, väga hea)
-- 'Kelvedon Wonder' ⭐ (proovida – varajane, kompaktne)
-- 'Ambassador' (proovida – magus)
+**Sordid** (5 × 25 g = 5 × 69 seemet = 345 seemet kokku):
 
-**Kogus:** 50–100 g seemneid
+| Sort | Tüüp | Kõrgus | Valmimisaeg | Tugi | Eesmärk |
+|------|------|--------|-------------|------|---------|
+| **Avola** | Koorimishernes | 50–60 cm | ~55 p (väga varajane) | Ei | Esimene saak ~5. juuni |
+| **Kelvedon Wonder** ⭐ | Koorimishernes | 45–60 cm | ~60 p (varajane) | Ei | Klassikaline proov |
+| **Looming** ⭐ | Eesti sort | ~60 cm | ~65 p (keskmine) | Ei | 2025 tippsort, jätkamine |
+| **Utrillo F1** | Ajuhernes | 75 cm | 70–75 p (hiline) | Kerge | Uus proov, suurekaunaline |
+| **Aamisepp** ⭐ | Eesti sort | ~200 cm | ~80 p (hiline) | Tugev (2 m) | 2025 testitud, kõrge kasv |
 
-**Koht:** Peenar 3 (koos ubade ja juurviljadega)
+**Strateegia:** igast sordist ~60 cm kaherealist, ~24 seemet. Kokku kasutuses ~120 seemet. Ülejäänud ~225 seemet → purki järgmiseks aastaks (säilib 3 a).
+
+**Kogus:** 5 × 25 g (ostetud)
+
+**Koht:** Peenar 3, **teine ots** võrreldes eelmise aastaga (rotatsiooni kompromiss – 2025 oli P3-l herned, seetõttu nihutame peenra vastasotsa juuremädaniku vältimiseks). Sibul läheb eelmise aasta hernekohale.
+
+**Ajajoon (külv ~11. aprill 2026):**
+
+| Sort | Saagi algus |
+|------|-------------|
+| Avola | ~5. juuni |
+| Kelvedon Wonder | ~10. juuni |
+| Looming | ~15. juuni |
+| Utrillo F1 | ~21.–26. juuni |
+| Aamisepp | ~1. juuli |
+
+**Kokku pidev saak ~5. juunist juuli keskpaigani (~6 nädalat).**
+
+**Tugistruktuur:**
+- Avola, Kelvedon Wonder, Looming – ei vaja tuge (paiknevad peenra ühes otsas)
+- Utrillo F1 – kerge tugi (oksad või madal võrk)
+- Aamisepp – tugev tugi (1,5–2 m võrk või nöör)
+- **Optimaalne paigutus:** madalad ühes otsas toetuseta, kõrgemad (Utrillo + Aamisepp) teises otsas koos tugistruktuuriga
 
 ---
 

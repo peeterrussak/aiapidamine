@@ -51,7 +51,7 @@
                               60 cm vahe
 ┌─────────────────────────────────────────────────────────────────┐
 │             PEENAR 3: HERNED + OAD + JUURVILJAD                 │
-│  Herned + aedoad + porgand + sibul + porru + (salatid pärast)   │
+│  Herned + aedoad + porgand + sibul + (salatid pärast)           │
 └─────────────────────────────────────────────────────────────────┘
                               60 cm vahe
 ┌─────────────────────────────────────────────────────────────────┐
@@ -140,17 +140,23 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiroh
 
 ## Peenar 3: Herned + Oad + Juurviljad
 
+> **⚠️ 2026 muudatused:**
+> - **Porru jäetakse 2026 ära** (sibula kogus 1 kg nõudis rohkem ruumi, porru taastatakse 2027)
+> - **Sibul laiendatud 1,5 m → 3 m** (4 rida × 10 cm, 'Sturon' 1 kg)
+> - **Rotatsioon P3 sees:** sibul läheb **eelmise aasta hernekohale** (juuremädaniku vältimiseks), herned peenra teise otsa
+> - **Herned = sordiproov** 5 sorti × 60 cm (Avola, Kelvedon Wonder, Looming, Utrillo F1, Aamisepp)
+> - **⚠️ Sibula sektsiooni EI väetata** – eelmise aasta herneste juurte jääk annab juba maksimaalse lämmastiku, ja liigne N → pikad lehed, väike muguel
+
 ### Kultuurid
 
 | Kultuur | Tüüp | Kogus/vahe | Märkused |
 |---------|------|------------|----------|
-| **Herned** | Põhi (kevad) | 2–3 m rida, 5–10 cm | Aprill külv, juulis valmis |
-| **Aedoad (roniv)** | Põhi (suvi) | 2 m rida, 10–15 cm | Mai külv, juuli–sept saak |
-| **Porgand** | Põhi (terve hooaeg) | 2–3 m, 4 rida | Aprill–okt, vt porgandi sektsioon |
-| **Sibul** | Põhi | 1,5 m, 2 rida | Aprill–august, vt laugude sektsioon |
-| **Porru** | Põhi | 1 m rida | Mai–november, vt laugude sektsioon |
+| **Herned** | Põhi (kevad) | 3 m rida, kaherealine 5 cm | Aprill külv, juunis–juulis valmis. 2026: sordiproov 5 × 60 cm |
+| **Aedoad (roniv)** | Põhi (suvi) | 2 m rida, 10–15 cm | Mai külv, juuli–sept saak. 2026: asukoht lahtine (vt "2026 ubade koht" all) |
+| **Porgand** | Põhi (terve hooaeg) | 2,5 m, 4 rida | Aprill–okt, vt porgandi sektsioon. Keskel, puhver sibula ja herneste vahel |
+| **Sibul** | Põhi | 3 m, 4 rida × 10 cm | Aprill–august, 'Sturon' 1 kg (2026 laiendatud) |
 | Salatid | Järelkülv | Pärast herneid | Juulist vabale alale |
-| Murulauk | Serv | Peenra otsad | Püsik, peletab kahjureid |
+| Murulauk | Serv | Peenra otsad (30 cm) | Püsik, peletab kahjureid |
 
 ### Oad
 
@@ -162,20 +168,27 @@ Sordid: Honeoye, Sonsation, Asia, Faith + kaaslaskultuurid (küüslauk, kurgiroh
 - **Saxa** ⭐ – madal, varajane, kiudevaba
 - **Jõgeva** ⭐ – põlduba, Eesti sort, külmakindel
 
-### Paigutus peenras (1 × 9 m)
+### Paigutus peenras (1 × 9 m) – 2026
 
 ```
-┌────┬────────────────┬────────────────┬─────────────────┬────┐
-│Muru│ HERNED + OAD   │    PORGAND     │  SIBUL + PORRU  │Muru│
-│lauk│ ~~~võrk~~~     │   ═══════      │   ○ ○ ○ ○ ○ ○   │lauk│
-│    │ H H H O O O O  │   ═══════      │   (sibul)       │    │
-│    │ (juulis valmis │   ═══════      │   ═══════════   │    │
-│    │  → salatid)    │   ═══════      │   (porru)       │    │
-│    │  ← 3 m →       │   ← 2,5 m →    │    ← 3 m →      │    │
-└────┴────────────────┴────────────────┴─────────────────┴────┘
- 30cm                                                     30cm
+Ots A (eelmise aasta hernekoht)           Ots B (teine ots)
+┌────┬───────────────────┬──────────────┬─────────────────────┬────┐
+│Muru│ SIBUL 'Sturon'    │   PORGAND    │ HERNED (sordiproov) │Muru│
+│lauk│ 4 rida × 10 cm    │  (puhver)    │ 5 × 60 cm           │lauk│
+│    │ ○ ○ ○ ○ ○ ○ ○ ○   │   ═══════    │ A|KW|Lo|Ut|Aa       │    │
+│    │ ○ ○ ○ ○ ○ ○ ○ ○   │   ═══════    │ . .  .  ~  ║        │    │
+│    │ ○ ○ ○ ○ ○ ○ ○ ○   │   ═══════    │ kaherealine 5 cm    │    │
+│    │ ○ ○ ○ ○ ○ ○ ○ ○   │   ═══════    │ (juulis salatid)    │    │
+│    │  ← 3 m →          │   ← 2,5 m →  │  ← 3 m →            │    │
+└────┴───────────────────┴──────────────┴─────────────────────┴────┘
+ 30cm                                                            30cm
 
-Pärast herneid (juuli): külva samale alale salatid või spinat!
+Hernesortide järjekord (valmimise järgi, ~60 cm sordile):
+  Avola (55 p) → Kelvedon Wonder (60 p) → Looming (65 p) →
+  Utrillo F1 (70–75 p, kerge tugi) → Aamisepp (~80 p, tugev tugi 2 m)
+
+⚠️ Sibula sektsiooni EI väeta 2026 – N-jääk eelmise aasta hernestest piisab.
+Pärast herneid (juuli): külva samale alale salatid või spinat.
 ```
 
 ### Miks see kombinatsioon töötab
@@ -193,10 +206,16 @@ Pärast herneid (juuli): külva samale alale salatid või spinat!
 
 **Testitud 2025:** Looming ⭐⭐⭐, Aamisepp ⭐⭐
 
-**2026 sordid:**
-- **Looming** ⭐ – madal, palju kaunu, Eesti sort
-- **Kelvedon Wonder** ⭐ – varajane, kompaktne
-- **Ambassador** – magus, hea maitse
+**2026 sordid – SORDIPROOV (5 × 25 g = 5 × 69 seemet):**
+- **Avola** – väga varajane (~55 p), koorimishernes, 50–60 cm, ei vaja tuge
+- **Kelvedon Wonder** ⭐ – varajane (~60 p), koorimishernes, 45–60 cm, ei vaja tuge
+- **Looming** ⭐ – keskmine (~65 p), madal (~60 cm), Eesti sort, testitud 2025
+- **Utrillo F1** – hiline (70–75 p), hea maitsega, 75 cm, **kerge tugi**, 8–10 tera kaunas, saagikas, suurekaunaline
+- **Aamisepp** ⭐ – hiline (~80 p), Eesti sort, ~2 m, **tugev tugi** vajalik
+
+**Strateegia:** igale sordile 60 cm kaherealist (24 seemet), kokku kasutuses 120 seemet. Ülejäänud ~225 seemet purki järgmiseks aastaks (säilib 3 a).
+
+**Ajasjaotus:** sordid külvatud samal päeval annavad pideva saagi ~5. juunist juuli keskpaigani (~6 nädalat).
 
 ### Herneste ja ubade võrdlus
 
@@ -212,19 +231,17 @@ Pärast herneid (juuli): külva samale alale salatid või spinat!
 
 | Kuu | Kultuur | Tegevus |
 |-----|---------|---------|
-| Aprill | Herned | **Külv otse peenrasse** (külmakindel) |
+| Aprill | Herned | **Külv otse peenrasse** – 2026 sordiproov 5 × 60 cm |
 | Aprill | Porgand | **Külv otse peenrasse** (muld min 7°C) |
-| Aprill | Sibul | **Istikute istutamine** |
-| Mai | Porru | **Istutamine** (istikud 15 cm sügavusse) |
-| Mai keskpaik | **Aedoad** | **Külv otse peenrasse** (pärast öökülma ohtu) |
+| Aprill | Sibul | **Istikute istutamine** – 2026: 'Sturon' 1 kg, 3 m, 4 rida × 10 cm |
+| Mai keskpaik | **Aedoad** | **Külv otse peenrasse** (pärast öökülma ohtu) – 2026 asukoht lahtine |
 | Juuni | Aedoad | Toe paigaldamine ronivatele |
-| Juuni | Herned | Saagi algus, regulaarne korjamine |
-| Juuli | Herned | Saak lõpeb, **jäta juured mulda** → külva salatid! |
+| Juuni | Herned | Saagi algus (Avola ~5. juuni), regulaarne korjamine |
+| Juuli | Herned | Saak lõpeb (Aamisepp viimane), **jäta juured mulda** → külva salatid! |
 | Juuli | Aedoad | **Saagi algus** (ronivad ja madalad) |
 | Juuli–sept | Aedoad | Korjamine iga 2–3 päeva |
-| August | Sibul | **Koristamine**, kuivatamine |
+| August | Sibul | **Koristamine**, kuivatamine (kui lämmastiku tõttu hilineb, võib venida septembrisse) |
 | Sept–okt | Porgand | **Koristamine** |
-| Sept–nov | Porru | **Koristamine** vastavalt vajadusele |
 
 ---
 
@@ -865,26 +882,30 @@ VARIANT B: Eraldi ala peenras 4
 
 ### Laukude kalender
 
+> **⚠️ 2026:** porru jäetakse ära (taastatakse 2027). Märtsi ettekasvatamine ja mai istutamine ei ole 2026 plaanis.
+
 | Kuu | Tegevus |
 |-----|---------|
-| Märts | Porru ettekasvatuse algus |
+| Märts | Porru ettekasvatuse algus *(2026: vahele jäetud)* |
 | Aprill | Pesasibulate istutamine, murulaugu istutamine/jagamine |
-| Mai | Porru istutamine õue |
+| Mai | Porru istutamine õue *(2026: vahele jäetud)* |
 | Juuni–august | Murulaugu korjamine, sibulate hooldus |
 | August | Talvesibula külv (järgmise aasta saagiks) |
 | August–sept | Sibulate koristamine, kuivatamine |
-| Sept–nov | Porru koristamine |
+| Sept–nov | Porru koristamine *(2026: ei kohaldu)* |
 
 ### Sordid
 
 **2025 kogemus:** ⚠️ 'Stuttgarter' segusort ei kasvanud hästi – proovi 2026 teist sorti!
 
+**2026 valik:** **'Sturon'** (21/24 mm, 1 kg) – istutatud eelmise aasta hernekohale P3-l.
+
 | Kultuur | Sordid Eestis | Märkused |
 |---------|---------------|----------|
-| Pesasibul | **'Sturon'** ⭐, **'Hercules'** ⭐, 'Cupido' | Kõik hea säilivusega, proovi neid! |
+| Pesasibul | **'Sturon'** ⭐ (2026 valik), **'Hercules'** ⭐, 'Cupido' | Kõik hea säilivusega |
 | Pesasibul | 'Stuttgarter Riesen' | ⚠️ 2025 ei toiminud, väldi |
 | Külvisibul | 'Stuttgarter', 'Ailsa Craig' | Seemnest, pikem hooaeg |
-| Porru | 'Hannibal', 'Carentan', 'Musselburgh' | Talvekindlad sordid |
+| Porru | 'Hannibal', 'Carentan', 'Musselburgh' | Talvekindlad sordid (2026 ei kasvata) |
 | Murulauk | Tavaline aiamurulauk | Sageli naabri käest |
 | Talvesibul | 'Senshyu Yellow' | Sügisel istutamiseks |
 
@@ -1146,14 +1167,15 @@ Spinat on kiire saagiga lehtköögivili, mis sobib eriti kevadeks ja sügiseks �
 Lehtviljad sobivad suurepäraselt **Peenrasse 3** järelkülviks pärast herneid (juulist):
 
 ```
-PEENAR 3 – SUVI/SÜGIS (pärast herneid)
+PEENAR 3 – SUVI/SÜGIS (pärast herneid) – 2026
 ┌─────────────────────────────────────────────────────────────────┐
-│ Spinat │ Lehtpeet │  (porru jääb) │ Lehtkapsas │ Salatid │
-│ (külv  │ (juuni   │               │ (juuli     │ (külv   │
-│ aug)   │  külv)   │               │  istutus)  │  juuli) │
+│ Spinat │ Lehtpeet │  Sügissalat  │ Lehtkapsas │ Salatid │
+│ (külv  │ (juuni   │  (august)    │ (juuli     │ (külv   │
+│ aug)   │  külv)   │              │  istutus)  │  juuli) │
 └─────────────────────────────────────────────────────────────────┘
          ↑                                        ↑
     herneste alale                         herneste alale
+(2026: porru jäetud ära – vaba ala lehtviljadele)
 ```
 
 ### Lehtviljad – võrdlustabel
@@ -1306,7 +1328,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | Nädal | Kultuur | Tegevus |
 |-------|---------|---------|
 | 1. nädal | **Kartul 'Solist'** | **Eelidandamine** (turbamullas, valge, <20°C) |
-| 1.–2. nädal | **Porru** | Ettekasvatuse algus (külvikasti) |
+| 1.–2. nädal | ~~Porru~~ | *(2026 vahele jäetud)* |
 | 2.–3. nädal | Tomat | Külv, 20–22°C |
 | 2.–3. nädal | Füüsal | Külv (nagu tomat) |
 | 3. nädal | Kartul | Tõsta jahedamasse, lase juurduda |
@@ -1316,10 +1338,10 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 | Nädal | Kultuur | Tegevus |
 |-------|---------|---------|
-| 1.–2. nädal | Herned | **Otse peenrasse** (kui maa sulanud) |
+| 1.–2. nädal | Herned | **Otse peenrasse** (kui maa sulanud) – 2026: sordiproov 5 × 60 cm |
 | 1.–2. nädal | Spinat | Otse peenrasse |
 | 1.–2. nädal | Redis | Otse peenrasse |
-| 1.–2. nädal | **Pesasibul** | **Istutamine** (istikud mulda) |
+| 1.–2. nädal | **Pesasibul** | **Istutamine** (istikud mulda) – 2026: 'Sturon' 1 kg, 3 m sektsioon |
 | 1.–2. nädal | **Murulauk** | Istutamine/jagamine (püsik) |
 | 1.–2. nädal | **Pune** | Istutamine/jagamine (püsik) |
 | 2.–3. nädal | **Porgand** | **Otse peenrasse** (muld min 7°C) |
@@ -1339,8 +1361,8 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | 1. nädal | Till | Esimene külv otse peenrasse |
 | 1. nädal | Porgand | Teine külv (hilisem saak) |
 | 2. nädal | Salat | Teine külv |
-| 2.–3. nädal | **Aedoad** | **Otse peenrasse** (muld min 12°C, öökülmad möödas) |
-| 2.–3. nädal | **Porru** | **Istutamine õue** (15 cm sügavusse) |
+| 2.–3. nädal | **Aedoad** | **Otse peenrasse** (muld min 12°C, öökülmad möödas) – 2026 asukoht lahtine |
+| 2.–3. nädal | ~~Porru~~ | *(2026 vahele jäetud)* |
 | 2.–3. nädal | Kõik istikud | **Karastamine** (päevaks õue, ööks sisse) |
 | 3.–4. nädal | Päevalill | Istutamine õue |
 
@@ -1503,7 +1525,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 ### Märts
 
 - [ ] **Kartuli 'Solist' eelidandamine** (1. nädal) – turbamullas, valge, <20°C
-- [ ] **Porru ettekasvatuse algus** (1.–2. nädal)
+- [ ] ~~Porru ettekasvatuse algus~~ *(2026 vahele jäetud)*
 - [ ] Tomatite ja füüsale külv (2.–3. nädal)
 - [ ] Kartul jahedamasse, lase juurduda (3. nädal)
 - [ ] Tšilli ümberpotimine (4. nädal)
@@ -1513,9 +1535,9 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 ### Aprill
 
-- [ ] Herneste külv otse peenrasse (1.–2. nädal) → P3
+- [ ] Herneste külv otse peenrasse (1.–2. nädal) → P3 – **2026: sordiproov 5 × 60 cm** (Avola, KW, Looming, Utrillo, Aamisepp)
 - [ ] **Porgandi külv** otse peenrasse (2.–3. nädal) → P3
-- [ ] **Pesasibulate istutamine** (1.–2. nädal) → P3
+- [ ] **Pesasibulate istutamine** (1.–2. nädal) → P3 – **2026: 'Sturon' 1 kg**, 3 m, 4 rida × 10 cm, eelmise aasta hernekohal, ⚠️ **EI VÄETA**
 - [ ] Kartuli maa ettevalmistamine: must kile + katteloor (3. nädal)
 - [ ] **Kartuli 'Solist' mahapanék** (4. nädal / mai algus) – 10 cm, 30 cm vahe
 - [ ] **Murulaugu istutamine/jagamine** (1.–2. nädal) → P3 servad
@@ -1533,8 +1555,8 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 - [ ] Kurgi ja **kõrvitsaliste ettekasvatamine** (1. nädal) → P4
 - [ ] Tilli esimene külv (otse) → P4
 - [ ] Porgandi teine külv (hilisem saak) → P3
-- [ ] **Aedubade külv** otse peenrasse (2.–3. nädal) → P3
-- [ ] **Porru istutamine õue** (2.–3. nädal) → P3
+- [ ] **Aedubade külv** otse peenrasse (2.–3. nädal) → P3 – **2026: asukoht otsustada** (herned võtavad kogu 3 m sektsiooni)
+- [ ] ~~Porru istutamine õue~~ *(2026 vahele jäetud)*
 - [ ] Salatite teine külv
 - [ ] Istikute karastamine (2.–3. nädal)
 - [ ] Päevalillede istutamine → P4
@@ -1577,7 +1599,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 - [ ] Tomatite lõplik koristamine (enne öökülmi) → P2
 - [ ] Tšilli ja füüsale koristamine → P2
 - [ ] Basiiliku koristamine enne külmi → P2
-- [ ] Porru koristamise algus → P3
+- [ ] ~~Porru koristamise algus~~ *(2026 ei kohaldu)*
 - [ ] Porgandite koristamine → P3
 - [ ] Viimased kurgid ja kõrvitsad enne öökülmi → P4
 - [ ] Komposti valmistamine (saagikoristuse jäägid)
@@ -1586,7 +1608,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 ### Oktoober
 
 - [ ] Viimaste viljade koristamine
-- [ ] Porru koristamine jätkub
+- [ ] ~~Porru koristamine jätkub~~ *(2026 ei kohaldu)*
 - [ ] Haljasväetise kasvamine / niitmine
 - [ ] Peenarde ettevalmistamine talveks
 - [ ] Komposti lisamine (kui on)
@@ -1596,7 +1618,7 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 
 ### November
 
-- [ ] Viimaste külmakindlate kultuuride koristamine (porru, kapsas)
+- [ ] Viimaste külmakindlate kultuuride koristamine (kapsas) *(2026: porru ei kasvata)*
 - [ ] Peenarde lõplik multšimine
 - [ ] Tööriistade puhastamine ja hoiustamine
 - [ ] Hooaja kokkuvõtte tegemine (mis toimis, mis mitte)
@@ -1617,13 +1639,13 @@ Kõrvitsalised on soojust armastavad kultuurid, mis vajavad pikka kasvuperioodi 
 | Füüsal | Ananassfüüsal / maafüüsal | 1 pakk | P2 |
 | Basiilik | 'Genovese', 'Thai', 'Lemon' | 1–2 pakki | P2 |
 | **P3: Herned + juurviljad** ||||
-| Herned | **'Looming'** ⭐, 'Kelvedon Wonder' ⭐, 'Ambassador' | 50–100 g | P3 |
+| Herned | **'Looming'** ⭐, 'Kelvedon Wonder', 'Avola', **'Utrillo F1'**, 'Aamisepp' | 5 × 25 g (2026 sordiproov) | P3 |
 | Aedoad (roniv) | **'Blauhilde'** ⭐ (lilla), **'Neckargold'** ⭐ (kollane) | 50–100 g | P3 |
 | Aedoad (madal) | **'Saxa'** ⭐, 'Delinel', 'Purple Teepee' | 50–100 g | P3 |
 | Põlduba | **'Jõgeva'** ⭐ (Eesti sort, kindel valik) | 100–200 g | P3 |
 | Porgand | 'Naomi', 'Jerada F1' (testitud 2025) | 2–3 pakki | P3 |
-| Pesasibul | **'Sturon'** ⭐ või **'Hercules'** (proovida!) | 0,5–1 kg istikuid | P3 |
-| Porru | 'Hannibal', 'Carentan' | 1–2 pakki | P3 |
+| Pesasibul | **'Sturon'** ⭐ (2026 valik, ostetud 1 kg / 21–24 mm) | 0,5–1 kg istikuid | P3 |
+| Porru | 'Hannibal', 'Carentan' | *(2026 ei osteta)* | ~~P3~~ |
 | Murulauk | Tavaline aiamurulauk | Istik/taim | P3 serv |
 | Salat | Segu (lehtsalat, lollo, tammeleheline) | 2–3 pakki | P3 järelkülv |
 | Spinat | 'Matador', 'Bloomsdale' | 1 pakk | P3 järelkülv |
@@ -1883,5 +1905,6 @@ Meelita need aeda ja nad aitavad kahjureid kontrolli all hoida:
 - (Solist, saak, jaanipäevaks?)
 
 **MUUD:**
-- (Porru, füüsal, porgand, arbuus)
+- (Füüsal, porgand, arbuus)
+- Porru 2026 ei kasvata (ruum sibulale, taastada 2027)
 

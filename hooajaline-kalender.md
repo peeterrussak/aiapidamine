@@ -21,15 +21,33 @@ Rõngu, Lõuna-Eesti (külmavöönd ~6a)
 
 ---
 
-## ⏰ Veebruar 2026 – mis nüüd teha?
+## ⚠️ 2026 erandid üldisest kalendrist
+
+Järgnevad 2026 hooaja-spetsiifilised muudatused. Üldise kalendri ridades on porru (märts, mai, sept–nov), aga see EI KOHALDU 2026-l.
+
+| Muudatus | Põhjus | Taastamine |
+|---|---|---|
+| **Porru ära jäetud** | Sibul 'Sturon' 1 kg nõudis 3 m ruumi P3-l | 2027 |
+| **Sibul 1,5 m → 3 m** | 1 kg istikud vajavad rohkem ruumi | – |
+| **Sibul eelmise aasta hernekohal** | Juuremädaniku vältimiseks herneste külvikord P3 sees | – |
+| **Herned sordiproov 5 × 60 cm** | Avola, Kelvedon Wonder, Looming, Utrillo F1, Aamisepp | – |
+| **⚠️ Sibula sektsiooni ei väetata** | Eelmise aasta herneste N-jääk piisav, liigne N → pikad lehed, väike muguel | – |
+
+Vaata detailset plaani: [köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md#peenar-3-herned--oad--juurviljad)
+
+---
+
+## ⏰ Aprill 2026 – mis nüüd teha?
 
 | # | Tegevus | Viide |
 |---|---------|-------|
-| 1 | Tšilli külv (kui jaanuaris ei teinud) – 22–25°C | [Veebruar](#veebruar) |
-| 2 | Õunapuude põhilõikus (enne mahla liikumist!) | [Veebruar](#veebruar) |
-| 3 | Kartulimugulate hankimine ('Solist') | [Veebruar](#veebruar) |
-| 4 | Sibulaistikute hankimine ('Sturon' / 'Hercules') | [Veebruar](#veebruar) |
-| 5 | Ettekasvatuse varustuse lõplik kontroll | [Veebruar](#veebruar) |
+| 1 | **Pesasibul 'Sturon' istutamine** – P3 eelmise aasta hernekohal, 3 m, 4 rida × 10 cm, ⚠️ **EI väeta** | [Aprill](#aprill) |
+| 2 | **Herneste sordiproov külv** – P3 teises otsas, 5 × 60 cm (Avola, KW, Looming, Utrillo F1, Aamisepp), leota seemned 12–24 h | [Aprill](#aprill) |
+| 3 | Porgandi külv (3.–4. nädal, muld min 7°C) | [Aprill](#aprill) |
+| 4 | Spinati, redise, salati külv | [Aprill](#aprill) |
+| 5 | Murulaugu, pune istutamine/jagamine | [Aprill](#aprill) |
+| 6 | Kartuli 'Solist' maa ettevalmistamine (3. nädal) | [Aprill](#aprill) |
+| 7 | Tomatite/füüsale ümberpotimine | [Aprill](#aprill) |
 
 > ℹ️ See sektsioon näitab jooksva kuu olulisemaid töid. Uuenda iga kuu alguses.
 
