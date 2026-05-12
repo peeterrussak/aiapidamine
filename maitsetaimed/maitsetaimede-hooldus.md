@@ -344,6 +344,56 @@ Püsikud tasub koondada **eraldi ürdinurka** – nii ei sega nad peenarde rotat
 
 ---
 
+## Kaaslaskultuurid (kahjuritõrje ja tolmeldajate meelitamine)
+
+Need ei ole maitsetaimed klassikalises mõttes, kuid kuuluvad aia "tööriistakasti" — istutatakse köögiviljade vahele.
+
+### Peiulill (Tagetes)
+
+Peiulill on aia üks **tähtsamaid kahjuritõrjetaimi** — juurte eritised vähendavad mullas elavate **nematoodide** (juureniidikute) hulka, lehed peletavad **lehetäisid** ja **valgekärbseid**, õied meelitavad **kasulikke putukaid** (kiletiivalised, kiilid).
+
+**Sordid:**
+
+| Sort | Kõrgus | Õie värv | Märkused |
+|------|--------|----------|----------|
+| **'Valencia'** ⭐ | madal (20–30 cm) | oranžkollane | Külvatud 02.04.2026, idanenud 07.04. Sobib peenra serva ja peenra sisse |
+| **Tagetes patula** (väike-peiulill) | 20–40 cm | kollane/oranž/punakas | Klassikaline kaaslaskultuur |
+| **Tagetes erecta** (suur-peiulill) | 60–100 cm | kollane/oranž | Lõikelilleks ka |
+| **Tagetes tenuifolia** (peen-peiulill) | 20–30 cm | väikesed kollased | Söödavad õied, sidruniline lõhn |
+
+**Ettekasvatamine:**
+
+| Tegevus | Aeg | Märkused |
+|---------|-----|----------|
+| Külv külvikasti | Märts lõpp – aprill algus | Toas, 18–22°C |
+| Idanemine | 5–10 päeva | Kiire, lihtne |
+| Ümberistutamine | Mai lõpp – juuni | Pärast öökülmade ohtu |
+
+**Külv otse avamaale:** võimalik mai keskpaigast (kui muld 12°C+), kuid hilisem õitsemine.
+
+**Istutamine:**
+
+- **Peenra servale** — moodustab kaitsetara
+- **Tomatite, paprika, baklažaani vahele** (P2, kasvuhoone) — peletab lehetäisid
+- **Maasikate juurde** (P1) — vähendab nematoode
+- **Kõrvitsaliste juurde** (P4) — kahjuritõrje
+- Vahe: 20–30 cm
+
+**Hooldus:**
+
+| Tegevus | Juhis |
+|---------|-------|
+| Kastmine | Mõõdukas — talub kuivust |
+| Väetamine | Pole vaja (liigne lämmastik = vähem õisi) |
+| Õitsevate sortide tagasilõikus | Eemalda närbunud õisi → uued tulevad |
+| Seemnete kogumine | Augustis-septembris (kuivad õienupud) |
+
+**Hooaja lõpp:** Sügisel kaeva taimed sisse mulla (juurte eritised mõjuvad veel järgmise aasta kahjuritele) — looduslik mullaparandus.
+
+**⚠️ Hea teada:** Peiulill **ei talu öökülma** — kõige hiljem 1. juuniks avamaale istutada. Kasvuhoones võib varem.
+
+---
+
 ## Ürdinurga planeerimine
 
 Püsikud tasub koondada **eraldi ürdinurka** – nii ei sega nad peenarde rotatsiooni ja on mugav hooldada.

@@ -19,6 +19,8 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 |------|-----------|
 | [aiapidamine-2026.md](aiapidamine-2026.md) | 2026 logipidamine |
 | [hooajaline-kalender.md](hooajaline-kalender.md) | Aastaringne tööde kalender kuude kaupa |
+| [peenarde-plaan-2026.md](peenarde-plaan-2026.md) | 2026 hooaja kuukaupa tegevuskava peenarde kaupa |
+| [ettekasvatamise-kalender.md](ettekasvatamise-kalender.md) | Aastaringne ettekasvatamise kalender (külv, ümberpotimine, otsekülv) |
 | [köögiviljad/köögiviljade-plaan.md](köögiviljad/köögiviljade-plaan.md) | Köögiviljade kasvatamise põhiplaan, rotatsioon, sordid |
 | [kasvuhoone/kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md) | Kasvuhoone kultuurid (kurk, tomat, arbuus) |
 | [arbuus/arbuusi-hooldus.md](arbuus/arbuusi-hooldus.md) | Arbuusi kasvatamine kasvuhoones (käsitsi tolmeldamine, 'Sugar Baby') |
@@ -36,7 +38,8 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 | [porgand/porgandi-hooldus.md](porgand/porgandi-hooldus.md) | Porgandi kasvatamine (külv, harvendamine, porgandikärbes) |
 | [sibul/sibula-hooldus.md](sibul/sibula-hooldus.md) | Sibula kasvatamine (pesasibul, sordid Sturon/Hercules) |
 | [porru/porru-hooldus.md](porru/porru-hooldus.md) | Porru kasvatamine (ettekasvatamine märtsis, talvikindlad sordid) |
-| [maitsetaimed/maitsetaimede-hooldus.md](maitsetaimed/maitsetaimede-hooldus.md) | Maitsetaimed (basiilik, till, petersell, pune, tüümian, salvei) |
+| [maitsetaimed/maitsetaimede-hooldus.md](maitsetaimed/maitsetaimede-hooldus.md) | Maitsetaimed (basiilik, till, petersell, pune, tüümian, salvei, peiulill) |
+| [karulauk/karulaugu-hooldus.md](karulauk/karulaugu-hooldus.md) | Karulauk 'Ramson' (mitmeaastane, varjuline kasvukoht) |
 | [rabarber/rabarberi-hooldus.md](rabarber/rabarberi-hooldus.md) | Rabarberi hooldus (sordid, korjamine, jagamine) |
 
 ### Marjad ja puuviljad
@@ -70,11 +73,14 @@ Eestikeelne teadmusbaas kaevamisvaba aia pidamiseks Eesti kliimas.
 ### Peenrad
 
 ```
-P1: Maasikad + küüslauk + kurgirohi
+P1: Maasikad + kurgirohi
 P2: Maavitsalised (tomat, tšilli, füüsal)
-P3: Liblikõielised + juurviljad (herned, oad, porgand, sibul, porru)
+    [TODO kinnita: baklažaan/paprika P2-l või kasvuhoones? Karulauk/murulauk peenra servas?]
+P3: Liblikõielised + juurviljad (herned, oad, porgand, sibul) — porru naaseb 2027
 P4: Kõrvitsalised (kurk, suvikõrvits, patisson)
 ```
+
+**Küüslauk on kaaslaskultuurina hajutatud kõigil 4 peenral** (ja kasvuhoones) teiste kultuuride vahel — peamine eesmärk on **kahjuritõrje** (tigud, lehetäid). 2026: P3-l kõrvuti Eesti kohaliku ja Lyubasha sortide eksperiment, vt [küüslaugu-hooldus.md](küüslauk/küüslaugu-hooldus.md#eksperiment-2026-lyubasha-vs-eesti-kohalik).
 
 ### Kasvuhoone
 
@@ -112,3 +118,20 @@ P4: Kõrvitsalised (kurk, suvikõrvits, patisson)
 | Hernes | 'Looming', 'Aamisepp' |
 | Kurk | 'Suyu Long' (KH), 'Andrus' (avamaa) |
 | Küüslauk | Eesti sort |
+
+## Sordiproovid 2026 (tulemused sügisel)
+
+Uued sordid, mis 2026 hooajal kõrvuti olemasolevate kontrollsortidega proovile pannakse.
+
+| Kultuur | Põhisort (kontroll) | Proov 2026 | Märkused |
+|---------|---------------------|------------|----------|
+| Küüslauk | Eesti kohalik | 'Lyubasha' | Vt [eksperimendi raam](küüslauk/küüslaugu-hooldus.md#eksperiment-2026-lyubasha-vs-eesti-kohalik) |
+| Hernes | 'Looming', 'Aamisepp' | 'Avola', 'Kelvedon Wonder', 'Utrillo' | 5 sorti samaaegselt |
+| Aeduba | – | 'Maxi' | Esimene proov |
+| Põlduba | – | 'Helbi' | Esimene proov |
+| Tomat | 'Malle', 'Pille' | Sigulda süda, Noku, Apelsinikollane, Sweet Million, Tutti Frutti | 5 uut "Vanaema aed" sorti |
+| Tšilli/paprika | – | 8 tšilli + Pullisarv paprika | Vt [kasvuhoone-plaan.md](kasvuhoone/kasvuhoone-plaan.md) |
+| Baklažaan | – | 'Black Beauty' | Esimene proov kasvuhoones |
+| Karulauk | – | 'Ramson' | Mitmeaastane, esimene saak 2028+ |
+
+**Tulemused** kantakse sügisel vastavate kultuuri-failide "Märkmed" sektsiooni ja [aiapidamine-2026.md](aiapidamine-2026.md) logifaili.

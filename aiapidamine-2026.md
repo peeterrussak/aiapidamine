@@ -1,5 +1,13 @@
 # AIAPIDAMISE LOGI 2026
 
+> **Sissekande mall** (kasuta uutel kirjetel ühtset stiili):
+> ```markdown
+> ### DD.MM (peenar / ala)
+> - Tegevus 1
+> - Tegevus 2
+> - Märkused: ilm, probleemid, eksperimendid
+> ```
+
 ## MÄRTS
 
 ### 21 märts
@@ -64,7 +72,7 @@ pere vaieldamatu lemmik.
 
 ### 11APRILL
 - Panin maha 3. peenrale
-    - sibulad "Sturgeon"  
+    - sibulad "Sturon"
     - Herned: "Avola", "Kelvedon Wonder", "Looming", "Utrillo", "Aamisepp"
     - keskele lähevad kuu lõpus porgandid
 
@@ -82,3 +90,30 @@ Click and Grow sisse:
 - 5 päeva on väga soe olnud ja rohelus ronib maa seest massiliselt. Esiemsed võililled on lahti ja muru kutsub niitma.
 - Esimesed sibulad ja herned on lõpuks ninad välja pistnud.
 - Külvasin aedoad "Maxi" ja põldoad "Helbi" peenar nr 4 peale, kartulite kõrvale.
+
+## MAI
+
+### 12.05 (ülevaade — kasutaja täita)
+
+<!-- Vihjeid hooajaliselt-kalendri järgi mai 2. nädalal toimuvateks tegevusteks:
+     - Tomatite karastamine kasvuhoonesse istutamiseks (mai 15–20)
+     - Porgandi külv P3-le (kui muld ≥8°C)
+     - Esimeste herneste tugede paigaldamine
+     - Maasikatest peakottide hooldus, kahjurite kontroll
+     - Kasvuhoone tomatite ettevalmistus (muld, tugi, tilkkastmine) -->
+
+**Peenarde seis:**
+- P1 (maasikad + küüslauk): <!-- TODO -->
+- P2 (maavitsalised): <!-- TODO -->
+- P3 (liblikõielised + juurviljad): <!-- TODO — herned + sibulad on logis 05.05 idandunud, kuidas nüüd? -->
+- P4 (kõrvitsalised): <!-- TODO — aedoad ja põldoad 05.05 külvatud, kuidas nüüd? -->
+
+**Eelmise nädala töö (06.05–12.05):**
+- <!-- TODO: külvid, istutamised, karastamine, kastmine -->
+
+**Lähinädala plaan (13.05–19.05):**
+- <!-- TODO: kasvuhoone tomatite istutamine, kui maa on +12°C? -->
+
+**Ilm/märkused:**
+- <!-- TODO: temperatuur, sademed, öökülmade oht -->
+

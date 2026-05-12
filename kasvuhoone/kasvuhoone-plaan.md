@@ -261,6 +261,7 @@ Paprika vajab pikka sooja hooaega (120–150 päeva), mistõttu Eestis annab kas
 | **California Wonder** | punane/roheline | 150–200 g | keskmine | Klassika, suur vili |
 | **Bendigo F1** | oranž → punane | 200–250 g | keskmine | Väga magus, haiguskindel |
 | **Topepo Rosso** | punane | 80–100 g | varajane | Tomatikujuline, sobib täitmiseks |
+| **Pullisarv** ⭐ | roheline → kollane | – | keskmine | Itaalia pärandsort 'Corno di Toro Giallo', viljad 18–20 cm pikad, koonused, paks mahlane viljaliha, magus-aromaatne. **Külvatud 2026 (3 taime)**. Avamaal ei pruugi valmida. |
 
 **Ettekasvatamine:**
 
@@ -304,6 +305,23 @@ Tšilli vajab veelgi pikemat hooaega kui paprika (140–180 päeva). Kasvuhoones
 
 **⚠️ SHU** = Scoville Heat Units (tugevusmõõt). Jalapeño on hea kesktee – tunda, aga söödav.
 
+#### 2026 sordiproov (külvatud 02.04 ja 07.04)
+
+8 erinevat tšilli/jalapeño sorti, igaüks 3 taime — saagikuse ja maitsekirjelduste võrdlus sügisel.
+
+| Sort | Tüüp | Allikas | Eeldatav SHU | Märkused |
+|------|------|---------|--------------|----------|
+| **Hardi must** | Jalapeño | – | ~3 000–8 000 | Tume vili |
+| **Kontori varajane** | Jalapeño | – | ~3 000–8 000 | Varajane valmimine |
+| **Kontori** | Jalapeño | – | ~3 000–8 000 | – |
+| **Steni kollane bhut yolokia** | Super-hot | – | 800 000+ | ⚠️ Väga kuum! |
+| **Kollane aji habanero** | Habanero tüüp | Vanaema aed 2024 (Mehhiko päritolu) | 100 000–350 000 | Vili 5–7 cm, koonus, roheline → kollane → oranžkollane |
+| **Urmase pikk** | Tšilli | 2018 | – | – |
+| **Peetri pikk ja mõnus** | Tšilli | – | – | Nime järgi pigem leebe |
+| **Urmase kole scorpion** | Super-hot scorpion | – | 1 000 000+ | ⚠️ Äärmiselt kuum, ettevaatust käsitlemisel! |
+
+**Hindamine sügisel:** saagikus (vilja arv/taime kohta), valmimisaeg, käsitlemise turvalisus, kasutusvõimalus (kuivatamine, marineerimine). Tulemused → [aiapidamine-2026.md](../aiapidamine-2026.md).
+
 **Ettekasvatamine:**
 
 | Tegevus | Aeg | Märkused |
@@ -337,7 +355,7 @@ Baklažaan (*Solanum melongena*) on maavitsaline nagu tomat ja paprika, kuid vaj
 
 | Sort | Vilja kuju | Vilja värv | Valmimisaeg | Märkused |
 |------|------------|------------|-------------|----------|
-| **Black Beauty** ⭐ | ovaalne, suur | tumelihla | 75–90 p | Klassika, kindel valik |
+| **Black Beauty** ⭐ | ovaalne, suur | tumelihla | 75–90 p | Klassika, kindel valik. **2026: 3 taime (külvatud 02.04)**. |
 | **Violetta Lunga** | pikk, kitsas | tumelihla | 70–85 p | Itaalia sort, hea maitse |
 | **Rosa Bianca** | ümar, suur | roosa-valge | 80–90 p | Kreemjas, pehme maitse |
 | **Listada de Gandia** | ovaalne | triibuline | 80–90 p | Ilus! Leebemagus |
@@ -838,6 +856,34 @@ LAETROSSI SÜSTEEM
 - [ ] Kahjurid/haigused:
 - [ ] Mis töötas hästi?
 - [ ] Mida muuta 2027?
+
+---
+
+## Click and Grow (sisekasvatuse seade)
+
+Click and Grow on sisesendi automatiseeritud kasvatusseade — kasutatakse paralleelselt kasvuhoone ettekasvatamisega väikese hulga taimede jaoks (eriti varased tomatid, maitsetaimed).
+
+**2026 kasutus:**
+
+| Kultuur | Sort | Külvatud | Märkused |
+|---------|------|----------|----------|
+| Tomat | 'Terma' | 12.04 | Eesti madalakasvuline, ülivarajane (90–95 päeva) |
+| Tomat | 'Maike' | 12.04 | Madalakasvuline, varajane, "laisa inimese tomat" |
+
+**Eelised:**
+- Automaatne valgus + kastmine — ei pea iga päev jälgima
+- Kiirem ja ühtlasem idanemine kui aknalaual
+- Sobib **ülivaraseks** ettekasvatamiseks (jaanuar–märts), kui kasvuhoone on veel külm
+
+**Piirangud:**
+- Vähe kohti (sõltub mudelist, tavaliselt 3–9 pesa)
+- Kasvuruum piiratud — taim pikemaks saades vajab ümberistutamist
+- Sobib **madalakasvulistele** sortidele või eraldi ettekasvatuse etappi
+
+**Soovitused:**
+- Kasuta esimeseks 4–6 nädalaks, siis ümberistuta pottidesse
+- Eelista varajaseid madalakasvulisi tomatisorte (Terma, Maike, Mato)
+- Maitsetaimed (basiilik, petersell) sobivad seal ka **kasvama lõpuni**
 
 ---
 

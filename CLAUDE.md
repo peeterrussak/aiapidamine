@@ -11,6 +11,8 @@ See on eestikeelne aiapidamise teadmusbaas kaevamisvaba (no-dig) aia jaoks Eesti
 ```
 aiapidamine/
 ├── hooajaline-kalender.md       # Aastaringne tööde kalender kuude kaupa
+├── ettekasvatamise-kalender.md  # Aastaringne ettekasvatamise ajagraafik
+├── peenarde-plaan-2026.md       # 2026 kuukaupa peenarde tegevuskava
 ├── säilitamine-ja-hoiustamine.md # Saagi säilitamine ja talveks ettevalmistamine
 ├── varustus-ja-toeriistad.md    # Tööriistad, varustus ja kulud
 ├── muld-ja-vaetamine.md         # Muld, kompost, väetised kaevamisvabas aias
@@ -39,7 +41,9 @@ aiapidamine/
 ├── porru/
 │   └── porru-hooldus.md         # Porru kasvatamine (ettekasvatamine, talvikindlad)
 ├── maitsetaimed/
-│   └── maitsetaimede-hooldus.md # Maitsetaimed (basiilik, till, pune, salvei jt)
+│   └── maitsetaimede-hooldus.md # Maitsetaimed (basiilik, till, pune, salvei, peiulill jt)
+├── karulauk/
+│   └── karulaugu-hooldus.md     # Karulaugu hooldus ('Ramson', mitmeaastane, varjuline)
 ├── rabarber/
 │   └── rabarberi-hooldus.md     # Rabarberi hooldus (sordid, korjamine, jagamine)
 ├── maasikad/
@@ -77,10 +81,12 @@ aiapidamine/
 
 | Peenar | Kultuurid |
 |--------|-----------|
-| P1 | Maasikad + küüslauk + kurgirohi |
-| P2 | Maavitsalised (tomat, tšilli, füüsal) |
-| P3 | Liblikõielised + juurviljad (herned, oad, porgand, sibul, porru) |
+| P1 | Maasikad + kurgirohi |
+| P2 | Maavitsalised (tomat, tšilli, füüsal) <!-- TODO kinnita: kas baklažaan/paprika on P2-l või kasvuhoones? Kas karulauk/murulauk P2 servas? --> |
+| P3 | Liblikõielised + juurviljad (herned, oad, porgand, sibul) — porru naaseb 2027 |
 | P4 | Kõrvitsalised (kurk, suvikõrvits, patisson) |
+
+**Küüslauk** on kaaslaskultuurina **hajutatud kõigil 4 peenral** (ja kasvuhoones) teiste kultuuride vahel — peamine eesmärk **kahjuritõrje** (tigud, lehetäid jt). Mitte eraldi reas. 2026 eksperiment: Eesti kohalik + Lyubasha kõrvuti P3-l, vt `küüslauk/küüslaugu-hooldus.md`.
 
 **Eraldi alad:**
 - Kasvuhoone (kurk 'Suyu Long', tomatid, arbuus)
@@ -125,6 +131,20 @@ Kasuta korrektseid eestikeelseid botaanilisi termineid:
 - **Sibul:** 'Stuttgarter' segusort ei kasvanud → proovi 'Sturon' või 'Hercules'
 - **Tomat:** Viinamarjatüüpi sordid ei toiminud
 - **Arbuus:** Avamaal riskantne → kasvuhoonesse
+
+### Sordiproovid 2026 (tulemused sügisel)
+
+| Kultuur | Põhisord | Proov 2026 |
+|---------|----------|------------|
+| Küüslauk | Eesti kohalik | 'Lyubasha' (poest) |
+| Hernes | 'Looming', 'Aamisepp' | 'Avola', 'Kelvedon Wonder', 'Utrillo' |
+| Aeduba | – | 'Maxi' |
+| Põlduba | – | 'Helbi' |
+| Tomat (uued KH) | 'Malle', 'Pille' | Sigulda süda, Noku, Apelsinikollane, Sweet Million, Tutti Frutti |
+| Tšilli (kasvuhoone) | – | 8 sorti (Hardi must, Kontori jt) |
+| Paprika (kasvuhoone) | – | 'Pullisarv' (Corno di Toro Giallo) |
+| Baklažaan (kasvuhoone) | – | 'Black Beauty' |
+| Karulauk (mitmeaastane) | – | 'Ramson' |
 
 ## Failide redigeerimine
 

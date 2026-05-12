@@ -340,6 +340,66 @@ Küüslauk on suurepärane kaaslane maasikale:
 
 ---
 
+## Eksperiment 2026: Lyubasha vs Eesti kohalik
+
+29.03.2026 istutati 3. peenrasse poest ostetud **Lyubasha** küüslaugud **koos** sügisel istutatud Eesti kohaliku sordiga — eesmärk võrrelda **suuruse ja maitse erinevusi**. 03.05 jaotati ülejäänud küüslaugud (Eesti kohalik) ka teiste peenarde ja kasvuhoone peale laiali.
+
+### Üldine paigutusprintsiip
+
+**Kohalik Eesti sort** on **hajutatud kõigil 4 peenral ja kasvuhoones** teiste kultuuride vahel (sh maasikate vahel) — see on **kahjuritõrje kaaslaskultuur**, mis peletab eelkõige tigusid ja teisi kahjureid.
+
+**Lyubasha** on **ainult P3-l** (kevadistutus 29.03.2026) — visuaalselt eristatav kohalikust sordist, märgistamist ei vaja.
+
+```
+Küüslaugu paigutus 2026:
+P1 (maasikad):       kohalik ─ kohalik ─ kohalik ─ ...    (tigude tõrje!)
+P2 (maavitsalised):  kohalik ─ kohalik ─ ...              (lehetäide tõrje)
+P3 (liblikõielised): kohalik + Lyubasha (eksperiment)
+P4 (kõrvitsalised):  kohalik ─ kohalik ─ ...              (kahjurite tõrje)
+Kasvuhoone:          kohalik (03.05 istutamine)
+```
+
+### Sordid
+
+| Sort | Päritolu | Istutus | Asukoht 2026 |
+|------|----------|---------|--------------|
+| **Eesti kohalik** | Oma küüntest (eelmise aasta saagist), sügis 2025 + 03.05 ümberjaotus | Üks kord sügisel + täiendus mais | P1, P2, P3, P4, kasvuhoone (hajutatult) |
+| **Lyubasha** | Ukraina päritolu, poest ostetud küüned | 29.03.2026 (kevadistutus küüntest) | **Ainult P3** |
+
+Mõlemad sordid on istutatud **küüntest** (mitte seemnetest) — küüslauk paljundatakse vegetatiivselt sibula küünt mulda pannes.
+
+**Eristamine:** kuna Lyubasha kasvab eraldi peenral (P3) ja kohalikust visuaalselt erinev, eraldamine **toimub automaatselt** — märgistamist pole vaja.
+
+### Mida mõõdame
+
+Kasutaja huvi: **suurus ja maitse**.
+
+| Kategooria | Mõõdik | Kuidas |
+|------------|--------|--------|
+| **Suurus** | Sibulapea keskmine kaal | Kaal grammides (vähemalt 5 pead/sort) |
+| **Suurus** | Küünte arv pesa kohta | Loendamine koristamisel |
+| **Suurus** | Küüne keskmine kaal | Kaalumine eraldi |
+| **Maitse** | Pere hinnang värskelt | 1–5 skaalal, ainsuse degusteerimine |
+| **Maitse** | Terav vs mahe | Vaba kirjeldus |
+
+### Otsuse punkt
+
+<!-- TODO: täita sina — millal/mille põhjal otsustad, kas Lyubasha tuleb 2027 hooajaks edasi? Näide:
+     "Augusti lõpus koristamise järel, kui Lyubasha pea kaal on vähemalt sama suur (±10%) JA maitse pere arvates parem või võrdne, jätan Lyubasha 2027-ks. Kui kohalik on selgelt parem, jätan ainult kohaliku." -->
+
+### Tulemused (täita sügisel pärast koristamist)
+
+| Mõõdik | Eesti kohalik | Lyubasha | Märkused |
+|--------|---------------|----------|----------|
+| Koristuskuupäev | – | – | – |
+| Sibulapea keskmine kaal | – | – | – |
+| Küünte arv pesa kohta | – | – | – |
+| Maitse (pere hinnang 1–5) | – | – | – |
+| Säilivus (kuud) | – | – | – |
+| **Otsus 2027-ks** | – | – | – |
+
+---
+
 ## Märkmed
 
 ### 2025 hooaeg

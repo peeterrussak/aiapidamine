@@ -71,6 +71,20 @@ Madalakasvulised ja varajased sordid – valmivad enne sügisvihmade ja lehemäd
 | S. Pierre | Kõrgekasvuline | Prantsuse päritolu, aromaatne |
 | Zuckertraube | Kokteiltomat | Saksa, magusad pisikesed |
 
+### Sordiproovid 2026 (külvatud 02.04 ja 07.04)
+
+Uued sordid, mis 2026 hooajal proovi võetud – peamiselt "Vanaema aed" päritolu.
+
+| Sort | Tüüp | Vilja kaal | Eripära | Sihtpaik |
+|------|------|------------|---------|----------|
+| **Sigulda süda** | Kõrgekasvuline | suur | Kollane südamekujuline lihatomat, väga saagikas ja maitsev | Kasvuhoone |
+| **Noku** ('Casanova') | Kõrgekasvuline | keskmine | Vene päritolu (2017), tihe viljaliha, vähe seemneid, säilitamis- ja marineerimiskindel, lõhenemiskindel | Kasvuhoone |
+| **Apelsinikollane** | Poolkõrge (~150 cm) | 180–200 g | Oranž lihatomat, suus sulav, pere lemmik | Kasvuhoone |
+| **Sweet Million** | Kirsstomat, kõrge | väike | Pikad kobarad | Kasvuhoone |
+| **Tutti Frutti** | Kirsstomat, indeterminate | väike | Pikad kobarad | Kasvuhoone |
+
+**Hinda sügisel:** saagikus, maitse, haiguskindlus. Kanna tulemused [aiapidamine-2026.md](../aiapidamine-2026.md) sügississekandesse ja vali, kes 2027-ks edasi läheb.
+
 ---
 
 ## Ettekasvatamine
